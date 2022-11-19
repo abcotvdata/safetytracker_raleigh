@@ -3,16 +3,21 @@ library(tidycensus)
 library(leaflet)
 library(leaflet.extras)
 library(leaflet.providers)
-library(sp)
 library(sf)
 
 # GEOGRAPHY
-# Get Durham police beats
-download.file("https://live-durhamnc.opendata.arcgis.com/datasets/police-beats/explore?location=36.001650%2C-78.883300%2C11.63",
-              "data/source/geo/durham_police_beats.geojson")
+# Get Raleigh police districts/beats
+download.file("https://services.arcgis.com/v400IkDOw1ad7Yad/arcgis/rest/services/Raleigh_Police_Districts/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson",
+              "data/source/geo/raleigh_police_districts.geojson")
 
 # Read in geojson and then transform to sf format
-beats_geo <- st_read("data/source/geo/durham_police_beats.geojson") %>% st_transform(3857)
+districts_geo <- st_read("data/source/geo/raleigh_police_districts.geojson") %>% st_transform(3857)
+
+districts_geo <- districts_geo %>% 
+  group_by(DISTRICT) %>%
+  summarise(geometry = sf::st_union(geometry)) %>%
+  ungroup()
+
 
 # Get demographic data for Census block groups to aggregate/apportion to precinct geography
 # Also transforming to match the planar projection of NYPD's beats spatial file
@@ -21,8 +26,8 @@ blocks <- get_decennial(geography = "block",
                         year = 2020,
                         output = 'wide',
                         variables = "P1_001N", 
-                        state = "CA",
-                        county = c("Alameda"),
+                        state = "NC",
+                        county = c("Wake"),
                         geometry = TRUE) %>%
   rename("population"="P1_001N") %>% 
   select(3) %>%
@@ -31,42 +36,47 @@ blocks <- get_decennial(geography = "block",
 
 # Calculate the estimated population of police BEATS geographies/interpolate with tidycensus bgs
 # Reminder: ext=true SUMS the population during interpolation
-beats_withpop <- st_interpolate_aw(blocks, beats_geo, ext = TRUE)
+districts_withpop <- st_interpolate_aw(blocks, districts_geo, ext = TRUE)
 # Drops geometry so it's not duplicated in the merge
-beats_withpop <- st_drop_geometry(beats_withpop)
+districts_withpop <- st_drop_geometry(districts_withpop)
 # Binds that new population column to the table
-beats_geo <- cbind(beats_geo,beats_withpop)
+districts_geo <- cbind(districts_geo,districts_withpop)
 # Cleans up unneeded calculation file
-# rm(beats_withpop, blocks)
+# rm(districts_withpop, blocks)
 
 # Check total population assigned/estimated across all precincts
-sum(beats_geo$population) # tally is 453321 
+sum(districts_geo$population) # tally is 453321 
 
 # Round the population figure; rounded to nearest thousand
-beats_geo$population <- round(beats_geo$population,-3)
+districts_geo$population <- round(districts_geo$population,-3)
 # Prep for tracker use
-beats_geo <- beats_geo %>% st_transform(4326)
-beats_geo <- st_make_valid(beats_geo)
-beats_geo <- beats_geo %>% select(4,6,10,17,18)
-names(beats_geo) <- c("beat","district","beat_number","population","geometry")
+districts_geo <- districts_geo %>% st_transform(4326)
+districts_geo <- st_make_valid(districts_geo) %>% janitor::clean_names()
+
+# Quick define of the areas 
+districts_geo$placename <- case_when(districts_geo$district == "D1"~ "eastern Durham",
+                                     districts_geo$district == "D2"~ "northern Durham",
+                                     districts_geo$district == "D3"~ "western and southwestern Durham",
+                                     districts_geo$district == "D4"~ "southern Durham",
+                                     districts_geo$district == "D5"~ "central Durham and downtown")
 
 # saving a clean geojson and separate RDS for use in tracker
-file.remove("data/output/geo/oakland_beats.geojson")
-st_write(beats_geo,"data/output/geo/oakland_beats.geojson")
-# saveRDS(beats_geo,"scripts/rds/oakland_beats.rds")
+file.remove("data/output/geo/raleigh_districts.geojson")
+st_write(districts_geo,"data/output/geo/raleigh_districts.geojson")
+saveRDS(districts_geo,"scripts/rds/raleigh_districts.rds")
 
 # BEAT MAP JUST FOR TESTING PURPOSES
 # CAN COMMENT OUT ONCE FINALIZED
 # Set bins for beats pop map
-popbins <- c(0,1000, 10000,25000,50000,100000, Inf)
-poppal <- colorBin("YlOrRd", beats_geo$population, bins = popbins)
-poplabel <- paste(sep = "<br>", beats_geo$beat,prettyNum(beats_geo$population, big.mark = ","))
+popbins <- c(0,20000,40000,50000,60000,100000, Inf)
+poppal <- colorBin("YlOrRd", districts_geo$population, bins = popbins)
+poplabel <- paste(sep = "<br>", districts_geo$beat,prettyNum(districts_geo$population, big.mark = ","))
 
-oakland_beats_map <- leaflet(beats_geo) %>%
-  setView(-122.25, 37.8, zoom = 11.5) %>% 
+raleigh_districts_map <- leaflet(districts_geo) %>%
+  setView(-78.63, 35.77, zoom = 11.5) %>% 
   addProviderTiles(provider = "Esri.WorldImagery") %>%
   addProviderTiles(provider = "Stamen.TonerLabels") %>%
-  addPolygons(color = "white", popup = poplabel, weight = 1, smoothFactor = 0.5,
+  addPolygons(color = "white", popup = poplabel, weight = 2, smoothFactor = 0.5,
               opacity = 0.5, fillOpacity = 0.3,
               fillColor = ~poppal(`population`))
-oakland_beats_map
+raleigh_districts_map
