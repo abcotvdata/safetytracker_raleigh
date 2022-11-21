@@ -6,6 +6,7 @@
 .RData
 *.Rproj
 .DS_Store
+raleigh_crime.csv
 
 # User-specific files
 .Ruserdata

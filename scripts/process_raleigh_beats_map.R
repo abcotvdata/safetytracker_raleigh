@@ -18,7 +18,6 @@ districts_geo <- districts_geo %>%
   summarise(geometry = sf::st_union(geometry)) %>%
   ungroup()
 
-
 # Get demographic data for Census block groups to aggregate/apportion to precinct geography
 # Also transforming to match the planar projection of NYPD's beats spatial file
 # This also reduces us down to just the numeric population est and geometry
@@ -54,11 +53,22 @@ districts_geo <- districts_geo %>% st_transform(4326)
 districts_geo <- st_make_valid(districts_geo) %>% janitor::clean_names()
 
 # Quick define of the areas 
-districts_geo$placename <- case_when(districts_geo$district == "D1"~ "eastern Durham",
-                                     districts_geo$district == "D2"~ "northern Durham",
-                                     districts_geo$district == "D3"~ "western and southwestern Durham",
-                                     districts_geo$district == "D4"~ "southern Durham",
-                                     districts_geo$district == "D5"~ "central Durham and downtown")
+districts_geo$placename <- case_when(districts_geo$district == "DTD"~ "eastern Durham",
+                                     districts_geo$district == "NED"~ "northern Durham",
+                                     districts_geo$district == "NOD"~ "western and southwestern Durham",
+                                     districts_geo$district == "NWD"~ "southern Durham",
+                                     districts_geo$district == "SED"~ "central Durham and downtown",
+                                     districts_geo$district == "SWD"~ "central Durham and downtown",
+                                     TRUE ~ "Unknown")
+
+# Quick define of the areas 
+districts_geo$district_name <- case_when(districts_geo$district == "DTD"~ "Downtown",
+                                     districts_geo$district == "NED"~ "Northeast",
+                                     districts_geo$district == "NOD"~ "North",
+                                     districts_geo$district == "NWD"~ "Northwest",
+                                     districts_geo$district == "SED"~ "Southeast",
+                                     districts_geo$district == "SWD"~ "Southwest",
+                                     TRUE ~ "Unknown")
 
 # saving a clean geojson and separate RDS for use in tracker
 file.remove("data/output/geo/raleigh_districts.geojson")
