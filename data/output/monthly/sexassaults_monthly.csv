@@ -1,6 +1,13 @@
 category,month,count,rollavg_3month
-Sexual Assault,2015-01-01,19,NA
-Sexual Assault,2015-02-01,7,NA
+Sexual Assault,2014-06-01,15,NA
+Sexual Assault,2014-07-01,15,NA
+Sexual Assault,2014-08-01,8,13
+Sexual Assault,2014-09-01,13,12
+Sexual Assault,2014-10-01,12,11
+Sexual Assault,2014-11-01,9,11
+Sexual Assault,2014-12-01,14,12
+Sexual Assault,2015-01-01,19,14
+Sexual Assault,2015-02-01,7,13
 Sexual Assault,2015-03-01,19,15
 Sexual Assault,2015-04-01,11,12
 Sexual Assault,2015-05-01,9,13

@@ -214,7 +214,7 @@ citywide_type$rate_prior3years <- round(citywide_type$avg_prior3years/raleigh_po
 
 # MERGE WITH BEATS GEOGRAPHY AND POPULATION
 # Geography and populations processed separately in 
-districts <- st_read("data/source/geo/raleigh_districts.geojson")
+districts <- st_read("data/output/geo/raleigh_districts.geojson")
 
 # we need these unique lists for making the beat tables below
 # this ensures that we get crime details for beats even with zero
@@ -255,7 +255,7 @@ district_detailed$inc_19tolast12 <- round(district_detailed$last12mos/district_d
 district_detailed$inc_21tolast12 <- round(district_detailed$last12mos/district_detailed$total21*100-100,1)
 district_detailed$inc_prior3yearavgtolast12 <- round((district_detailed$last12mos/district_detailed$avg_prior3years)*100-100,0)
 # add population for beats
-district_detailed <- full_join(districts,district_detailed,by=c("district"="district"))
+district_detailed <- full_join(districts,district_detailed,by=c("district_name"="district"))
 # calculate the beat by beat rates PER 1K people
 district_detailed$rate19 <- round(district_detailed$total19/district_detailed$population*100000,1)
 district_detailed$rate20 <- round(district_detailed$total20/district_detailed$population*100000,1)
@@ -299,7 +299,7 @@ district_category$inc_19tolast12 <- round(district_category$last12mos/district_c
 district_category$inc_21tolast12 <- round(district_category$last12mos/district_category$total21*100-100,1)
 district_category$inc_prior3yearavgtolast12 <- round((district_category$last12mos/district_category$avg_prior3years)*100-100,0)
 # add population for beats
-district_category <- full_join(districts,district_category,by=c("district"="district"))
+district_category <- full_join(districts,district_category,by=c("district_name"="district"))
 # calculate the beat by beat rates PER 1K people
 district_category$rate19 <- round(district_category$total19/district_category$population*100000,1)
 district_category$rate20 <- round(district_category$total20/district_category$population*100000,1)
@@ -343,7 +343,7 @@ district_type$inc_19tolast12 <- round(district_type$last12mos/district_type$tota
 district_type$inc_21tolast12 <- round(district_type$last12mos/district_type$total21*100-100,1)
 district_type$inc_prior3yearavgtolast12 <- round((district_type$last12mos/district_type$avg_prior3years)*100-100,0)
 # add population for beats
-district_type <- full_join(districts,district_type,by=c("district"="district"))
+district_type <- full_join(districts,district_type,by=c("district_name"="district"))
 # calculate the beat by beat rates PER 1K people
 district_type$rate19 <- round(district_type$total19/district_type$population*100000,1)
 district_type$rate20 <- round(district_type$total20/district_type$population*100000,1)

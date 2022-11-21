@@ -351,7 +351,7 @@ durham_murder_map <- leaflet(murders_district, options = leafletOptions(zoomCont
   htmlwidgets::onRender("function(el, x) {
 L.control.zoom({ position: 'topright' }).addTo(this)
 }") %>%
-  setView(-78.89, 35.99, zoom = 11.5) %>% 
+  setView(-78.65, 35.79, zoom = 11.5) %>% 
   addProviderTiles(provider = "CartoDB.Positron") %>%
   addPolygons(color = "white", 
               popup = murderlabel,

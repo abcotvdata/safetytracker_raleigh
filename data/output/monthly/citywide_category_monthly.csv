@@ -1,7 +1,14 @@
 category,month,count,rollavg_3month
-Aggravated Assault,2015-01-01,73,NA
-Aggravated Assault,2015-02-01,53,NA
-Aggravated Assault,2015-03-01,74,67
+Aggravated Assault,2014-06-01,65,NA
+Aggravated Assault,2014-07-01,92,NA
+Aggravated Assault,2014-08-01,68,75
+Aggravated Assault,2014-09-01,72,77
+Aggravated Assault,2014-10-01,67,69
+Aggravated Assault,2014-11-01,42,60
+Aggravated Assault,2014-12-01,73,61
+Aggravated Assault,2015-01-01,76,64
+Aggravated Assault,2015-02-01,53,67
+Aggravated Assault,2015-03-01,74,68
 Aggravated Assault,2015-04-01,68,65
 Aggravated Assault,2015-05-01,98,80
 Aggravated Assault,2015-06-01,90,85
@@ -94,8 +101,15 @@ Aggravated Assault,2022-08-01,92,102
 Aggravated Assault,2022-09-01,84,91
 Aggravated Assault,2022-10-01,119,98
 Aggravated Assault,2022-11-01,63,89
-Burglary,2015-01-01,174,NA
-Burglary,2015-02-01,131,NA
+Burglary,2014-06-01,185,NA
+Burglary,2014-07-01,213,NA
+Burglary,2014-08-01,221,206
+Burglary,2014-09-01,210,215
+Burglary,2014-10-01,207,213
+Burglary,2014-11-01,215,211
+Burglary,2014-12-01,243,222
+Burglary,2015-01-01,174,211
+Burglary,2015-02-01,131,183
 Burglary,2015-03-01,124,143
 Burglary,2015-04-01,194,150
 Burglary,2015-05-01,178,165
@@ -189,9 +203,16 @@ Burglary,2022-08-01,95,98
 Burglary,2022-09-01,82,94
 Burglary,2022-10-01,93,90
 Burglary,2022-11-01,60,78
-Motor Vehicle Theft,2015-01-01,56,NA
-Motor Vehicle Theft,2015-02-01,51,NA
-Motor Vehicle Theft,2015-03-01,62,56
+Motor Vehicle Theft,2014-06-01,82,NA
+Motor Vehicle Theft,2014-07-01,91,NA
+Motor Vehicle Theft,2014-08-01,81,85
+Motor Vehicle Theft,2014-09-01,66,79
+Motor Vehicle Theft,2014-10-01,57,68
+Motor Vehicle Theft,2014-11-01,83,69
+Motor Vehicle Theft,2014-12-01,87,76
+Motor Vehicle Theft,2015-01-01,57,76
+Motor Vehicle Theft,2015-02-01,51,65
+Motor Vehicle Theft,2015-03-01,62,57
 Motor Vehicle Theft,2015-04-01,75,63
 Motor Vehicle Theft,2015-05-01,64,67
 Motor Vehicle Theft,2015-06-01,90,76
@@ -284,8 +305,14 @@ Motor Vehicle Theft,2022-08-01,134,109
 Motor Vehicle Theft,2022-09-01,122,114
 Motor Vehicle Theft,2022-10-01,114,123
 Motor Vehicle Theft,2022-11-01,62,99
-Murder,2015-03-01,1,NA
-Murder,2015-04-01,2,NA
+Murder,2014-06-01,2,NA
+Murder,2014-07-01,2,NA
+Murder,2014-08-01,1,2
+Murder,2014-09-01,1,1
+Murder,2014-10-01,1,1
+Murder,2014-12-01,1,1
+Murder,2015-03-01,1,1
+Murder,2015-04-01,2,1
 Murder,2015-05-01,1,1
 Murder,2015-06-01,2,2
 Murder,2015-07-01,1,1
@@ -365,9 +392,16 @@ Murder,2022-08-01,3,3
 Murder,2022-09-01,6,4
 Murder,2022-10-01,2,4
 Murder,2022-11-01,3,4
-Other/Unknown,2015-01-01,3315,NA
-Other/Unknown,2015-02-01,2834,NA
-Other/Unknown,2015-03-01,3491,3213
+Other/Unknown,2014-06-01,2812,NA
+Other/Unknown,2014-07-01,2879,NA
+Other/Unknown,2014-08-01,2984,2892
+Other/Unknown,2014-09-01,2985,2949
+Other/Unknown,2014-10-01,3527,3165
+Other/Unknown,2014-11-01,3122,3211
+Other/Unknown,2014-12-01,3169,3273
+Other/Unknown,2015-01-01,3352,3214
+Other/Unknown,2015-02-01,2834,3118
+Other/Unknown,2015-03-01,3491,3226
 Other/Unknown,2015-04-01,3445,3257
 Other/Unknown,2015-05-01,3543,3493
 Other/Unknown,2015-06-01,3246,3411
@@ -460,8 +494,15 @@ Other/Unknown,2022-08-01,3165,3269
 Other/Unknown,2022-09-01,3093,3209
 Other/Unknown,2022-10-01,3213,3157
 Other/Unknown,2022-11-01,1947,2751
-Robbery,2015-01-01,88,NA
-Robbery,2015-02-01,35,NA
+Robbery,2014-06-01,69,NA
+Robbery,2014-07-01,67,NA
+Robbery,2014-08-01,65,67
+Robbery,2014-09-01,46,59
+Robbery,2014-10-01,50,54
+Robbery,2014-11-01,73,56
+Robbery,2014-12-01,96,73
+Robbery,2015-01-01,88,86
+Robbery,2015-02-01,35,73
 Robbery,2015-03-01,59,61
 Robbery,2015-04-01,43,46
 Robbery,2015-05-01,58,53
@@ -555,8 +596,15 @@ Robbery,2022-08-01,41,41
 Robbery,2022-09-01,24,35
 Robbery,2022-10-01,44,36
 Robbery,2022-11-01,23,30
-Sexual Assault,2015-01-01,19,NA
-Sexual Assault,2015-02-01,7,NA
+Sexual Assault,2014-06-01,15,NA
+Sexual Assault,2014-07-01,15,NA
+Sexual Assault,2014-08-01,8,13
+Sexual Assault,2014-09-01,13,12
+Sexual Assault,2014-10-01,12,11
+Sexual Assault,2014-11-01,9,11
+Sexual Assault,2014-12-01,14,12
+Sexual Assault,2015-01-01,19,14
+Sexual Assault,2015-02-01,7,13
 Sexual Assault,2015-03-01,19,15
 Sexual Assault,2015-04-01,11,12
 Sexual Assault,2015-05-01,9,13
@@ -650,9 +698,16 @@ Sexual Assault,2022-08-01,33,38
 Sexual Assault,2022-09-01,48,42
 Sexual Assault,2022-10-01,39,40
 Sexual Assault,2022-11-01,19,35
-Theft,2015-01-01,680,NA
-Theft,2015-02-01,461,NA
-Theft,2015-03-01,638,593
+Theft,2014-06-01,804,NA
+Theft,2014-07-01,916,NA
+Theft,2014-08-01,941,887
+Theft,2014-09-01,766,874
+Theft,2014-10-01,847,851
+Theft,2014-11-01,712,775
+Theft,2014-12-01,722,760
+Theft,2015-01-01,684,706
+Theft,2015-02-01,461,622
+Theft,2015-03-01,638,594
 Theft,2015-04-01,602,567
 Theft,2015-05-01,631,624
 Theft,2015-06-01,798,677

@@ -1,7 +1,14 @@
 category,month,count,rollavg_3month
-Motor Vehicle Theft,2015-01-01,56,NA
-Motor Vehicle Theft,2015-02-01,51,NA
-Motor Vehicle Theft,2015-03-01,62,56
+Motor Vehicle Theft,2014-06-01,82,NA
+Motor Vehicle Theft,2014-07-01,91,NA
+Motor Vehicle Theft,2014-08-01,81,85
+Motor Vehicle Theft,2014-09-01,66,79
+Motor Vehicle Theft,2014-10-01,57,68
+Motor Vehicle Theft,2014-11-01,83,69
+Motor Vehicle Theft,2014-12-01,87,76
+Motor Vehicle Theft,2015-01-01,57,76
+Motor Vehicle Theft,2015-02-01,51,65
+Motor Vehicle Theft,2015-03-01,62,57
 Motor Vehicle Theft,2015-04-01,75,63
 Motor Vehicle Theft,2015-05-01,64,67
 Motor Vehicle Theft,2015-06-01,90,76

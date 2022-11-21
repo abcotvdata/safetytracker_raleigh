@@ -1,6 +1,13 @@
 category,month,count,rollavg_3month
-Burglary,2015-01-01,174,NA
-Burglary,2015-02-01,131,NA
+Burglary,2014-06-01,185,NA
+Burglary,2014-07-01,213,NA
+Burglary,2014-08-01,221,206
+Burglary,2014-09-01,210,215
+Burglary,2014-10-01,207,213
+Burglary,2014-11-01,215,211
+Burglary,2014-12-01,243,222
+Burglary,2015-01-01,174,211
+Burglary,2015-02-01,131,183
 Burglary,2015-03-01,124,143
 Burglary,2015-04-01,194,150
 Burglary,2015-05-01,178,165

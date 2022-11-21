@@ -1,7 +1,14 @@
 category,month,count,rollavg_3month
-Aggravated Assault,2015-01-01,73,NA
-Aggravated Assault,2015-02-01,53,NA
-Aggravated Assault,2015-03-01,74,67
+Aggravated Assault,2014-06-01,65,NA
+Aggravated Assault,2014-07-01,92,NA
+Aggravated Assault,2014-08-01,68,75
+Aggravated Assault,2014-09-01,72,77
+Aggravated Assault,2014-10-01,67,69
+Aggravated Assault,2014-11-01,42,60
+Aggravated Assault,2014-12-01,73,61
+Aggravated Assault,2015-01-01,76,64
+Aggravated Assault,2015-02-01,53,67
+Aggravated Assault,2015-03-01,74,68
 Aggravated Assault,2015-04-01,68,65
 Aggravated Assault,2015-05-01,98,80
 Aggravated Assault,2015-06-01,90,85

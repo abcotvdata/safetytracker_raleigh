@@ -1,6 +1,12 @@
 category,month,count,rollavg_3month
-Murder,2015-03-01,1,NA
-Murder,2015-04-01,2,NA
+Murder,2014-06-01,2,NA
+Murder,2014-07-01,2,NA
+Murder,2014-08-01,1,2
+Murder,2014-09-01,1,1
+Murder,2014-10-01,1,1
+Murder,2014-12-01,1,1
+Murder,2015-03-01,1,1
+Murder,2015-04-01,2,1
 Murder,2015-05-01,1,1
 Murder,2015-06-01,2,2
 Murder,2015-07-01,1,1
