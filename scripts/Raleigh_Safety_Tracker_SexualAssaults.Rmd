@@ -242,17 +242,17 @@ Click on any neighborhood on the map to see detailed numbers, rates and trends. 
 
 # Set bins for numbers of crimes for sexassaults map
 sexassaultbins1 <- c(0,
-                25,
                 50,
-                65,
-                80,
-                100)
+                100,
+                150,
+                200,
+                250)
 sexassaultbins2 <- c(0,
-                10,
-                20,
-                30,
                 50,
-                75)
+                75,
+                100,
+                125,
+                150)
 sexassaultpal1 <- colorBin(c("#aecfe6",
                              "#2787d6",
                              "#0058f6",
