@@ -172,6 +172,17 @@ citywide_category_monthly %>% filter(category=="Robbery") %>% write_csv("data/ou
 citywide_category_monthly %>% filter(category=="Aggravated Assault") %>% write_csv("data/output/monthly/assaults_monthly.csv")
 citywide_category_monthly %>% filter(category=="Murder") %>% write_csv("data/output/monthly/murders_monthly.csv")
 
+
+### Some YEARLY tables for charts for our pages
+citywide_category %>% select(1,3:9,11) %>% filter(category=="Murder") %>% write_csv("data/output/yearly/murders_city.csv")
+citywide_category %>% select(1,3:9,11) %>% filter(category=="Sexual Assault") %>%  write_csv("data/output/yearly/sexassaults_city.csv")
+citywide_category %>% select(1,3:9,11) %>% filter(category=="Motor Vehicle Theft") %>%  write_csv("data/output/yearly/autothefts_city.csv")
+citywide_category %>% select(1,3:9,11) %>% filter(category=="Theft") %>%  write_csv("data/output/yearly/thefts_city.csv")
+citywide_category %>% select(1,3:9,11) %>% filter(category=="Burglary") %>%  write_csv("data/output/yearly/burglaries_city.csv")
+citywide_category %>% select(1,3:9,11) %>% filter(category=="Robbery") %>%  write_csv("data/output/yearly/robberies_city.csv")
+citywide_category %>% select(1,3:9,11) %>% filter(category=="Aggravated Assault") %>%  write_csv("data/output/yearly/assaults_city.csv")
+
+
 # Calculate of each type of crime CITYWIDE
 citywide_type <- raleigh_crime %>%
   group_by(type,year) %>%
