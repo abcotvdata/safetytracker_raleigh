@@ -229,9 +229,7 @@ However, the murder rate over the last 12 months is<h8>`r ifelse(murders_city$in
 
 The city averaged <h8>`r round(murders_city$last12mos/12,0)`</h8> homicides a month over the last year. In 2019, that number was <h8>`r round(murders_city$total19/12,0)`</h8> per month.
 
-One way to think about the danger: three years ago, the murder rate was <h8>`r murders_city$rate19`</h8> per 100,000 residents. That's more than twice the likelihood of dying in a vehicle crash in North Carolina.
-
-During the pandemic, a person's chance of being murdered in Durham rose to above the risk of a fatal traffic crash.
+One way to think about the danger: three years ago, the murder rate was <h8>`r murders_city$rate19`</h8> per 100,000 residents. That's about one third the likelihood of someone dying in a vehicle crash in North Carolina. During the pandemic, a person's chance of being murdered in Durham rose to about half of the risk of a fatal traffic crash and remains lower than most other top causes of death in the state.
 <br>
 <br>
 <!-- <subhead>Risk of being murdered -->
