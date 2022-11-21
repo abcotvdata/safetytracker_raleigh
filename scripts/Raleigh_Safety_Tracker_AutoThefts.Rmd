@@ -239,17 +239,17 @@ Click on any neighborhood on the map to see detailed numbers, rates and trends. 
 
 # Set bins for numbers of crimes for autothefts map
 autotheftbins1 <- c(0,
-                200,
-                300,
+                100,
+                250,
                 400,
-                500,
-                1000)
+                600,
+                800)
 autotheftbins2 <- c(0,
                 100,
+                150,
                 200,
                 250,
-                300,
-                500)
+                350)
 autotheftpal1 <- colorBin(c("#aecfe6",
                              "#2787d6",
                              "#0058f6",
