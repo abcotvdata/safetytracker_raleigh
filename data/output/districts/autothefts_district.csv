@@ -1,0 +1,8 @@
+district,population,placename,district_name,category,2015,2016,2017,2018,total19,total20,total21,total22,last12mos,total_prior3years,avg_prior3years,inc_19to21,inc_19tolast12,inc_21tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate_last12,rate_prior3years
+Downtown,NA,NA,NA,Motor Vehicle Theft,110,136,99,94,117,105,111,87,99,333,111,-5.1,-15.4,-10.8,-11,NA,NA,NA,NA,NA
+North,NA,NA,NA,Motor Vehicle Theft,204,202,194,137,190,178,250,176,196,618,206,31.6,3.2,-21.6,-5,NA,NA,NA,NA,NA
+Northeast,NA,NA,NA,Motor Vehicle Theft,107,148,207,179,154,196,205,268,293,555,185,33.1,90.3,42.9,58,NA,NA,NA,NA,NA
+Northwest,NA,NA,NA,Motor Vehicle Theft,69,108,106,110,106,112,126,177,192,344,114.7,18.9,81.1,52.4,67,NA,NA,NA,NA,NA
+Southeast,NA,NA,NA,Motor Vehicle Theft,199,201,209,187,235,249,243,260,284,727,242.3,3.4,20.9,16.9,17,NA,NA,NA,NA,NA
+Southwest,NA,NA,NA,Motor Vehicle Theft,137,136,155,130,115,187,195,166,183,497,165.7,69.6,59.1,-6.2,10,NA,NA,NA,NA,NA
+UNK,NA,NA,NA,Motor Vehicle Theft,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA

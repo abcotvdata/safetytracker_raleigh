@@ -1,5 +1,5 @@
 ---
-title: "ABC11 Durham Neighborhood Safety Tracker"
+title: "ABC11 Raleigh Neighborhood Safety Tracker"
 # author: "John Kelly"
 # date: Sys.time()
 output: html_document
@@ -18,7 +18,7 @@ library(sf)
 ```
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
 
-![<popupchatter>Updated `r format(Sys.time(), '%B %d, %Y')` by the ABC11 Data Team</popupchatter>](https://github.com/abcotvdata/safetytracker_durham/raw/main/docs/banner_placeholder.png)
+![<popupchatter>Updated `r format(Sys.time(), '%B %d, %Y')` by the ABC11 Data Team</popupchatter>](https://github.com/abcotvdata/safetytracker_raleigh/raw/main/docs/banner_placeholder.png)
 ```{css, echo=FALSE}
 
 h1.title {
@@ -184,15 +184,15 @@ th {
    
 ```
 
-<h2>ABC11 is tracking crime and safety across Durham and in your neighborhood. 
+<h2>ABC11 is tracking crime and safety across Raleigh and in your neighborhood. 
 <br>You can choose which crime to examine: <select onchange="window.location=this.value">
-<option value="https://abcotvdata.github.io/safetytracker_durham/Durham_Safety_Tracker_SexualAssaults.html">Sexual Assaults</option>
-<option value="https://abcotvdata.github.io/safetytracker_durham/Durham_Safety_Tracker_Assaults.html">Assaults</option>
-<option value="https://abcotvdata.github.io/safetytracker_durham/Durham_Safety_Tracker_AutoThefts.html">Vehicle Thefts</option>
-<option value="https://abcotvdata.github.io/safetytracker_durham/Durham_Safety_Tracker_Burglaries.html">Burglaries</option>
-<option value="https://abcotvdata.github.io/safetytracker_durham/Durham_Safety_Tracker.html">Homicides</option>
-<option value="https://abcotvdata.github.io/safetytracker_durham/Durham_Safety_Tracker_Robberies.html">Robberies</option>
-<option value="https://abcotvdata.github.io/safetytracker_durham/Durham_Safety_Tracker_Thefts.html">Thefts</option>
+<option value="https://abcotvdata.github.io/safetytracker_raleigh/Raleigh_Safety_Tracker_SexualAssaults.html">Sexual Assaults</option>
+<option value="https://abcotvdata.github.io/safetytracker_raleigh/Raleigh_Safety_Tracker_Assaults.html">Assaults</option>
+<option value="https://abcotvdata.github.io/safetytracker_raleigh/Raleigh_Safety_Tracker_AutoThefts.html">Vehicle Thefts</option>
+<option value="https://abcotvdata.github.io/safetytracker_raleigh/Raleigh_Safety_Tracker_Burglaries.html">Burglaries</option>
+<option value="https://abcotvdata.github.io/safetytracker_raleigh/Raleigh_Safety_Tracker.html">Homicides</option>
+<option value="https://abcotvdata.github.io/safetytracker_raleigh/Raleigh_Safety_Tracker_Robberies.html">Robberies</option>
+<option value="https://abcotvdata.github.io/safetytracker_raleigh/Raleigh_Safety_Tracker_Thefts.html">Thefts</option>
 </select></h2>
 
 <div class="cardContainer">
@@ -222,9 +222,9 @@ Sexual assaults over the last 12 months are <h8>`r ifelse(sexassaults_city$inc_p
 
 The city averaged <h8>`r round(sexassaults_city$last12mos/12,0)`</h8> sexual assaults a month over the last year. In 2019, that number was <h8>`r round(sexassaults_city$total19/12,0)`</h8> per month.
 
-<subhead>A closer look at Durham sexual assaults neighborhood by neighborhood</subhead>
+<subhead>A closer look at Raleigh sexual assaults neighborhood by neighborhood</subhead>
 
-The danger is not the same neighborhood to neighborhood. ABC11's data team looked at the Durham Police Department's public data about sexual assault reports by neighborhood from 2019 through `r format(asofdate, "%B %d, %Y")`.
+The danger is not the same neighborhood to neighborhood. ABC11's data team looked at the Raleigh Police Department's public data about sexual assault reports by neighborhood from 2019 through `r format(asofdate, "%B %d, %Y")`.
 
 The map color-codes each neighborhood by the sexual assault rate over the last 12 months. The three darker blue areas are neighborhoods with sexual assault rates higher than the citywide rate. You can also choose to see neighborhoods by the number of reported sexual assaults.
 
@@ -327,11 +327,11 @@ sexassaults_district$rate_prior3years,
 </table>")
 
 # Creating police districts map for types of crimes
-durham_sexassault_map <- leaflet(sexassaults_district, options = leafletOptions(zoomControl = FALSE, zoomSnap = 0.5, zoomDelta=0.5)) %>%
+raleigh_sexassault_map <- leaflet(sexassaults_district, options = leafletOptions(zoomControl = FALSE, zoomSnap = 0.5, zoomDelta=0.5)) %>%
   htmlwidgets::onRender("function(el, x) {
 L.control.zoom({ position: 'topright' }).addTo(this)
 }") %>%
-  setView(-78.89, 35.99, zoom = 11.5) %>% 
+  setView(-78.65, 35.79, zoom = 11.5) %>% 
   addProviderTiles(provider = "CartoDB.Positron") %>%
   addPolygons(color = "white", 
               popup = sexassaultlabel,
@@ -389,11 +389,11 @@ L.control.zoom({ position: 'topright' }).addTo(this)
          this.on('baselayerchange', el => updateLegend());
       }"
    )
-durham_sexassault_map
+raleigh_sexassault_map
 ```
 <br>
 <br>
-<iframe title="Sexual Assaults year by year in Durham" aria-label="Column Chart" id="datawrapper-chart-k9hHF" src="https://datawrapper.dwcdn.net/k9hHF/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
+<iframe title="Sexual Assaults year by year in Raleigh" aria-label="Column Chart" id="datawrapper-chart-k9hHF" src="https://datawrapper.dwcdn.net/k9hHF/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
 <br>
 <br>
 <!-- <subhead>Violent crime rate comparisons </subhead> -->

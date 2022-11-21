@@ -53,12 +53,12 @@ districts_geo <- districts_geo %>% st_transform(4326)
 districts_geo <- st_make_valid(districts_geo) %>% janitor::clean_names()
 
 # Quick define of the areas 
-districts_geo$placename <- case_when(districts_geo$district == "DTD"~ "eastern Durham",
-                                     districts_geo$district == "NED"~ "northern Durham",
-                                     districts_geo$district == "NOD"~ "western and southwestern Durham",
-                                     districts_geo$district == "NWD"~ "southern Durham",
-                                     districts_geo$district == "SED"~ "central Durham and downtown",
-                                     districts_geo$district == "SWD"~ "central Durham and downtown",
+districts_geo$placename <- case_when(districts_geo$district == "DTD"~ "Downtown Raleigh",
+                                     districts_geo$district == "NED"~ "Northeast Raleigh",
+                                     districts_geo$district == "NOD"~ "North Raleigh",
+                                     districts_geo$district == "NWD"~ "Northwest Raleigh",
+                                     districts_geo$district == "SED"~ "Southeast Raleigh",
+                                     districts_geo$district == "SWD"~ "Southwest Raleigh",
                                      TRUE ~ "Unknown")
 
 # Quick define of the areas 
@@ -80,10 +80,10 @@ saveRDS(districts_geo,"scripts/rds/raleigh_districts.rds")
 # Set bins for beats pop map
 popbins <- c(0,20000,40000,50000,60000,100000, Inf)
 poppal <- colorBin("YlOrRd", districts_geo$population, bins = popbins)
-poplabel <- paste(sep = "<br>", districts_geo$beat,prettyNum(districts_geo$population, big.mark = ","))
+poplabel <- paste(sep = "<br>", districts_geo$district_name,districts_geo$placename,prettyNum(districts_geo$population, big.mark = ","))
 
 raleigh_districts_map <- leaflet(districts_geo) %>%
-  setView(-78.63, 35.77, zoom = 11.5) %>% 
+  setView(-78.65, 35.79, zoom = 11.5) %>% 
   addProviderTiles(provider = "Esri.WorldImagery") %>%
   addProviderTiles(provider = "Stamen.TonerLabels") %>%
   addPolygons(color = "white", popup = poplabel, weight = 2, smoothFactor = 0.5,

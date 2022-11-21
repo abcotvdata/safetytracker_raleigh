@@ -1,0 +1,8 @@
+district,population,placename,district_name,category,2015,2016,2017,2018,total19,total20,total21,total22,last12mos,total_prior3years,avg_prior3years,inc_19to21,inc_19tolast12,inc_21tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate_last12,rate_prior3years
+Downtown,NA,NA,NA,Aggravated Assault,118,125,105,144,172,101,124,132,145,397,132.3,-27.9,-15.7,16.9,10,NA,NA,NA,NA,NA
+North,NA,NA,NA,Aggravated Assault,162,121,150,174,138,155,179,131,150,472,157.3,29.7,8.7,-16.2,-5,NA,NA,NA,NA,NA
+Northeast,NA,NA,NA,Aggravated Assault,133,110,118,147,161,143,170,226,252,474,158,5.6,56.5,48.2,59,NA,NA,NA,NA,NA
+Northwest,NA,NA,NA,Aggravated Assault,46,53,52,40,44,65,71,76,87,180,60,61.4,97.7,22.5,45,NA,NA,NA,NA,NA
+Southeast,NA,NA,NA,Aggravated Assault,341,297,299,301,317,348,358,337,378,1023,341,12.9,19.2,5.6,11,NA,NA,NA,NA,NA
+Southwest,NA,NA,NA,Aggravated Assault,102,92,128,117,124,107,174,148,160,405,135,40.3,29,-8,19,NA,NA,NA,NA,NA
+UNK,NA,NA,NA,Aggravated Assault,0,0,1,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA

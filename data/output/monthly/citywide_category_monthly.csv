@@ -1,0 +1,747 @@
+category,month,count,rollavg_3month
+Aggravated Assault,2015-01-01,73,NA
+Aggravated Assault,2015-02-01,53,NA
+Aggravated Assault,2015-03-01,74,67
+Aggravated Assault,2015-04-01,68,65
+Aggravated Assault,2015-05-01,98,80
+Aggravated Assault,2015-06-01,90,85
+Aggravated Assault,2015-07-01,80,89
+Aggravated Assault,2015-08-01,93,88
+Aggravated Assault,2015-09-01,74,82
+Aggravated Assault,2015-10-01,55,74
+Aggravated Assault,2015-11-01,66,65
+Aggravated Assault,2015-12-01,78,66
+Aggravated Assault,2016-01-01,72,72
+Aggravated Assault,2016-02-01,50,67
+Aggravated Assault,2016-03-01,70,64
+Aggravated Assault,2016-04-01,64,61
+Aggravated Assault,2016-05-01,75,70
+Aggravated Assault,2016-06-01,69,69
+Aggravated Assault,2016-07-01,90,78
+Aggravated Assault,2016-08-01,71,77
+Aggravated Assault,2016-09-01,51,71
+Aggravated Assault,2016-10-01,62,61
+Aggravated Assault,2016-11-01,63,59
+Aggravated Assault,2016-12-01,61,62
+Aggravated Assault,2017-01-01,60,61
+Aggravated Assault,2017-02-01,57,59
+Aggravated Assault,2017-03-01,64,60
+Aggravated Assault,2017-04-01,71,64
+Aggravated Assault,2017-05-01,90,75
+Aggravated Assault,2017-06-01,91,84
+Aggravated Assault,2017-07-01,69,83
+Aggravated Assault,2017-08-01,59,73
+Aggravated Assault,2017-09-01,78,69
+Aggravated Assault,2017-10-01,83,73
+Aggravated Assault,2017-11-01,76,79
+Aggravated Assault,2017-12-01,54,71
+Aggravated Assault,2018-01-01,66,65
+Aggravated Assault,2018-02-01,62,61
+Aggravated Assault,2018-03-01,76,68
+Aggravated Assault,2018-04-01,76,71
+Aggravated Assault,2018-05-01,88,80
+Aggravated Assault,2018-06-01,88,84
+Aggravated Assault,2018-07-01,84,87
+Aggravated Assault,2018-08-01,65,79
+Aggravated Assault,2018-09-01,106,85
+Aggravated Assault,2018-10-01,69,80
+Aggravated Assault,2018-11-01,71,82
+Aggravated Assault,2018-12-01,72,71
+Aggravated Assault,2019-01-01,73,72
+Aggravated Assault,2019-02-01,65,70
+Aggravated Assault,2019-03-01,66,68
+Aggravated Assault,2019-04-01,86,72
+Aggravated Assault,2019-05-01,98,83
+Aggravated Assault,2019-06-01,96,93
+Aggravated Assault,2019-07-01,79,91
+Aggravated Assault,2019-08-01,83,86
+Aggravated Assault,2019-09-01,80,81
+Aggravated Assault,2019-10-01,86,83
+Aggravated Assault,2019-11-01,73,80
+Aggravated Assault,2019-12-01,71,77
+Aggravated Assault,2020-01-01,70,71
+Aggravated Assault,2020-02-01,57,66
+Aggravated Assault,2020-03-01,68,65
+Aggravated Assault,2020-04-01,60,62
+Aggravated Assault,2020-05-01,80,69
+Aggravated Assault,2020-06-01,82,74
+Aggravated Assault,2020-07-01,95,86
+Aggravated Assault,2020-08-01,90,89
+Aggravated Assault,2020-09-01,75,87
+Aggravated Assault,2020-10-01,87,84
+Aggravated Assault,2020-11-01,88,83
+Aggravated Assault,2020-12-01,68,81
+Aggravated Assault,2021-01-01,83,80
+Aggravated Assault,2021-02-01,49,67
+Aggravated Assault,2021-03-01,86,73
+Aggravated Assault,2021-04-01,71,69
+Aggravated Assault,2021-05-01,95,84
+Aggravated Assault,2021-06-01,121,96
+Aggravated Assault,2021-07-01,107,108
+Aggravated Assault,2021-08-01,89,106
+Aggravated Assault,2021-09-01,98,98
+Aggravated Assault,2021-10-01,96,94
+Aggravated Assault,2021-11-01,81,92
+Aggravated Assault,2021-12-01,97,91
+Aggravated Assault,2022-01-01,80,86
+Aggravated Assault,2022-02-01,90,89
+Aggravated Assault,2022-03-01,105,92
+Aggravated Assault,2022-04-01,95,97
+Aggravated Assault,2022-05-01,112,104
+Aggravated Assault,2022-06-01,117,108
+Aggravated Assault,2022-07-01,97,109
+Aggravated Assault,2022-08-01,92,102
+Aggravated Assault,2022-09-01,84,91
+Aggravated Assault,2022-10-01,119,98
+Aggravated Assault,2022-11-01,63,89
+Burglary,2015-01-01,174,NA
+Burglary,2015-02-01,131,NA
+Burglary,2015-03-01,124,143
+Burglary,2015-04-01,194,150
+Burglary,2015-05-01,178,165
+Burglary,2015-06-01,156,176
+Burglary,2015-07-01,162,165
+Burglary,2015-08-01,177,165
+Burglary,2015-09-01,152,164
+Burglary,2015-10-01,190,173
+Burglary,2015-11-01,215,186
+Burglary,2015-12-01,214,206
+Burglary,2016-01-01,168,199
+Burglary,2016-02-01,134,172
+Burglary,2016-03-01,173,158
+Burglary,2016-04-01,182,163
+Burglary,2016-05-01,211,189
+Burglary,2016-06-01,181,191
+Burglary,2016-07-01,189,194
+Burglary,2016-08-01,164,178
+Burglary,2016-09-01,194,182
+Burglary,2016-10-01,229,196
+Burglary,2016-11-01,190,204
+Burglary,2016-12-01,206,208
+Burglary,2017-01-01,190,195
+Burglary,2017-02-01,186,194
+Burglary,2017-03-01,155,177
+Burglary,2017-04-01,183,175
+Burglary,2017-05-01,200,179
+Burglary,2017-06-01,178,187
+Burglary,2017-07-01,208,195
+Burglary,2017-08-01,227,204
+Burglary,2017-09-01,193,209
+Burglary,2017-10-01,203,208
+Burglary,2017-11-01,211,202
+Burglary,2017-12-01,199,204
+Burglary,2018-01-01,200,203
+Burglary,2018-02-01,161,187
+Burglary,2018-03-01,170,177
+Burglary,2018-04-01,176,169
+Burglary,2018-05-01,181,176
+Burglary,2018-06-01,181,179
+Burglary,2018-07-01,187,183
+Burglary,2018-08-01,154,174
+Burglary,2018-09-01,170,170
+Burglary,2018-10-01,159,161
+Burglary,2018-11-01,161,163
+Burglary,2018-12-01,177,166
+Burglary,2019-01-01,169,169
+Burglary,2019-02-01,126,157
+Burglary,2019-03-01,110,135
+Burglary,2019-04-01,125,120
+Burglary,2019-05-01,118,118
+Burglary,2019-06-01,126,123
+Burglary,2019-07-01,120,121
+Burglary,2019-08-01,110,119
+Burglary,2019-09-01,109,113
+Burglary,2019-10-01,110,110
+Burglary,2019-11-01,110,110
+Burglary,2019-12-01,142,121
+Burglary,2020-01-01,112,121
+Burglary,2020-02-01,107,120
+Burglary,2020-03-01,91,103
+Burglary,2020-04-01,60,86
+Burglary,2020-05-01,132,94
+Burglary,2020-06-01,197,130
+Burglary,2020-07-01,86,138
+Burglary,2020-08-01,98,127
+Burglary,2020-09-01,80,88
+Burglary,2020-10-01,95,91
+Burglary,2020-11-01,101,92
+Burglary,2020-12-01,116,104
+Burglary,2021-01-01,102,106
+Burglary,2021-02-01,100,106
+Burglary,2021-03-01,91,98
+Burglary,2021-04-01,97,96
+Burglary,2021-05-01,108,99
+Burglary,2021-06-01,113,106
+Burglary,2021-07-01,118,113
+Burglary,2021-08-01,121,117
+Burglary,2021-09-01,100,113
+Burglary,2021-10-01,128,116
+Burglary,2021-11-01,121,116
+Burglary,2021-12-01,104,118
+Burglary,2022-01-01,108,111
+Burglary,2022-02-01,103,105
+Burglary,2022-03-01,90,100
+Burglary,2022-04-01,99,97
+Burglary,2022-05-01,96,95
+Burglary,2022-06-01,95,97
+Burglary,2022-07-01,105,99
+Burglary,2022-08-01,95,98
+Burglary,2022-09-01,82,94
+Burglary,2022-10-01,93,90
+Burglary,2022-11-01,60,78
+Motor Vehicle Theft,2015-01-01,56,NA
+Motor Vehicle Theft,2015-02-01,51,NA
+Motor Vehicle Theft,2015-03-01,62,56
+Motor Vehicle Theft,2015-04-01,75,63
+Motor Vehicle Theft,2015-05-01,64,67
+Motor Vehicle Theft,2015-06-01,90,76
+Motor Vehicle Theft,2015-07-01,98,84
+Motor Vehicle Theft,2015-08-01,82,90
+Motor Vehicle Theft,2015-09-01,56,79
+Motor Vehicle Theft,2015-10-01,67,68
+Motor Vehicle Theft,2015-11-01,59,61
+Motor Vehicle Theft,2015-12-01,66,64
+Motor Vehicle Theft,2016-01-01,96,74
+Motor Vehicle Theft,2016-02-01,90,84
+Motor Vehicle Theft,2016-03-01,80,89
+Motor Vehicle Theft,2016-04-01,75,82
+Motor Vehicle Theft,2016-05-01,60,72
+Motor Vehicle Theft,2016-06-01,65,67
+Motor Vehicle Theft,2016-07-01,68,64
+Motor Vehicle Theft,2016-08-01,86,73
+Motor Vehicle Theft,2016-09-01,59,71
+Motor Vehicle Theft,2016-10-01,73,73
+Motor Vehicle Theft,2016-11-01,90,74
+Motor Vehicle Theft,2016-12-01,88,84
+Motor Vehicle Theft,2017-01-01,70,83
+Motor Vehicle Theft,2017-02-01,73,77
+Motor Vehicle Theft,2017-03-01,81,75
+Motor Vehicle Theft,2017-04-01,92,82
+Motor Vehicle Theft,2017-05-01,79,84
+Motor Vehicle Theft,2017-06-01,78,83
+Motor Vehicle Theft,2017-07-01,84,80
+Motor Vehicle Theft,2017-08-01,83,82
+Motor Vehicle Theft,2017-09-01,75,81
+Motor Vehicle Theft,2017-10-01,82,80
+Motor Vehicle Theft,2017-11-01,89,82
+Motor Vehicle Theft,2017-12-01,85,85
+Motor Vehicle Theft,2018-01-01,63,79
+Motor Vehicle Theft,2018-02-01,72,73
+Motor Vehicle Theft,2018-03-01,59,65
+Motor Vehicle Theft,2018-04-01,66,66
+Motor Vehicle Theft,2018-05-01,73,66
+Motor Vehicle Theft,2018-06-01,66,68
+Motor Vehicle Theft,2018-07-01,71,70
+Motor Vehicle Theft,2018-08-01,75,71
+Motor Vehicle Theft,2018-09-01,70,72
+Motor Vehicle Theft,2018-10-01,73,73
+Motor Vehicle Theft,2018-11-01,76,73
+Motor Vehicle Theft,2018-12-01,72,74
+Motor Vehicle Theft,2019-01-01,69,72
+Motor Vehicle Theft,2019-02-01,57,66
+Motor Vehicle Theft,2019-03-01,63,63
+Motor Vehicle Theft,2019-04-01,58,59
+Motor Vehicle Theft,2019-05-01,63,61
+Motor Vehicle Theft,2019-06-01,91,71
+Motor Vehicle Theft,2019-07-01,63,72
+Motor Vehicle Theft,2019-08-01,78,77
+Motor Vehicle Theft,2019-09-01,74,72
+Motor Vehicle Theft,2019-10-01,103,85
+Motor Vehicle Theft,2019-11-01,104,94
+Motor Vehicle Theft,2019-12-01,95,101
+Motor Vehicle Theft,2020-01-01,92,97
+Motor Vehicle Theft,2020-02-01,85,91
+Motor Vehicle Theft,2020-03-01,85,87
+Motor Vehicle Theft,2020-04-01,66,79
+Motor Vehicle Theft,2020-05-01,73,75
+Motor Vehicle Theft,2020-06-01,91,77
+Motor Vehicle Theft,2020-07-01,98,87
+Motor Vehicle Theft,2020-08-01,81,90
+Motor Vehicle Theft,2020-09-01,94,91
+Motor Vehicle Theft,2020-10-01,92,89
+Motor Vehicle Theft,2020-11-01,89,92
+Motor Vehicle Theft,2020-12-01,80,87
+Motor Vehicle Theft,2021-01-01,93,87
+Motor Vehicle Theft,2021-02-01,89,87
+Motor Vehicle Theft,2021-03-01,72,85
+Motor Vehicle Theft,2021-04-01,64,75
+Motor Vehicle Theft,2021-05-01,92,76
+Motor Vehicle Theft,2021-06-01,127,94
+Motor Vehicle Theft,2021-07-01,102,107
+Motor Vehicle Theft,2021-08-01,98,109
+Motor Vehicle Theft,2021-09-01,105,102
+Motor Vehicle Theft,2021-10-01,111,105
+Motor Vehicle Theft,2021-11-01,91,102
+Motor Vehicle Theft,2021-12-01,86,96
+Motor Vehicle Theft,2022-01-01,106,94
+Motor Vehicle Theft,2022-02-01,88,93
+Motor Vehicle Theft,2022-03-01,112,102
+Motor Vehicle Theft,2022-04-01,101,100
+Motor Vehicle Theft,2022-05-01,103,105
+Motor Vehicle Theft,2022-06-01,106,103
+Motor Vehicle Theft,2022-07-01,87,99
+Motor Vehicle Theft,2022-08-01,134,109
+Motor Vehicle Theft,2022-09-01,122,114
+Motor Vehicle Theft,2022-10-01,114,123
+Motor Vehicle Theft,2022-11-01,62,99
+Murder,2015-03-01,1,NA
+Murder,2015-04-01,2,NA
+Murder,2015-05-01,1,1
+Murder,2015-06-01,2,2
+Murder,2015-07-01,1,1
+Murder,2015-08-01,2,2
+Murder,2015-09-01,2,2
+Murder,2015-10-01,2,2
+Murder,2015-11-01,1,2
+Murder,2015-12-01,1,1
+Murder,2016-02-01,1,1
+Murder,2016-03-01,1,1
+Murder,2016-04-01,2,1
+Murder,2016-05-01,1,1
+Murder,2016-07-01,1,1
+Murder,2016-08-01,4,2
+Murder,2016-09-01,4,3
+Murder,2016-10-01,1,3
+Murder,2016-11-01,1,2
+Murder,2016-12-01,8,3
+Murder,2017-02-01,1,3
+Murder,2017-03-01,2,4
+Murder,2017-04-01,2,2
+Murder,2017-05-01,5,3
+Murder,2017-06-01,2,3
+Murder,2017-07-01,2,3
+Murder,2017-08-01,4,3
+Murder,2017-09-01,1,2
+Murder,2017-10-01,2,2
+Murder,2017-11-01,4,2
+Murder,2017-12-01,2,3
+Murder,2018-02-01,2,3
+Murder,2018-04-01,4,3
+Murder,2018-05-01,2,3
+Murder,2018-07-01,2,3
+Murder,2018-08-01,2,2
+Murder,2018-09-01,1,2
+Murder,2018-11-01,1,1
+Murder,2018-12-01,1,1
+Murder,2019-01-01,1,1
+Murder,2019-02-01,4,2
+Murder,2019-03-01,2,2
+Murder,2019-05-01,2,3
+Murder,2019-06-01,5,3
+Murder,2019-07-01,1,3
+Murder,2019-08-01,2,3
+Murder,2019-09-01,1,1
+Murder,2019-11-01,6,3
+Murder,2019-12-01,3,3
+Murder,2020-01-01,3,4
+Murder,2020-02-01,3,3
+Murder,2020-03-01,1,2
+Murder,2020-04-01,1,2
+Murder,2020-06-01,4,2
+Murder,2020-07-01,3,3
+Murder,2020-08-01,5,4
+Murder,2020-09-01,1,3
+Murder,2020-10-01,2,3
+Murder,2020-11-01,1,1
+Murder,2020-12-01,1,1
+Murder,2021-01-01,1,1
+Murder,2021-02-01,4,2
+Murder,2021-04-01,3,3
+Murder,2021-05-01,4,4
+Murder,2021-06-01,1,3
+Murder,2021-07-01,3,3
+Murder,2021-08-01,2,2
+Murder,2021-09-01,4,3
+Murder,2021-11-01,2,3
+Murder,2021-12-01,2,3
+Murder,2022-01-01,3,2
+Murder,2022-02-01,3,3
+Murder,2022-03-01,5,4
+Murder,2022-04-01,2,3
+Murder,2022-05-01,3,3
+Murder,2022-06-01,1,2
+Murder,2022-07-01,4,3
+Murder,2022-08-01,3,3
+Murder,2022-09-01,6,4
+Murder,2022-10-01,2,4
+Murder,2022-11-01,3,4
+Other/Unknown,2015-01-01,3315,NA
+Other/Unknown,2015-02-01,2834,NA
+Other/Unknown,2015-03-01,3491,3213
+Other/Unknown,2015-04-01,3445,3257
+Other/Unknown,2015-05-01,3543,3493
+Other/Unknown,2015-06-01,3246,3411
+Other/Unknown,2015-07-01,3273,3354
+Other/Unknown,2015-08-01,3330,3283
+Other/Unknown,2015-09-01,3220,3274
+Other/Unknown,2015-10-01,3316,3289
+Other/Unknown,2015-11-01,2914,3150
+Other/Unknown,2015-12-01,3026,3085
+Other/Unknown,2016-01-01,2956,2965
+Other/Unknown,2016-02-01,2900,2961
+Other/Unknown,2016-03-01,3099,2985
+Other/Unknown,2016-04-01,3329,3109
+Other/Unknown,2016-05-01,3301,3243
+Other/Unknown,2016-06-01,3063,3231
+Other/Unknown,2016-07-01,2970,3111
+Other/Unknown,2016-08-01,3077,3037
+Other/Unknown,2016-09-01,2936,2994
+Other/Unknown,2016-10-01,3034,3016
+Other/Unknown,2016-11-01,2728,2899
+Other/Unknown,2016-12-01,2832,2865
+Other/Unknown,2017-01-01,2984,2848
+Other/Unknown,2017-02-01,2818,2878
+Other/Unknown,2017-03-01,3025,2942
+Other/Unknown,2017-04-01,2911,2918
+Other/Unknown,2017-05-01,3285,3074
+Other/Unknown,2017-06-01,3230,3142
+Other/Unknown,2017-07-01,3122,3212
+Other/Unknown,2017-08-01,3076,3143
+Other/Unknown,2017-09-01,2913,3037
+Other/Unknown,2017-10-01,3032,3007
+Other/Unknown,2017-11-01,2893,2946
+Other/Unknown,2017-12-01,3021,2982
+Other/Unknown,2018-01-01,2936,2950
+Other/Unknown,2018-02-01,2800,2919
+Other/Unknown,2018-03-01,3199,2978
+Other/Unknown,2018-04-01,3015,3005
+Other/Unknown,2018-05-01,3276,3163
+Other/Unknown,2018-06-01,3310,3200
+Other/Unknown,2018-07-01,3298,3295
+Other/Unknown,2018-08-01,3235,3281
+Other/Unknown,2018-09-01,3047,3193
+Other/Unknown,2018-10-01,3230,3171
+Other/Unknown,2018-11-01,3012,3096
+Other/Unknown,2018-12-01,3087,3110
+Other/Unknown,2019-01-01,3261,3120
+Other/Unknown,2019-02-01,2874,3074
+Other/Unknown,2019-03-01,3253,3129
+Other/Unknown,2019-04-01,3207,3111
+Other/Unknown,2019-05-01,3393,3284
+Other/Unknown,2019-06-01,3136,3245
+Other/Unknown,2019-07-01,3264,3264
+Other/Unknown,2019-08-01,3361,3254
+Other/Unknown,2019-09-01,3086,3237
+Other/Unknown,2019-10-01,3293,3247
+Other/Unknown,2019-11-01,3025,3135
+Other/Unknown,2019-12-01,3236,3185
+Other/Unknown,2020-01-01,3241,3167
+Other/Unknown,2020-02-01,2829,3102
+Other/Unknown,2020-03-01,2958,3009
+Other/Unknown,2020-04-01,2602,2796
+Other/Unknown,2020-05-01,2955,2838
+Other/Unknown,2020-06-01,2846,2801
+Other/Unknown,2020-07-01,2878,2893
+Other/Unknown,2020-08-01,2954,2893
+Other/Unknown,2020-09-01,2759,2864
+Other/Unknown,2020-10-01,3049,2921
+Other/Unknown,2020-11-01,2749,2852
+Other/Unknown,2020-12-01,2719,2839
+Other/Unknown,2021-01-01,2868,2779
+Other/Unknown,2021-02-01,2681,2756
+Other/Unknown,2021-03-01,3410,2986
+Other/Unknown,2021-04-01,3153,3081
+Other/Unknown,2021-05-01,3347,3303
+Other/Unknown,2021-06-01,3187,3229
+Other/Unknown,2021-07-01,3292,3275
+Other/Unknown,2021-08-01,3107,3195
+Other/Unknown,2021-09-01,3028,3142
+Other/Unknown,2021-10-01,3373,3169
+Other/Unknown,2021-11-01,3239,3213
+Other/Unknown,2021-12-01,3650,3421
+Other/Unknown,2022-01-01,3084,3324
+Other/Unknown,2022-02-01,3028,3254
+Other/Unknown,2022-03-01,3459,3190
+Other/Unknown,2022-04-01,3445,3311
+Other/Unknown,2022-05-01,3364,3423
+Other/Unknown,2022-06-01,3274,3361
+Other/Unknown,2022-07-01,3368,3335
+Other/Unknown,2022-08-01,3165,3269
+Other/Unknown,2022-09-01,3093,3209
+Other/Unknown,2022-10-01,3213,3157
+Other/Unknown,2022-11-01,1947,2751
+Robbery,2015-01-01,88,NA
+Robbery,2015-02-01,35,NA
+Robbery,2015-03-01,59,61
+Robbery,2015-04-01,43,46
+Robbery,2015-05-01,58,53
+Robbery,2015-06-01,41,47
+Robbery,2015-07-01,58,52
+Robbery,2015-08-01,54,51
+Robbery,2015-09-01,56,56
+Robbery,2015-10-01,46,52
+Robbery,2015-11-01,74,59
+Robbery,2015-12-01,64,61
+Robbery,2016-01-01,50,63
+Robbery,2016-02-01,37,50
+Robbery,2016-03-01,45,44
+Robbery,2016-04-01,46,43
+Robbery,2016-05-01,61,51
+Robbery,2016-06-01,50,52
+Robbery,2016-07-01,53,55
+Robbery,2016-08-01,67,57
+Robbery,2016-09-01,63,61
+Robbery,2016-10-01,63,64
+Robbery,2016-11-01,63,63
+Robbery,2016-12-01,55,60
+Robbery,2017-01-01,45,54
+Robbery,2017-02-01,43,48
+Robbery,2017-03-01,29,39
+Robbery,2017-04-01,57,43
+Robbery,2017-05-01,52,46
+Robbery,2017-06-01,52,54
+Robbery,2017-07-01,47,50
+Robbery,2017-08-01,51,50
+Robbery,2017-09-01,59,52
+Robbery,2017-10-01,66,59
+Robbery,2017-11-01,71,65
+Robbery,2017-12-01,44,60
+Robbery,2018-01-01,47,54
+Robbery,2018-02-01,48,46
+Robbery,2018-03-01,39,45
+Robbery,2018-04-01,49,45
+Robbery,2018-05-01,41,43
+Robbery,2018-06-01,47,46
+Robbery,2018-07-01,55,48
+Robbery,2018-08-01,46,49
+Robbery,2018-09-01,43,48
+Robbery,2018-10-01,47,45
+Robbery,2018-11-01,54,48
+Robbery,2018-12-01,46,49
+Robbery,2019-01-01,36,45
+Robbery,2019-02-01,30,37
+Robbery,2019-03-01,42,36
+Robbery,2019-04-01,48,40
+Robbery,2019-05-01,48,46
+Robbery,2019-06-01,68,55
+Robbery,2019-07-01,50,55
+Robbery,2019-08-01,50,56
+Robbery,2019-09-01,55,52
+Robbery,2019-10-01,49,51
+Robbery,2019-11-01,29,44
+Robbery,2019-12-01,44,41
+Robbery,2020-01-01,40,38
+Robbery,2020-02-01,43,42
+Robbery,2020-03-01,47,43
+Robbery,2020-04-01,28,39
+Robbery,2020-05-01,27,34
+Robbery,2020-06-01,40,32
+Robbery,2020-07-01,41,36
+Robbery,2020-08-01,61,47
+Robbery,2020-09-01,41,48
+Robbery,2020-10-01,38,47
+Robbery,2020-11-01,48,42
+Robbery,2020-12-01,43,43
+Robbery,2021-01-01,41,44
+Robbery,2021-02-01,31,38
+Robbery,2021-03-01,33,35
+Robbery,2021-04-01,34,33
+Robbery,2021-05-01,43,37
+Robbery,2021-06-01,58,45
+Robbery,2021-07-01,49,50
+Robbery,2021-08-01,33,47
+Robbery,2021-09-01,47,43
+Robbery,2021-10-01,34,38
+Robbery,2021-11-01,65,49
+Robbery,2021-12-01,48,49
+Robbery,2022-01-01,33,49
+Robbery,2022-02-01,45,42
+Robbery,2022-03-01,45,41
+Robbery,2022-04-01,33,41
+Robbery,2022-05-01,39,39
+Robbery,2022-06-01,42,38
+Robbery,2022-07-01,40,40
+Robbery,2022-08-01,41,41
+Robbery,2022-09-01,24,35
+Robbery,2022-10-01,44,36
+Robbery,2022-11-01,23,30
+Sexual Assault,2015-01-01,19,NA
+Sexual Assault,2015-02-01,7,NA
+Sexual Assault,2015-03-01,19,15
+Sexual Assault,2015-04-01,11,12
+Sexual Assault,2015-05-01,9,13
+Sexual Assault,2015-06-01,9,10
+Sexual Assault,2015-07-01,18,12
+Sexual Assault,2015-08-01,17,15
+Sexual Assault,2015-09-01,16,17
+Sexual Assault,2015-10-01,12,15
+Sexual Assault,2015-11-01,14,14
+Sexual Assault,2015-12-01,12,13
+Sexual Assault,2016-01-01,13,13
+Sexual Assault,2016-02-01,10,12
+Sexual Assault,2016-03-01,15,13
+Sexual Assault,2016-04-01,16,14
+Sexual Assault,2016-05-01,23,18
+Sexual Assault,2016-06-01,18,19
+Sexual Assault,2016-07-01,17,19
+Sexual Assault,2016-08-01,24,20
+Sexual Assault,2016-09-01,19,20
+Sexual Assault,2016-10-01,30,24
+Sexual Assault,2016-11-01,14,21
+Sexual Assault,2016-12-01,17,20
+Sexual Assault,2017-01-01,26,19
+Sexual Assault,2017-02-01,31,25
+Sexual Assault,2017-03-01,20,26
+Sexual Assault,2017-04-01,37,29
+Sexual Assault,2017-05-01,33,30
+Sexual Assault,2017-06-01,34,35
+Sexual Assault,2017-07-01,38,35
+Sexual Assault,2017-08-01,36,36
+Sexual Assault,2017-09-01,32,35
+Sexual Assault,2017-10-01,41,36
+Sexual Assault,2017-11-01,31,35
+Sexual Assault,2017-12-01,37,36
+Sexual Assault,2018-01-01,33,34
+Sexual Assault,2018-02-01,41,37
+Sexual Assault,2018-03-01,25,33
+Sexual Assault,2018-04-01,31,32
+Sexual Assault,2018-05-01,37,31
+Sexual Assault,2018-06-01,36,35
+Sexual Assault,2018-07-01,34,36
+Sexual Assault,2018-08-01,27,32
+Sexual Assault,2018-09-01,33,31
+Sexual Assault,2018-10-01,38,33
+Sexual Assault,2018-11-01,25,32
+Sexual Assault,2018-12-01,35,33
+Sexual Assault,2019-01-01,31,30
+Sexual Assault,2019-02-01,28,31
+Sexual Assault,2019-03-01,39,33
+Sexual Assault,2019-04-01,39,35
+Sexual Assault,2019-05-01,40,39
+Sexual Assault,2019-06-01,32,37
+Sexual Assault,2019-07-01,38,37
+Sexual Assault,2019-08-01,35,35
+Sexual Assault,2019-09-01,45,39
+Sexual Assault,2019-10-01,27,36
+Sexual Assault,2019-11-01,43,38
+Sexual Assault,2019-12-01,41,37
+Sexual Assault,2020-01-01,41,42
+Sexual Assault,2020-02-01,41,41
+Sexual Assault,2020-03-01,34,39
+Sexual Assault,2020-04-01,28,34
+Sexual Assault,2020-05-01,31,31
+Sexual Assault,2020-06-01,33,31
+Sexual Assault,2020-07-01,34,33
+Sexual Assault,2020-08-01,29,32
+Sexual Assault,2020-09-01,27,30
+Sexual Assault,2020-10-01,34,30
+Sexual Assault,2020-11-01,33,31
+Sexual Assault,2020-12-01,35,34
+Sexual Assault,2021-01-01,35,34
+Sexual Assault,2021-02-01,32,34
+Sexual Assault,2021-03-01,41,36
+Sexual Assault,2021-04-01,44,39
+Sexual Assault,2021-05-01,48,44
+Sexual Assault,2021-06-01,51,48
+Sexual Assault,2021-07-01,44,48
+Sexual Assault,2021-08-01,35,43
+Sexual Assault,2021-09-01,42,40
+Sexual Assault,2021-10-01,53,43
+Sexual Assault,2021-11-01,51,49
+Sexual Assault,2021-12-01,53,52
+Sexual Assault,2022-01-01,35,46
+Sexual Assault,2022-02-01,39,42
+Sexual Assault,2022-03-01,49,41
+Sexual Assault,2022-04-01,39,42
+Sexual Assault,2022-05-01,42,43
+Sexual Assault,2022-06-01,34,38
+Sexual Assault,2022-07-01,46,41
+Sexual Assault,2022-08-01,33,38
+Sexual Assault,2022-09-01,48,42
+Sexual Assault,2022-10-01,39,40
+Sexual Assault,2022-11-01,19,35
+Theft,2015-01-01,680,NA
+Theft,2015-02-01,461,NA
+Theft,2015-03-01,638,593
+Theft,2015-04-01,602,567
+Theft,2015-05-01,631,624
+Theft,2015-06-01,798,677
+Theft,2015-07-01,817,749
+Theft,2015-08-01,781,799
+Theft,2015-09-01,738,779
+Theft,2015-10-01,814,778
+Theft,2015-11-01,699,750
+Theft,2015-12-01,698,737
+Theft,2016-01-01,656,684
+Theft,2016-02-01,644,666
+Theft,2016-03-01,625,642
+Theft,2016-04-01,671,647
+Theft,2016-05-01,704,667
+Theft,2016-06-01,734,703
+Theft,2016-07-01,729,722
+Theft,2016-08-01,830,764
+Theft,2016-09-01,710,756
+Theft,2016-10-01,711,750
+Theft,2016-11-01,627,683
+Theft,2016-12-01,723,687
+Theft,2017-01-01,678,676
+Theft,2017-02-01,641,681
+Theft,2017-03-01,648,656
+Theft,2017-04-01,662,650
+Theft,2017-05-01,733,681
+Theft,2017-06-01,754,716
+Theft,2017-07-01,794,760
+Theft,2017-08-01,815,788
+Theft,2017-09-01,765,791
+Theft,2017-10-01,750,777
+Theft,2017-11-01,718,744
+Theft,2017-12-01,698,722
+Theft,2018-01-01,642,686
+Theft,2018-02-01,591,644
+Theft,2018-03-01,565,599
+Theft,2018-04-01,664,607
+Theft,2018-05-01,714,648
+Theft,2018-06-01,681,686
+Theft,2018-07-01,673,689
+Theft,2018-08-01,684,679
+Theft,2018-09-01,672,676
+Theft,2018-10-01,687,681
+Theft,2018-11-01,651,670
+Theft,2018-12-01,690,676
+Theft,2019-01-01,720,687
+Theft,2019-02-01,488,633
+Theft,2019-03-01,635,614
+Theft,2019-04-01,637,587
+Theft,2019-05-01,733,668
+Theft,2019-06-01,759,710
+Theft,2019-07-01,776,756
+Theft,2019-08-01,744,760
+Theft,2019-09-01,710,743
+Theft,2019-10-01,764,739
+Theft,2019-11-01,745,740
+Theft,2019-12-01,788,766
+Theft,2020-01-01,745,759
+Theft,2020-02-01,616,716
+Theft,2020-03-01,659,673
+Theft,2020-04-01,549,608
+Theft,2020-05-01,548,585
+Theft,2020-06-01,613,570
+Theft,2020-07-01,605,589
+Theft,2020-08-01,658,625
+Theft,2020-09-01,615,626
+Theft,2020-10-01,671,648
+Theft,2020-11-01,669,652
+Theft,2020-12-01,726,689
+Theft,2021-01-01,657,684
+Theft,2021-02-01,567,650
+Theft,2021-03-01,581,602
+Theft,2021-04-01,498,549
+Theft,2021-05-01,652,577
+Theft,2021-06-01,748,633
+Theft,2021-07-01,744,715
+Theft,2021-08-01,718,737
+Theft,2021-09-01,711,724
+Theft,2021-10-01,781,737
+Theft,2021-11-01,761,751
+Theft,2021-12-01,779,774
+Theft,2022-01-01,750,763
+Theft,2022-02-01,703,744
+Theft,2022-03-01,870,774
+Theft,2022-04-01,813,795
+Theft,2022-05-01,747,810
+Theft,2022-06-01,756,772
+Theft,2022-07-01,819,774
+Theft,2022-08-01,781,785
+Theft,2022-09-01,666,755
+Theft,2022-10-01,705,717
+Theft,2022-11-01,429,600
