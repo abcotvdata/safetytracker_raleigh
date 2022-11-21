@@ -398,11 +398,10 @@ raleigh_sexassault_map
 ```
 <br>
 <br>
-<iframe title="Sexual Assaults year by year in Raleigh" aria-label="Column Chart" id="datawrapper-chart-k9hHF" src="https://datawrapper.dwcdn.net/k9hHF/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
+<iframe title="Sexual assaults year by year in Raleigh" aria-label="Column Chart" id="datawrapper-chart-dNRGC" src="https://datawrapper.dwcdn.net/dNRGC/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
 <br>
 <br>
 <!-- <subhead>Violent crime rate comparisons </subhead> -->
-<iframe title="2021 violent crime rate comparison in select major cities" aria-label="Bar Chart" id="datawrapper-chart-UUR7i" src="https://datawrapper.dwcdn.net/UUR7i/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="580" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
+<iframe title="2021 violent crime rate comparison in select cities" aria-label="Bar Chart" id="datawrapper-chart-FZerv" src="https://datawrapper.dwcdn.net/FZerv/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="628" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
 <br>
 <br>
