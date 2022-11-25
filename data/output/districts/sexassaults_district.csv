@@ -1,8 +1,8 @@
 district,population,placename,district_name,category,2014,2015,2016,2017,2018,total19,total20,total21,total22,last12mos,total_prior3years,avg_prior3years,inc_19to21,inc_19tolast12,inc_21tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate_last12,rate_prior3years
 DTD,22000,Downtown Raleigh,Downtown,Sexual Assault,14,12,31,47,45,59,51,47,46,52,157,52.3,-20.3,-11.9,10.6,-1,268.2,231.8,213.6,236.4,237.7
-NED,51000,Northeast Raleigh,Northeast,Sexual Assault,14,24,40,69,85,96,85,100,69,81,281,93.7,4.2,-15.6,-19,-14,188.2,166.7,196.1,158.8,183.7
-NOD,113000,North Raleigh,North,Sexual Assault,14,33,39,86,74,72,66,94,81,98,232,77.3,30.6,36.1,4.3,27,63.7,58.4,83.2,86.7,68.4
-NWD,97000,Northwest Raleigh,Northwest,Sexual Assault,13,11,20,40,39,44,43,52,50,58,139,46.3,18.2,31.8,11.5,25,45.4,44.3,53.6,59.8,47.7
-SED,84000,Southeast Raleigh,Southeast,Sexual Assault,15,55,53,102,96,94,99,150,107,124,343,114.3,59.6,31.9,-17.3,8,111.9,117.9,178.6,147.6,136.1
-SWD,98000,Southwest Raleigh,Southwest,Sexual Assault,16,28,33,54,54,73,57,85,70,78,215,71.7,16.4,6.8,-8.2,9,74.5,58.2,86.7,79.6,73.2
+NED,51000,Northeast Raleigh,Northeast,Sexual Assault,14,24,40,69,85,96,85,100,69,80,281,93.7,4.2,-16.7,-20,-15,188.2,166.7,196.1,156.9,183.7
+NOD,113000,North Raleigh,North,Sexual Assault,14,33,39,86,74,72,66,94,82,98,232,77.3,30.6,36.1,4.3,27,63.7,58.4,83.2,86.7,68.4
+NWD,97000,Northwest Raleigh,Northwest,Sexual Assault,13,11,20,40,39,44,43,52,51,58,139,46.3,18.2,31.8,11.5,25,45.4,44.3,53.6,59.8,47.7
+SED,84000,Southeast Raleigh,Southeast,Sexual Assault,15,55,53,102,96,94,99,150,107,122,343,114.3,59.6,29.8,-18.7,7,111.9,117.9,178.6,145.2,136.1
+SWD,98000,Southwest Raleigh,Southwest,Sexual Assault,16,28,33,54,54,73,57,85,70,77,215,71.7,16.4,5.5,-9.4,7,74.5,58.2,86.7,78.6,73.2
 NA,NA,NA,UNK,Sexual Assault,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
