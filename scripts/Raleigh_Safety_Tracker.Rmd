@@ -246,7 +246,9 @@ ABC11's data team looked at the Raleigh Police Department's data by neighborhood
 
 The map color-codes each neighborhood by the homicide rate over the last 12 months. The three darker blues highlight neighborhoods where the murder rate is higher than the citywide rate.
 
-You can click any neighborhood to see detailed numbers or the buttons at the bottom of the map to switch between numbers and rates. You can search for a street, place, landmark or zip code to zoom to that location.
+You can click any neighborhood to see detailed numbers or the buttons at the bottom of the map to switch between numbers and rates.
+
+You can search for a street, place, landmark or zip code to zoom to that location.
 
 <br>
 ```{r cars, echo=FALSE,out.width='100%',out.height='600'}

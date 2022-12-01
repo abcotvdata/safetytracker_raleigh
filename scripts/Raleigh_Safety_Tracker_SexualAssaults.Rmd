@@ -233,7 +233,9 @@ The danger is not the same neighborhood to neighborhood. ABC11's data team looke
 
 The map color-codes each neighborhood by the sexual assault rate over the last 12 months. The three darker blue areas are neighborhoods with sexual assault rates higher than the citywide rate. You can also choose to see neighborhoods by the number of reported sexual assaults.
 
-Click on any neighborhood on the map to see detailed numbers, rates and trends. You can also search for a street name, place, landmark or zip code.
+Click on any neighborhood on the map to see detailed numbers, rates and trends.
+
+You can also search for a street name, place, landmark or zip code.
 
 <br>
 
