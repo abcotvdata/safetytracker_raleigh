@@ -286,7 +286,7 @@ theftlabel <- paste(sep="",
 			<tr>
 				<td>2019</td>
 				<td>",
-prettyNum(thefts_district$total19, big.mark=",")
+prettyNum(thefts_district$total19, big.mark=","),
 "</td>
 				<td>",
 prettyNum(round(thefts_district$rate19,0), big.mark=","),
@@ -295,7 +295,7 @@ prettyNum(round(thefts_district$rate19,0), big.mark=","),
 			<tr>
 				<td>2020</td>
 				<td>",
-prettyNum(thefts_district$total20, big.mark=",")
+prettyNum(thefts_district$total20, big.mark=","),
 "</td>
 				<td>",
 prettyNum(round(thefts_district$rate20,0), big.mark=","),
@@ -304,7 +304,7 @@ prettyNum(round(thefts_district$rate20,0), big.mark=","),
 						<tr>
 				<td>2021</td>
 				<td>",
-prettyNum(thefts_district$total21, big.mark=",")
+prettyNum(thefts_district$total21, big.mark=","),
 "</td>
 				<td>",
 prettyNum(round(thefts_district$rate21,0), big.mark=","),
