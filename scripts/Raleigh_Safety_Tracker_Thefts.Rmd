@@ -286,7 +286,7 @@ theftlabel <- paste(sep="",
 			<tr>
 				<td>2019</td>
 				<td>",
-thefts_district$total19,
+prettyNum(thefts_district$total19, big.mark=",")
 "</td>
 				<td>",
 prettyNum(round(thefts_district$rate19,0), big.mark=","),
@@ -295,7 +295,7 @@ prettyNum(round(thefts_district$rate19,0), big.mark=","),
 			<tr>
 				<td>2020</td>
 				<td>",
-thefts_district$total20,
+prettyNum(thefts_district$total20, big.mark=",")
 "</td>
 				<td>",
 prettyNum(round(thefts_district$rate20,0), big.mark=","),
@@ -304,7 +304,7 @@ prettyNum(round(thefts_district$rate20,0), big.mark=","),
 						<tr>
 				<td>2021</td>
 				<td>",
-thefts_district$total21,
+prettyNum(thefts_district$total21, big.mark=",")
 "</td>
 				<td>",
 prettyNum(round(thefts_district$rate21,0), big.mark=","),
@@ -313,7 +313,7 @@ prettyNum(round(thefts_district$rate21,0), big.mark=","),
 						<tr>
 				<td>Last 12 months</td>
 				<td>",
-thefts_district$last12mos,
+prettyNum(thefts_district$last12mos, big.mark=","),
 "</td>
 				<td>",
 prettyNum(round(thefts_district$rate_last12,0), big.mark=","),
@@ -322,7 +322,7 @@ prettyNum(round(thefts_district$rate_last12,0), big.mark=","),
 						<tr>
 				<td>3-year Average</td>
 				<td>",
-round(thefts_district$avg_prior3years,0),
+prettyNum(round(thefts_district$avg_prior3years,0), big.mark=","),
 "</td>
 				<td>",
 prettyNum(round(thefts_district$rate_prior3years,0), big.mark=","),
