@@ -1,8 +1,8 @@
 district,population,placename,district_name,category,2014,2015,2016,2017,2018,total19,total20,total21,total22,last12mos,total_prior3years,avg_prior3years,inc_19to21,inc_19tolast12,inc_21tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate_last12,rate_prior3years
-DTD,22000,Downtown Raleigh,Downtown,Motor Vehicle Theft,55,110,136,99,94,117,105,111,89,98,333,111,-5.1,-16.2,-11.7,-12,531.8,477.3,504.5,445.5,504.5
-NED,51000,Northeast Raleigh,Northeast,Motor Vehicle Theft,73,107,148,207,179,154,196,205,276,295,555,185,33.1,91.6,43.9,59,302,384.3,402,578.4,362.7
-NOD,113000,North Raleigh,North,Motor Vehicle Theft,121,204,202,194,137,190,178,250,179,193,618,206,31.6,1.6,-22.8,-6,168.1,157.5,221.2,170.8,182.3
-NWD,97000,Northwest Raleigh,Northwest,Motor Vehicle Theft,52,69,108,106,110,106,112,126,183,196,344,114.7,18.9,84.9,55.6,71,109.3,115.5,129.9,202.1,118.2
-SED,84000,Southeast Raleigh,Southeast,Motor Vehicle Theft,148,199,201,209,187,235,249,243,269,288,727,242.3,3.4,22.6,18.5,19,279.8,296.4,289.3,342.9,288.5
-SWD,98000,Southwest Raleigh,Southwest,Motor Vehicle Theft,99,137,136,155,130,115,187,195,171,180,497,165.7,69.6,56.5,-7.7,9,117.3,190.8,199,183.7,169.1
+DTD,22000,Downtown Raleigh,Downtown,Motor Vehicle Theft,55,110,136,99,94,117,105,111,90,98,333,111,-5.1,-16.2,-11.7,-12,531.8,477.3,504.5,445.5,504.5
+NED,51000,Northeast Raleigh,Northeast,Motor Vehicle Theft,73,107,148,207,179,154,196,205,276,294,555,185,33.1,90.9,43.4,59,302,384.3,402,576.5,362.7
+NOD,113000,North Raleigh,North,Motor Vehicle Theft,121,204,202,194,137,190,178,250,181,194,618,206,31.6,2.1,-22.4,-6,168.1,157.5,221.2,171.7,182.3
+NWD,97000,Northwest Raleigh,Northwest,Motor Vehicle Theft,52,69,108,106,110,106,112,126,184,195,344,114.7,18.9,84,54.8,70,109.3,115.5,129.9,201,118.2
+SED,84000,Southeast Raleigh,Southeast,Motor Vehicle Theft,148,199,201,209,187,235,249,243,271,290,727,242.3,3.4,23.4,19.3,20,279.8,296.4,289.3,345.2,288.5
+SWD,98000,Southwest Raleigh,Southwest,Motor Vehicle Theft,99,137,136,155,130,115,187,195,171,179,497,165.7,69.6,55.7,-8.2,8,117.3,190.8,199,182.7,169.1
 NA,NA,NA,UNK,Motor Vehicle Theft,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
