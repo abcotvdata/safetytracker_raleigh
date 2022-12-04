@@ -101,7 +101,7 @@ Aggravated Assault,2022-08-01,92,102
 Aggravated Assault,2022-09-01,84,91
 Aggravated Assault,2022-10-01,118,98
 Aggravated Assault,2022-11-01,93,98
-Aggravated Assault,2022-12-01,4,72
+Aggravated Assault,2022-12-01,6,72
 Burglary,2014-06-01,185,NA
 Burglary,2014-07-01,213,NA
 Burglary,2014-08-01,221,206
@@ -203,8 +203,8 @@ Burglary,2022-07-01,105,99
 Burglary,2022-08-01,95,98
 Burglary,2022-09-01,82,94
 Burglary,2022-10-01,93,90
-Burglary,2022-11-01,115,97
-Burglary,2022-12-01,4,71
+Burglary,2022-11-01,114,96
+Burglary,2022-12-01,7,71
 Motor Vehicle Theft,2014-06-01,82,NA
 Motor Vehicle Theft,2014-07-01,91,NA
 Motor Vehicle Theft,2014-08-01,81,85
@@ -307,7 +307,7 @@ Motor Vehicle Theft,2022-08-01,134,109
 Motor Vehicle Theft,2022-09-01,122,114
 Motor Vehicle Theft,2022-10-01,114,123
 Motor Vehicle Theft,2022-11-01,94,110
-Motor Vehicle Theft,2022-12-01,7,72
+Motor Vehicle Theft,2022-12-01,11,73
 Murder,2014-06-01,2,NA
 Murder,2014-07-01,2,NA
 Murder,2014-08-01,1,2
@@ -394,7 +394,7 @@ Murder,2022-07-01,4,3
 Murder,2022-08-01,3,3
 Murder,2022-09-01,6,4
 Murder,2022-10-01,2,4
-Murder,2022-11-01,4,4
+Murder,2022-11-01,3,4
 Murder,2022-12-01,1,2
 Other/Unknown,2014-06-01,2812,NA
 Other/Unknown,2014-07-01,2879,NA
@@ -492,13 +492,13 @@ Other/Unknown,2022-02-01,3028,3254
 Other/Unknown,2022-03-01,3460,3191
 Other/Unknown,2022-04-01,3445,3311
 Other/Unknown,2022-05-01,3364,3423
-Other/Unknown,2022-06-01,3274,3361
-Other/Unknown,2022-07-01,3368,3335
+Other/Unknown,2022-06-01,3275,3361
+Other/Unknown,2022-07-01,3368,3336
 Other/Unknown,2022-08-01,3165,3269
 Other/Unknown,2022-09-01,3094,3209
 Other/Unknown,2022-10-01,3217,3159
-Other/Unknown,2022-11-01,3089,3133
-Other/Unknown,2022-12-01,121,2142
+Other/Unknown,2022-11-01,3107,3139
+Other/Unknown,2022-12-01,194,2173
 Robbery,2014-06-01,69,NA
 Robbery,2014-07-01,67,NA
 Robbery,2014-08-01,65,67
@@ -601,7 +601,7 @@ Robbery,2022-08-01,41,41
 Robbery,2022-09-01,24,35
 Robbery,2022-10-01,44,36
 Robbery,2022-11-01,39,36
-Robbery,2022-12-01,1,28
+Robbery,2022-12-01,2,28
 Sexual Assault,2014-06-01,15,NA
 Sexual Assault,2014-07-01,15,NA
 Sexual Assault,2014-08-01,8,13
@@ -704,7 +704,7 @@ Sexual Assault,2022-08-01,33,38
 Sexual Assault,2022-09-01,48,42
 Sexual Assault,2022-10-01,39,40
 Sexual Assault,2022-11-01,25,37
-Sexual Assault,2022-12-01,1,22
+Sexual Assault,2022-12-01,2,22
 Theft,2014-06-01,804,NA
 Theft,2014-07-01,916,NA
 Theft,2014-08-01,941,887
@@ -807,4 +807,4 @@ Theft,2022-08-01,781,785
 Theft,2022-09-01,666,755
 Theft,2022-10-01,705,717
 Theft,2022-11-01,673,681
-Theft,2022-12-01,33,470
+Theft,2022-12-01,55,478
