@@ -204,7 +204,7 @@ Burglary,2022-08-01,95,98
 Burglary,2022-09-01,82,94
 Burglary,2022-10-01,93,90
 Burglary,2022-11-01,113,96
-Burglary,2022-12-01,50,85
+Burglary,2022-12-01,51,86
 Motor Vehicle Theft,2014-06-01,82,NA
 Motor Vehicle Theft,2014-07-01,91,NA
 Motor Vehicle Theft,2014-08-01,81,85
@@ -307,7 +307,7 @@ Motor Vehicle Theft,2022-08-01,134,109
 Motor Vehicle Theft,2022-09-01,122,114
 Motor Vehicle Theft,2022-10-01,114,123
 Motor Vehicle Theft,2022-11-01,94,110
-Motor Vehicle Theft,2022-12-01,53,87
+Motor Vehicle Theft,2022-12-01,59,89
 Murder,2014-06-01,2,NA
 Murder,2014-07-01,2,NA
 Murder,2014-08-01,1,2
@@ -493,12 +493,12 @@ Other/Unknown,2022-03-01,3460,3191
 Other/Unknown,2022-04-01,3445,3311
 Other/Unknown,2022-05-01,3364,3423
 Other/Unknown,2022-06-01,3275,3361
-Other/Unknown,2022-07-01,3368,3336
-Other/Unknown,2022-08-01,3165,3269
+Other/Unknown,2022-07-01,3369,3336
+Other/Unknown,2022-08-01,3165,3270
 Other/Unknown,2022-09-01,3094,3209
 Other/Unknown,2022-10-01,3219,3159
-Other/Unknown,2022-11-01,3122,3145
-Other/Unknown,2022-12-01,1548,2630
+Other/Unknown,2022-11-01,3123,3145
+Other/Unknown,2022-12-01,1678,2673
 Robbery,2014-06-01,69,NA
 Robbery,2014-07-01,67,NA
 Robbery,2014-08-01,65,67
@@ -807,4 +807,4 @@ Theft,2022-08-01,781,785
 Theft,2022-09-01,666,755
 Theft,2022-10-01,705,717
 Theft,2022-11-01,674,682
-Theft,2022-12-01,349,576
+Theft,2022-12-01,375,585
