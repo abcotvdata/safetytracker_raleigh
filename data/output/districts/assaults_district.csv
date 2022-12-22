@@ -1,8 +1,8 @@
 district,population,placename,district_name,category,2014,2015,2016,2017,2018,total19,total20,total21,total22,last12mos,total_prior3years,avg_prior3years,inc_19to21,inc_19tolast12,inc_21tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate_last12,rate_prior3years
-DTD,22000,Downtown Raleigh,Downtown,Aggravated Assault,72,118,125,105,144,172,101,124,140,145,397,132.3,-27.9,-15.7,16.9,10,781.8,459.1,563.6,659.1,601.4
-NED,51000,Northeast Raleigh,Northeast,Aggravated Assault,76,133,110,118,147,161,143,170,236,241,474,158,5.6,49.7,41.8,53,315.7,280.4,333.3,472.5,309.8
+DTD,22000,Downtown Raleigh,Downtown,Aggravated Assault,72,118,125,105,144,172,101,124,141,146,397,132.3,-27.9,-15.1,17.7,10,781.8,459.1,563.6,663.6,601.4
+NED,51000,Northeast Raleigh,Northeast,Aggravated Assault,76,133,110,118,147,161,143,170,237,241,474,158,5.6,49.7,41.8,53,315.7,280.4,333.3,472.5,309.8
 NOD,113000,North Raleigh,North,Aggravated Assault,78,162,121,150,174,138,155,179,140,146,472,157.3,29.7,5.8,-18.4,-7,122.1,137.2,158.4,129.2,139.2
 NWD,97000,Northwest Raleigh,Northwest,Aggravated Assault,20,46,53,52,40,44,65,71,84,87,180,60,61.4,97.7,22.5,45,45.4,67,73.2,89.7,61.9
-SED,84000,Southeast Raleigh,Southeast,Aggravated Assault,169,341,297,299,301,317,348,358,365,376,1023,341,12.9,18.6,5,10,377.4,414.3,426.2,447.6,406
+SED,84000,Southeast Raleigh,Southeast,Aggravated Assault,169,341,297,299,301,317,348,358,365,375,1023,341,12.9,18.3,4.7,10,377.4,414.3,426.2,446.4,406
 SWD,98000,Southwest Raleigh,Southwest,Aggravated Assault,67,102,92,128,117,124,107,174,157,160,405,135,40.3,29,-8,19,126.5,109.2,177.6,163.3,137.8
 NA,NA,NA,UNK,Aggravated Assault,0,0,0,1,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
