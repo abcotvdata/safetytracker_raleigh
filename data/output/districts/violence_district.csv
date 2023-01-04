@@ -1,8 +1,8 @@
 district,population,placename,district_name,type,2014,2015,2016,2017,2018,total19,total20,total21,total22,2023,last12mos,total_prior3years,avg_prior3years,inc_19to21,inc_19tolast12,inc_21tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate_last12,rate_prior3years
-DTD,22000,Downtown Raleigh,Downtown,Violent,151,224,245,249,278,323,246,246,258,1,258,815,271.7,-23.8,-20.1,4.9,-5,1468.2,1118.2,1118.2,1172.7,1235
-NED,51000,Northeast Raleigh,Northeast,Violent,182,288,273,287,341,365,305,380,428,1,424,1050,350,4.1,16.2,11.6,21,715.7,598,745.1,831.4,686.3
+DTD,22000,Downtown Raleigh,Downtown,Violent,151,224,245,249,278,323,246,246,258,1,257,815,271.7,-23.8,-20.4,4.5,-5,1468.2,1118.2,1118.2,1168.2,1235
+NED,51000,Northeast Raleigh,Northeast,Violent,182,288,273,287,341,365,305,380,428,1,423,1050,350,4.1,15.9,11.3,21,715.7,598,745.1,829.4,686.3
 NOD,113000,North Raleigh,North,Violent,203,350,286,391,386,334,336,361,280,0,276,1031,343.7,8.1,-17.4,-23.5,-20,295.6,297.3,319.5,244.2,304.2
 NWD,97000,Northwest Raleigh,Northwest,Violent,61,103,119,143,115,117,147,164,183,0,182,428,142.7,40.2,55.6,11,28,120.6,151.5,169.1,187.6,147.1
-SED,84000,Southeast Raleigh,Southeast,Violent,297,591,529,558,533,558,578,651,661,3,659,1787,595.7,16.7,18.1,1.2,11,664.3,688.1,775,784.5,709.2
+SED,84000,Southeast Raleigh,Southeast,Violent,297,591,529,558,533,558,578,651,661,4,660,1787,595.7,16.7,18.3,1.4,11,664.3,688.1,775,785.7,709.2
 SWD,98000,Southwest Raleigh,Southwest,Violent,148,200,239,265,240,273,231,343,295,2,293,847,282.3,25.6,7.3,-14.6,4,278.6,235.7,350,299,288.1
 NA,NA,NA,UNK,Violent,0,0,0,1,0,0,0,0,1,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
