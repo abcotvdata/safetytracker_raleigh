@@ -1,5 +1,5 @@
 district,population,placename,district_name,category,2014,2015,2016,2017,2018,total19,total20,total21,total22,2023,last12mos,total_prior3years,avg_prior3years,inc_19to21,inc_19tolast12,inc_21tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate_last12,rate_prior3years
-DTD,22000,Downtown Raleigh,Downtown,Robbery,62,93,87,93,89,89,90,73,67,3,68,252,84,-18,-23.6,-6.8,-19,404.5,409.1,331.8,309.1,381.8
+DTD,22000,Downtown Raleigh,Downtown,Robbery,62,93,87,93,89,89,90,73,67,4,69,252,84,-18,-22.5,-5.5,-18,404.5,409.1,331.8,313.6,381.8
 NED,51000,Northeast Raleigh,Northeast,Robbery,91,129,117,96,106,101,73,107,105,6,109,281,93.7,5.9,7.9,1.9,16,198,143.1,209.8,213.7,183.7
 NOD,113000,North Raleigh,North,Robbery,109,154,123,151,136,118,114,81,42,3,42,313,104.3,-31.4,-64.4,-48.1,-60,104.4,100.9,71.7,37.2,92.3
 NWD,97000,Northwest Raleigh,Northwest,Robbery,28,44,44,50,35,28,37,37,40,1,41,102,34,32.1,46.4,10.8,21,28.9,38.1,38.1,42.3,35.1
