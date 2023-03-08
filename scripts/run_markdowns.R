@@ -1,6 +1,6 @@
 library(rmarkdown)
 
-# Code to build each of the trackers
+# Code to build each of the tracker's pages
 # Includes loading pre-processed and stored dfs
 # Grouped by each page to allow for individual or mass processing
 

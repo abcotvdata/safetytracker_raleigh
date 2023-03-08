@@ -1,8 +1,8 @@
-district,population,placename,district_name,category,2014,2015,2016,2017,2018,total19,total20,total21,total22,2023,last12mos,total_prior3years,avg_prior3years,inc_19to21,inc_19tolast12,inc_21tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate_last12,rate_prior3years
-DTD,22000,Downtown Raleigh,Downtown,Robbery,62,93,87,93,89,89,90,73,67,10,62,252,84,-18,-30.3,-15.1,-26,404.5,409.1,331.8,281.8,381.8
-NED,51000,Northeast Raleigh,Northeast,Robbery,91,129,117,96,106,101,73,107,105,24,104,281,93.7,5.9,3,-2.8,11,198,143.1,209.8,203.9,183.7
-NOD,113000,North Raleigh,North,Robbery,109,154,123,151,136,118,114,81,42,11,40,313,104.3,-31.4,-66.1,-50.6,-62,104.4,100.9,71.7,35.4,92.3
-NWD,97000,Northwest Raleigh,Northwest,Robbery,28,44,44,50,35,28,37,37,40,7,41,102,34,32.1,46.4,10.8,21,28.9,38.1,38.1,42.3,35.1
-SED,84000,Southeast Raleigh,Southeast,Robbery,113,188,170,145,129,138,120,136,156,20,151,394,131.3,-1.4,9.4,11,15,164.3,142.9,161.9,179.8,156.3
-SWD,98000,Southwest Raleigh,Southwest,Robbery,63,68,112,81,67,75,64,81,50,8,45,220,73.3,8,-40,-44.4,-39,76.5,65.3,82.7,45.9,74.8
-NA,NA,NA,UNK,Robbery,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+district,population,placename,district_name,category,2014,2015,2016,2017,2018,total19,total20,total21,total22,total23,last12mos,total_prior3years,avg_prior3years,inc_19to22,inc_19tolast12,inc_22tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate22,rate_last12,rate_prior3years
+DTD,22000,Downtown Raleigh,Downtown,Robbery,62,93,87,93,89,89,90,73,67,10,62,230,76.7,-24.7,-30.3,-7.5,-19,404.5,409.1,331.8,304.5,281.8,348.6
+NED,51000,Northeast Raleigh,Northeast,Robbery,91,129,117,96,106,101,73,107,105,24,104,285,95,4,3,-1,9,198,143.1,209.8,205.9,203.9,186.3
+NOD,113000,North Raleigh,North,Robbery,109,154,123,151,136,118,114,81,42,11,40,237,79,-64.4,-66.1,-4.8,-49,104.4,100.9,71.7,37.2,35.4,69.9
+NWD,97000,Northwest Raleigh,Northwest,Robbery,28,44,44,50,35,28,37,37,40,7,41,114,38,42.9,46.4,2.5,8,28.9,38.1,38.1,41.2,42.3,39.2
+SED,84000,Southeast Raleigh,Southeast,Robbery,113,188,170,145,129,138,120,136,156,20,151,412,137.3,13,9.4,-3.2,10,164.3,142.9,161.9,185.7,179.8,163.5
+SWD,98000,Southwest Raleigh,Southwest,Robbery,63,68,112,81,67,75,64,81,50,8,45,195,65,-33.3,-40,-10,-31,76.5,65.3,82.7,51,45.9,66.3
+NA,NA,NA,UNK,Robbery,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

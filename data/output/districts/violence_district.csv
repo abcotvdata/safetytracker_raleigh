@@ -1,8 +1,8 @@
-district,population,placename,district_name,type,2014,2015,2016,2017,2018,total19,total20,total21,total22,2023,last12mos,total_prior3years,avg_prior3years,inc_19to21,inc_19tolast12,inc_21tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate_last12,rate_prior3years
-DTD,22000,Downtown Raleigh,Downtown,Violent,151,224,245,249,278,323,246,246,261,40,253,815,271.7,-23.8,-21.7,2.8,-7,1468.2,1118.2,1118.2,1150,1235
-NED,51000,Northeast Raleigh,Northeast,Violent,182,288,273,287,341,365,305,380,428,82,424,1050,350,4.1,16.2,11.6,21,715.7,598,745.1,831.4,686.3
-NOD,113000,North Raleigh,North,Violent,203,350,286,391,386,334,336,362,278,59,285,1032,344,8.4,-14.7,-21.3,-17,295.6,297.3,320.4,252.2,304.4
-NWD,97000,Northwest Raleigh,Northwest,Violent,61,103,119,143,115,117,147,164,183,39,196,428,142.7,40.2,67.5,19.5,37,120.6,151.5,169.1,202.1,147.1
-SED,84000,Southeast Raleigh,Southeast,Violent,297,591,529,558,533,558,578,651,659,101,644,1787,595.7,16.7,15.4,-1.1,8,664.3,688.1,775,766.7,709.2
-SWD,98000,Southwest Raleigh,Southwest,Violent,148,200,239,265,240,273,231,343,296,50,292,847,282.3,25.6,7,-14.9,3,278.6,235.7,350,298,288.1
-NA,NA,NA,UNK,Violent,0,0,0,1,0,0,0,0,1,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+district,population,placename,district_name,type,2014,2015,2016,2017,2018,total19,total20,total21,total22,total23,last12mos,total_prior3years,avg_prior3years,inc_19to22,inc_19tolast12,inc_22tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate22,rate_last12,rate_prior3years
+DTD,22000,Downtown Raleigh,Downtown,Violent,151,224,245,249,278,323,246,246,261,40,253,753,251,-19.2,-21.7,-3.1,1,1468.2,1118.2,1118.2,1186.4,1150,1140.9
+NED,51000,Northeast Raleigh,Northeast,Violent,182,288,273,287,341,365,305,380,428,82,424,1113,371,17.3,16.2,-0.9,14,715.7,598,745.1,839.2,831.4,727.5
+NOD,113000,North Raleigh,North,Violent,203,350,286,391,386,334,336,362,278,59,285,976,325.3,-16.8,-14.7,2.5,-12,295.6,297.3,320.4,246,252.2,287.9
+NWD,97000,Northwest Raleigh,Northwest,Violent,61,103,119,143,115,117,147,164,183,39,196,494,164.7,56.4,67.5,7.1,19,120.6,151.5,169.1,188.7,202.1,169.8
+SED,84000,Southeast Raleigh,Southeast,Violent,297,591,529,558,533,558,578,651,659,101,644,1888,629.3,18.1,15.4,-2.3,2,664.3,688.1,775,784.5,766.7,749.2
+SWD,98000,Southwest Raleigh,Southwest,Violent,148,200,239,265,240,273,231,343,296,50,292,870,290,8.4,7,-1.4,1,278.6,235.7,350,302,298,295.9
+NA,NA,NA,UNK,Violent,0,0,0,1,0,0,0,0,1,0,1,1,0.3,NA,NA,0,233,NA,NA,NA,NA,NA,NA
