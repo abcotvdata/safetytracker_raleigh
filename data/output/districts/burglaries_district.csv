@@ -1,8 +1,8 @@
 district,population,placename,district_name,category,2014,2015,2016,2017,2018,total19,total20,total21,total22,total23,last12mos,total_prior3years,avg_prior3years,inc_19to22,inc_19tolast12,inc_22tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate22,rate_last12,rate_prior3years
 DTD,22000,Downtown Raleigh,Downtown,Burglary,105,179,189,195,167,130,167,147,111,32,117,425,141.7,-14.6,-10,5.4,-17,590.9,759.1,668.2,504.5,531.8,644.1
-NED,51000,Northeast Raleigh,Northeast,Burglary,259,316,342,363,333,221,188,228,224,47,220,640,213.3,1.4,-0.5,-1.8,3,433.3,368.6,447.1,439.2,431.4,418.2
-NOD,113000,North Raleigh,North,Burglary,285,425,480,484,456,270,277,227,192,49,195,696,232,-28.9,-27.8,1.6,-16,238.9,245.1,200.9,169.9,172.6,205.3
+NED,51000,Northeast Raleigh,Northeast,Burglary,259,316,342,363,333,221,188,228,224,48,219,640,213.3,1.4,-0.9,-2.2,3,433.3,368.6,447.1,439.2,429.4,418.2
+NOD,113000,North Raleigh,North,Burglary,285,425,480,484,456,270,277,227,192,50,196,696,232,-28.9,-27.4,2.1,-16,238.9,245.1,200.9,169.9,173.5,205.3
 NWD,97000,Northwest Raleigh,Northwest,Burglary,132,181,205,224,196,126,170,161,197,46,192,528,176,56.3,52.4,-2.5,9,129.9,175.3,166,203.1,197.9,181.4
-SED,84000,Southeast Raleigh,Southeast,Burglary,395,588,561,639,563,449,268,323,280,80,296,871,290.3,-37.6,-34.1,5.7,2,534.5,319,384.5,333.3,352.4,345.6
+SED,84000,Southeast Raleigh,Southeast,Burglary,395,588,561,639,563,449,268,323,280,80,295,871,290.3,-37.6,-34.3,5.4,2,534.5,319,384.5,333.3,351.2,345.6
 SWD,98000,Southwest Raleigh,Southwest,Burglary,318,381,443,427,363,279,204,215,189,59,210,608,202.7,-32.3,-24.7,11.1,4,284.7,208.2,219.4,192.9,214.3,206.8
 NA,NA,NA,UNK,Burglary,0,0,0,0,0,0,0,1,0,0,0,1,0.3,NA,NA,NA,-100,NA,NA,NA,NA,NA,NA
