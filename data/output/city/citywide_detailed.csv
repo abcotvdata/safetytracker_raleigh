@@ -1,5 +1,5 @@
 category,description,2014,total15,total16,total17,total18,total19,total20,total21,total22,total23,last12mos,total_prior3years,avg_prior3years,inc_19to22,inc_19tolast12,inc_22tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate22,rate_last12,rate_prior3years
-Aggravated Assault,Assault/Aggravated,162,875,772,837,893,940,899,1057,1122,359,1137,3078,1026,19.4,21,1.3,11,200.4,191.6,225.3,239.2,242.4,218.7
+Aggravated Assault,Assault/Aggravated,162,875,772,837,893,940,899,1057,1122,361,1135,3078,1026,19.4,20.7,1.2,11,200.4,191.6,225.3,239.2,241.9,218.7
 Aggravated Assault,Assault/Firearm,88,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 Aggravated Assault,Assault/Hands (Aggravated),78,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 Aggravated Assault,Assault/Knife,64,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
@@ -7,50 +7,50 @@ Aggravated Assault,Assault/Other Weapon (Aggravated),80,0,0,0,0,0,0,0,0,0,0,0,0,
 Aggravated Assault,Assault/Simple,0,0,0,0,0,0,1,0,0,0,0,1,0.3,NA,NA,NA,-100,0,0.2,0,0,0,0.1
 Aggravated Assault,Child Abuse/Aggravated,9,27,26,16,30,16,19,19,23,9,27,61,20.3,43.8,68.8,17.4,33,3.4,4.1,4.1,4.9,5.8,4.3
 Burglary,All Other/Trespassing,0,0,0,0,0,0,3,0,0,0,0,3,1,NA,NA,NA,-100,0,0.6,0,0,0,0.2
-Burglary,Burglary/Commercial or Non-Residential,229,427,462,500,450,277,501,413,417,148,438,1331,443.7,50.5,58.1,5,-1,59,106.8,88,88.9,93.4,94.6
-Burglary,Burglary/Residential,1265,1643,1758,1832,1628,1198,770,889,776,267,800,2435,811.7,-35.2,-33.2,3.1,-1,255.4,164.1,189.5,165.4,170.5,173
+Burglary,Burglary/Commercial or Non-Residential,229,427,462,500,450,277,501,413,417,149,438,1331,443.7,50.5,58.1,5,-1,59,106.8,88,88.9,93.4,94.6
+Burglary,Burglary/Residential,1265,1643,1758,1832,1628,1198,770,889,776,267,794,2435,811.7,-35.2,-33.7,2.3,-2,255.4,164.1,189.5,165.4,169.3,173
 Motor Vehicle Theft,All Other/Unauthorized Use of Vehicle,0,0,0,0,0,0,1,0,0,0,0,1,0.3,NA,NA,NA,-100,0,0.2,0,0,0,0.1
-Motor Vehicle Theft,Motor Vehicle Theft,548,826,931,970,836,916,1026,1130,1281,503,1395,3437,1145.7,39.8,52.3,8.9,22,195.3,218.7,240.9,273.1,297.4,244.2
+Motor Vehicle Theft,Motor Vehicle Theft,548,826,931,970,836,916,1026,1130,1281,505,1395,3437,1145.7,39.8,52.3,8.9,22,195.3,218.7,240.9,273.1,297.4,244.2
 Murder,Homicide/Murder-Nonnegligent Manslaughter,9,15,24,27,15,27,25,26,39,5,31,90,30,44.4,14.8,-20.5,3,5.8,5.3,5.5,8.3,6.6,6.4
 Other/Unknown,"ALL OTHER/ALL OTHER OFFENSES (COMM.THREATS, ETC.)",0,0,1,0,3,0,1,0,1,0,1,2,0.7,NA,NA,0,43,0,0.2,0,0.2,0.2,0.1
 Other/Unknown,ALL OTHER/TRESPASSING,0,0,0,0,0,3,0,0,0,0,0,0,0,-100,-100,NA,NA,0.6,0,0,0,0,0
 Other/Unknown,ASSAULT SIMPLE (NOT AGGRAVATED),0,0,0,0,0,0,0,1,0,0,0,1,0.3,NA,NA,NA,-100,0,0,0.2,0,0,0.1
-Other/Unknown,All Other/All Other Offenses,1043,1557,1532,1457,1351,1455,1131,1029,1046,320,1052,3206,1068.7,-28.1,-27.7,0.6,-2,310.2,241.1,219.3,223,224.2,227.8
-Other/Unknown,All Other/Damage to Property (minor),1683,3030,2661,2628,2340,2504,2524,2657,2565,798,2586,7746,2582,2.4,3.3,0.8,0,533.8,538,566.4,546.8,551.2,550.4
-Other/Unknown,All Other/Harassing Telephone Calls,43,294,230,257,260,237,247,264,310,119,341,821,273.7,30.8,43.9,10,25,50.5,52.7,56.3,66.1,72.7,58.3
+Other/Unknown,All Other/All Other Offenses,1043,1557,1532,1457,1351,1455,1131,1029,1046,326,1055,3206,1068.7,-28.1,-27.5,0.9,-1,310.2,241.1,219.3,223,224.9,227.8
+Other/Unknown,All Other/Damage to Property (minor),1683,3030,2661,2628,2340,2504,2524,2657,2565,803,2584,7746,2582,2.4,3.2,0.7,0,533.8,538,566.4,546.8,550.8,550.4
+Other/Unknown,All Other/Harassing Telephone Calls,43,294,230,257,260,237,247,264,310,118,340,821,273.7,30.8,43.5,9.7,24,50.5,52.7,56.3,66.1,72.5,58.3
 Other/Unknown,All Other/Noise Ordinance Violation,9,120,87,54,41,53,21,38,16,0,11,75,25,-69.8,-79.2,-31.2,-56,11.3,4.5,8.1,3.4,2.3,5.3
-Other/Unknown,All Other/Trespassing,270,455,391,503,550,697,624,587,691,223,736,1902,634,-0.9,5.6,6.5,16,148.6,133,125.1,147.3,156.9,135.1
-Other/Unknown,All Other/Unauthorized Use of Vehicle,116,233,253,217,261,224,269,244,260,65,244,773,257.7,16.1,8.9,-6.2,-5,47.7,57.3,52,55.4,52,54.9
+Other/Unknown,All Other/Trespassing,270,455,391,503,550,697,624,587,691,223,732,1902,634,-0.9,5,5.9,15,148.6,133,125.1,147.3,156,135.1
+Other/Unknown,All Other/Unauthorized Use of Vehicle,116,233,253,217,261,224,269,244,260,66,244,773,257.7,16.1,8.9,-6.2,-5,47.7,57.3,52,55.4,52,54.9
 Other/Unknown,Arson,36,47,40,71,38,49,49,39,45,16,47,133,44.3,-8.2,-4.1,4.4,6,10.4,10.4,8.3,9.6,10,9.4
 Other/Unknown,Assault/Aggravated,0,0,0,0,0,0,1,0,0,0,0,1,0.3,NA,NA,NA,-100,0,0.2,0,0,0,0.1
-Other/Unknown,Assault/Intimidation-Communicating Threats,432,904,867,797,1061,1045,1014,1283,1250,401,1279,3547,1182.3,19.6,22.4,2.3,8,222.8,216.1,273.5,266.5,272.6,252
-Other/Unknown,Assault/Simple,2426,4139,4018,3910,4137,4344,3937,4468,4373,1268,4267,12778,4259.3,0.7,-1.8,-2.4,0,926,839.2,952.4,932.2,909.6,907.9
+Other/Unknown,Assault/Intimidation-Communicating Threats,432,904,867,797,1061,1045,1014,1283,1250,403,1281,3547,1182.3,19.6,22.6,2.5,8,222.8,216.1,273.5,266.5,273.1,252
+Other/Unknown,Assault/Simple,2426,4139,4018,3910,4137,4344,3937,4468,4373,1278,4264,12778,4259.3,0.7,-1.8,-2.5,0,926,839.2,952.4,932.2,908.9,907.9
 Other/Unknown,Bribery,1,2,0,0,1,1,1,1,0,0,0,2,0.7,-100,-100,NA,-100,0.2,0.2,0.2,0,0,0.1
-Other/Unknown,Child Abuse/Simple,120,241,265,282,197,194,159,235,202,45,189,596,198.7,4.1,-2.6,-6.4,-5,41.4,33.9,50.1,43.1,40.3,42.4
+Other/Unknown,Child Abuse/Simple,120,241,265,282,197,194,159,235,202,45,188,596,198.7,4.1,-3.1,-6.9,-5,41.4,33.9,50.1,43.1,40.1,42.4
 Other/Unknown,Counterfeiting/Forgery,108,217,382,230,225,153,117,115,151,73,179,383,127.7,-1.3,17,18.5,40,32.6,24.9,24.5,32.2,38.2,27.2
 Other/Unknown,DAMAGE TO PROPERTY/PRIVATE PROPERTY,0,0,0,1,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 Other/Unknown,DRUGS/POSSESSION/OTHER DANGEROUS NONNARCOTIC DRUGS,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
-Other/Unknown,Damage to Property (Group A),469,656,599,631,546,543,659,598,647,178,621,1904,634.7,19.2,14.4,-4,-2,115.7,140.5,127.5,137.9,132.4,135.3
+Other/Unknown,Damage to Property (Group A),469,656,599,631,546,543,659,598,647,179,622,1904,634.7,19.2,14.5,-3.9,-2,115.7,140.5,127.5,137.9,132.6,135.3
 Other/Unknown,Disorderly Conduct/Affray,2,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
-Other/Unknown,Disorderly Conduct/All Other,47,86,77,66,77,70,39,53,57,20,60,149,49.7,-18.6,-14.3,5.3,21,14.9,8.3,11.3,12.2,12.8,10.6
+Other/Unknown,Disorderly Conduct/All Other,47,86,77,66,77,70,39,53,57,20,59,149,49.7,-18.6,-15.7,3.5,19,14.9,8.3,11.3,12.2,12.6,10.6
 Other/Unknown,Disorderly Conduct/Begging,23,17,20,21,14,6,13,5,8,2,7,26,8.7,33.3,16.7,-12.5,-20,1.3,2.8,1.1,1.7,1.5,1.9
 Other/Unknown,Disorderly Conduct/Disturbing the Peace,33,49,31,40,21,25,18,27,21,7,19,66,22,-16,-24,-9.5,-14,5.3,3.8,5.8,4.5,4.1,4.7
-Other/Unknown,Disorderly Conduct/Drunk-Disorderly,61,81,79,85,71,83,37,53,66,17,62,156,52,-20.5,-25.3,-6.1,19,17.7,7.9,11.3,14.1,13.2,11.1
-Other/Unknown,Disorderly Conduct/Resist-Delay-Obstruct Officer,140,272,235,263,298,330,243,261,333,103,344,837,279,0.9,4.2,3.3,23,70.3,51.8,55.6,71,73.3,59.5
-Other/Unknown,Drug Equipment/Paraphernalia,874,1812,1533,1780,1845,1750,1065,1354,1471,529,1511,3890,1296.7,-15.9,-13.7,2.7,17,373,227,288.6,313.6,322.1,276.4
-Other/Unknown,Drug Violation/Felony,333,1542,1440,1650,1569,1618,1273,1305,1452,544,1535,4030,1343.3,-10.3,-5.1,5.7,14,344.9,271.4,278.2,309.5,327.2,286.3
-Other/Unknown,Drug Violation/Misdemeanor,615,2864,2313,2487,2730,2598,1860,2139,2293,823,2374,6292,2097.3,-11.7,-8.6,3.5,13,553.8,396.5,456,488.8,506,447.1
+Other/Unknown,Disorderly Conduct/Drunk-Disorderly,61,81,79,85,71,83,37,53,66,18,63,156,52,-20.5,-24.1,-4.5,21,17.7,7.9,11.3,14.1,13.4,11.1
+Other/Unknown,Disorderly Conduct/Resist-Delay-Obstruct Officer,140,272,235,263,298,330,243,261,333,103,343,837,279,0.9,3.9,3,23,70.3,51.8,55.6,71,73.1,59.5
+Other/Unknown,Drug Equipment/Paraphernalia,874,1812,1533,1780,1845,1750,1065,1354,1471,531,1506,3890,1296.7,-15.9,-13.9,2.4,16,373,227,288.6,313.6,321,276.4
+Other/Unknown,Drug Violation/Felony,333,1542,1440,1650,1569,1618,1273,1305,1452,547,1534,4030,1343.3,-10.3,-5.2,5.6,14,344.9,271.4,278.2,309.5,327,286.3
+Other/Unknown,Drug Violation/Misdemeanor,615,2864,2313,2487,2730,2598,1860,2139,2293,828,2374,6292,2097.3,-11.7,-8.6,3.5,13,553.8,396.5,456,488.8,506,447.1
 Other/Unknown,Drug Violation/Possession,1128,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 Other/Unknown,Drug Violation/Sale or Manufacture,352,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 Other/Unknown,EMBEZZLEMENT/ALL OTHER(LARCENY FROM EMPLOYER),1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
-Other/Unknown,Embezzlement,106,151,174,178,174,144,85,97,127,49,149,309,103,-11.8,3.5,17.3,45,30.7,18.1,20.7,27.1,31.8,22
-Other/Unknown,Extortion/Blackmail,2,9,14,75,62,40,75,63,97,31,108,235,78.3,142.5,170,11.3,38,8.5,16,13.4,20.7,23,16.7
+Other/Unknown,Embezzlement,106,151,174,178,174,144,85,97,127,51,151,309,103,-11.8,4.9,18.9,47,30.7,18.1,20.7,27.1,32.2,22
+Other/Unknown,Extortion/Blackmail,2,9,14,75,62,40,75,63,97,31,107,235,78.3,142.5,167.5,10.3,37,8.5,16,13.4,20.7,22.8,16.7
 Other/Unknown,FRAUD/ALL OTHER,1,0,1,2,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 Other/Unknown,FRAUD/ALL OTHER / IDENTITY THEFT,0,0,0,0,12,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 Other/Unknown,FRAUD/CREDIT CARD FRAUD,0,0,0,1,1,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 Other/Unknown,FRAUD/FALSE PRETENSE,1,0,6,2,1,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 Other/Unknown,FRAUD/WORTHLESS CHECK,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
-Other/Unknown,Family Offenses/Nonviolent (eg: neglect),48,194,138,68,57,37,43,50,37,10,37,130,43.3,0,0,0,-15,7.9,9.2,10.7,7.9,7.9,9.2
+Other/Unknown,Family Offenses/Nonviolent (eg: neglect),48,194,138,68,57,37,43,50,37,10,36,130,43.3,0,-2.7,-2.7,-17,7.9,9.2,10.7,7.9,7.7,9.2
 Other/Unknown,Forgery/Prescription Fraud,41,42,56,70,68,61,46,114,122,21,87,282,94,100,42.6,-28.7,-7,13,9.8,24.3,26,18.5,20
 Other/Unknown,Fraud/Credit Card-ATM Fraud,475,850,1049,1056,860,905,769,709,723,190,662,2201,733.7,-20.1,-26.9,-8.4,-10,192.9,163.9,151.1,154.1,141.1,156.4
 Other/Unknown,Fraud/False Pretense or Swindle,420,739,799,904,914,1078,1012,985,918,354,987,2915,971.7,-14.8,-8.4,7.5,2,229.8,215.7,210,195.7,210.4,207.1
@@ -64,14 +64,14 @@ Other/Unknown,Gambling/Betting-Wagering,0,3,0,0,2,1,1,1,4,0,4,6,2,300,300,0,100,
 Other/Unknown,Gambling/Operating-Promotion-Assisting,0,0,1,1,0,1,0,1,5,0,5,6,2,400,400,0,150,0.2,0,0.2,1.1,1.1,0.4
 Other/Unknown,Homicide/Justifiable Homicide,0,1,2,1,1,2,1,6,2,0,1,9,3,0,-50,-50,-67,0.4,0.2,1.3,0.4,0.2,0.6
 Other/Unknown,Homicide/Negligent Manslaughter,1,1,0,0,2,0,1,1,2,2,4,4,1.3,NA,NA,100,208,0,0.2,0.2,0.4,0.9,0.3
-Other/Unknown,Human Trafficking/Commercial Sex Acts,1,6,16,9,9,16,11,11,10,5,9,32,10.7,-37.5,-43.8,-10,-16,3.4,2.3,2.3,2.1,1.9,2.3
+Other/Unknown,Human Trafficking/Commercial Sex Acts,1,6,16,9,9,16,11,11,10,5,8,32,10.7,-37.5,-50,-20,-25,3.4,2.3,2.3,2.1,1.7,2.3
 Other/Unknown,Human Trafficking/Involuntary Servitude,1,3,5,1,3,4,3,2,1,2,2,6,2,-75,-50,100,0,0.9,0.6,0.4,0.2,0.4,0.4
 Other/Unknown,Humane/All Other Humane,100,35,54,26,44,67,55,50,34,7,35,139,46.3,-49.3,-47.8,2.9,-24,14.3,11.7,10.7,7.2,7.5,9.9
-Other/Unknown,Humane/Animal Bite,298,544,534,572,661,612,539,609,612,161,596,1760,586.7,0,-2.6,-2.6,2,130.5,114.9,129.8,130.5,127,125.1
+Other/Unknown,Humane/Animal Bite,298,544,534,572,661,612,539,609,612,162,596,1760,586.7,0,-2.6,-2.6,2,130.5,114.9,129.8,130.5,127,125.1
 Other/Unknown,Humane/Animal Cruelty,10,33,33,40,43,59,52,58,37,15,43,147,49,-37.3,-27.1,16.2,-12,12.6,11.1,12.4,7.9,9.2,10.4
 Other/Unknown,Humane/Chemical Deployment,19,162,192,183,191,434,444,213,206,52,211,863,287.7,-52.5,-51.4,2.4,-27,92.5,94.6,45.4,43.9,45,61.3
-Other/Unknown,Humane/Injured Animal,12,28,36,70,9,18,22,17,19,3,13,58,19.3,5.6,-27.8,-31.6,-33,3.8,4.7,3.6,4.1,2.8,4.1
-Other/Unknown,Humane/Injured Person,2,3,3,75,17,5,8,7,13,0,12,28,9.3,160,140,-7.7,29,1.1,1.7,1.5,2.8,2.6,2
+Other/Unknown,Humane/Injured Animal,12,28,36,70,9,18,22,17,19,4,14,58,19.3,5.6,-22.2,-26.3,-27,3.8,4.7,3.6,4.1,3,4.1
+Other/Unknown,Humane/Injured Person,2,3,3,75,17,5,8,7,13,0,11,28,9.3,160,120,-15.4,18,1.1,1.7,1.5,2.8,2.3,2
 Other/Unknown,Humane/Noisy Animal,2,1,1,0,1,0,0,1,1,0,1,2,0.7,NA,NA,0,43,0,0,0.2,0.2,0.2,0.1
 Other/Unknown,Humane/Pick Up Animal(s),2,5,7,22,2,4,8,10,3,2,4,21,7,-25,0,33.3,-43,0.9,1.7,2.1,0.6,0.9,1.5
 Other/Unknown,Humane/Rabies Test,21,104,111,68,70,83,83,58,41,8,42,182,60.7,-50.6,-49.4,2.4,-31,17.7,17.7,12.4,8.7,9,12.9
@@ -80,23 +80,23 @@ Other/Unknown,Humane/Vicious Animal,83,143,151,164,189,135,117,100,94,26,91,311,
 Other/Unknown,Juvenile/Child Abuse or Neglect,66,0,0,0,0,0,1,1,0,0,0,2,0.7,NA,NA,NA,-100,0,0.2,0.2,0,0,0.1
 Other/Unknown,Juvenile/Runaway,166,323,278,335,31,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 Other/Unknown,Juvenile/Truancy,8,19,17,7,5,11,1,1,2,2,3,4,1.3,-81.8,-72.7,50,131,2.3,0.2,0.2,0.4,0.6,0.3
-Other/Unknown,Kidnapping/Abduction,20,45,33,37,46,59,41,49,50,10,40,140,46.7,-15.3,-32.2,-20,-14,12.6,8.7,10.4,10.7,8.5,10
+Other/Unknown,Kidnapping/Abduction,20,45,33,37,46,59,41,49,50,11,41,140,46.7,-15.3,-30.5,-18,-12,12.6,8.7,10.4,10.7,8.7,10
 Other/Unknown,LARCENY/SHOPLIFTING,1,0,0,1,0,0,0,1,1,1,2,2,0.7,NA,NA,100,186,0,0,0.2,0.2,0.4,0.1
 Other/Unknown,Larceny/All Other,0,0,0,0,0,0,1,0,0,0,0,1,0.3,NA,NA,NA,-100,0,0.2,0,0,0,0.1
 Other/Unknown,Larceny/Theft from Motor Vehicle,0,0,0,0,0,0,1,0,0,0,0,1,0.3,NA,NA,NA,-100,0,0.2,0,0,0,0.1
 Other/Unknown,Liquor-Alcohol Law Violations,73,139,123,175,208,200,85,56,76,16,62,217,72.3,-62,-69,-18.4,-14,42.6,18.1,11.9,16.2,13.2,15.4
 Other/Unknown,MISC/ALL OTHER / NO OFFENSE COMMITTED,0,0,0,3,2,0,0,2,0,0,0,2,0.7,NA,NA,NA,-100,0,0,0.4,0,0,0.1
-Other/Unknown,Miscellaneous/All Other Non-Offenses,3372,7174,6201,5829,6772,6915,6733,7675,7243,2070,6988,21651,7217,4.7,1.1,-3.5,-3,1474,1435.2,1636,1543.9,1489.6,1538.4
-Other/Unknown,Miscellaneous/Deceased Person,224,425,410,468,423,397,517,600,598,183,594,1715,571.7,50.6,49.6,-0.7,4,84.6,110.2,127.9,127.5,126.6,121.9
-Other/Unknown,Miscellaneous/Found Property,583,1000,934,1002,968,1079,881,911,1037,273,998,2829,943,-3.9,-7.5,-3.8,6,230,187.8,194.2,221.1,212.7,201
+Other/Unknown,Miscellaneous/All Other Non-Offenses,3372,7174,6201,5829,6772,6915,6733,7675,7243,2091,6992,21651,7217,4.7,1.1,-3.5,-3,1474,1435.2,1636,1543.9,1490.4,1538.4
+Other/Unknown,Miscellaneous/Deceased Person,224,425,410,468,423,397,517,600,598,185,595,1715,571.7,50.6,49.9,-0.5,4,84.6,110.2,127.9,127.5,126.8,121.9
+Other/Unknown,Miscellaneous/Found Property,583,1000,934,1002,968,1079,881,911,1037,273,996,2829,943,-3.9,-7.7,-4,6,230,187.8,194.2,221.1,212.3,201
 Other/Unknown,Miscellaneous/Injured Person,58,89,87,57,88,50,58,75,92,23,85,225,75,84,70,-7.6,13,10.7,12.4,16,19.6,18.1,16
-Other/Unknown,Miscellaneous/Lost Property,430,781,824,767,1218,953,598,626,714,189,679,1938,646,-25.1,-28.8,-4.9,5,203.1,127.5,133.4,152.2,144.7,137.7
-Other/Unknown,Miscellaneous/Mental Commitment,658,1106,1040,1060,1204,1474,1515,1713,1761,592,1797,4989,1663,19.5,21.9,2,8,314.2,322.9,365.1,375.4,383.1,354.5
-Other/Unknown,Miscellaneous/Missing Person (17 & under),166,264,237,317,471,543,499,531,593,168,551,1623,541,9.2,1.5,-7.1,2,115.7,106.4,113.2,126.4,117.5,115.3
-Other/Unknown,Miscellaneous/Missing Person (18 & over),242,401,491,425,354,334,323,354,408,117,403,1085,361.7,22.2,20.7,-1.2,11,71.2,68.9,75.5,87,85.9,77.1
-Other/Unknown,Miscellaneous/Overdose,67,152,248,263,329,375,457,643,631,200,624,1731,577,68.3,66.4,-1.1,8,79.9,97.4,137.1,134.5,133,123
+Other/Unknown,Miscellaneous/Lost Property,430,781,824,767,1218,953,598,626,714,191,679,1938,646,-25.1,-28.8,-4.9,5,203.1,127.5,133.4,152.2,144.7,137.7
+Other/Unknown,Miscellaneous/Mental Commitment,658,1106,1040,1060,1204,1474,1515,1713,1761,600,1800,4989,1663,19.5,22.1,2.2,8,314.2,322.9,365.1,375.4,383.7,354.5
+Other/Unknown,Miscellaneous/Missing Person (17 & under),166,264,237,317,471,543,499,531,593,171,553,1623,541,9.2,1.8,-6.7,2,115.7,106.4,113.2,126.4,117.9,115.3
+Other/Unknown,Miscellaneous/Missing Person (18 & over),242,401,491,425,354,334,323,354,408,119,400,1085,361.7,22.2,19.8,-2,11,71.2,68.9,75.5,87,85.3,77.1
+Other/Unknown,Miscellaneous/Overdose,67,152,248,263,329,375,457,643,631,204,626,1731,577,68.3,66.9,-0.8,8,79.9,97.4,137.1,134.5,133.4,123
 Other/Unknown,Miscellaneous/Overdose Death,1,20,45,67,39,56,71,84,71,24,67,226,75.3,26.8,19.6,-5.6,-11,11.9,15.1,17.9,15.1,14.3,16.1
-Other/Unknown,Miscellaneous/Suicide,114,232,169,198,234,198,177,175,217,67,209,569,189.7,9.6,5.6,-3.7,10,42.2,37.7,37.3,46.3,44.6,40.4
+Other/Unknown,Miscellaneous/Suicide,114,232,169,198,234,198,177,175,217,67,207,569,189.7,9.6,4.5,-4.6,9,42.2,37.7,37.3,46.3,44.1,40.4
 Other/Unknown,Motor Vehicle Theft,0,0,0,0,0,0,1,0,0,0,0,1,0.3,NA,NA,NA,-100,0,0.2,0,0,0,0.1
 Other/Unknown,Pornography/Obscene Material,21,33,25,27,32,45,131,122,165,45,158,418,139.3,266.7,251.1,-4.2,13,9.6,27.9,26,35.2,33.7,29.7
 Other/Unknown,Prostitution/Assisting-Promoting,10,12,13,11,6,10,1,4,4,0,3,9,3,-60,-70,-25,0,2.1,0.2,0.9,0.9,0.6,0.6
@@ -104,33 +104,33 @@ Other/Unknown,Prostitution/Engaging,28,38,39,25,11,16,9,4,3,0,2,16,5.3,-81.2,-87
 Other/Unknown,Prostitution/Purchasing,1,7,15,17,7,5,2,3,1,0,0,6,2,-80,-100,-100,-100,1.1,0.4,0.6,0.2,0,0.4
 Other/Unknown,Sex Offense/All Other,141,304,254,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 Other/Unknown,Sex Offense/Incest,8,6,5,8,4,8,4,10,4,1,3,18,6,-50,-62.5,-25,-50,1.7,0.9,2.1,0.9,0.6,1.3
-Other/Unknown,Sex Offense/Indecent Exposure,93,117,116,121,120,123,105,135,129,38,127,369,123,4.9,3.3,-1.6,3,26.2,22.4,28.8,27.5,27.1,26.2
-Other/Unknown,Sex Offense/Peeping Tom,21,27,25,41,66,46,21,46,46,14,47,113,37.7,0,2.2,2.2,25,9.8,4.5,9.8,9.8,10,8
+Other/Unknown,Sex Offense/Indecent Exposure,93,117,116,121,120,123,105,135,129,39,128,369,123,4.9,4.1,-0.8,4,26.2,22.4,28.8,27.5,27.3,26.2
+Other/Unknown,Sex Offense/Peeping Tom,21,27,25,41,66,46,21,46,46,15,47,113,37.7,0,2.2,2.2,25,9.8,4.5,9.8,9.8,10,8
 Other/Unknown,Sex Offense/Statutory Rape,20,20,24,34,26,20,25,25,34,7,36,84,28,70,80,5.9,29,4.3,5.3,5.3,7.2,7.7,6
 Other/Unknown,Stolen Property/Possess Stolen Vehicle (w/ Arrest) (STOLEN FROM OTHER JURISDICTION),57,52,50,66,42,60,64,49,57,22,60,170,56.7,-5,0,5.3,6,12.8,13.6,10.4,12.2,12.8,12.1
 Other/Unknown,Stolen Property/Possession (w/ Arrest) (STOLEN FROM OTHER JURISDICTION),99,88,71,93,102,104,65,67,74,33,83,206,68.7,-28.8,-20.2,12.2,21,22.2,13.9,14.3,15.8,17.7,14.6
 Other/Unknown,Stolen Property/Recover Stolen Property (no arrest) (STOLEN FROM OTHER JURISDICTION),32,63,63,62,57,66,69,73,74,30,83,216,72,12.1,25.8,12.2,15,14.1,14.7,15.6,15.8,17.7,15.3
-Other/Unknown,Stolen Property/Recover Stolen Vehicle (no arrest) (STOLEN FROM OTHER JURISDICTION),38,81,131,128,131,141,130,186,168,74,207,484,161.3,19.1,46.8,23.2,28,30.1,27.7,39.6,35.8,44.1,34.4
+Other/Unknown,Stolen Property/Recover Stolen Vehicle (no arrest) (STOLEN FROM OTHER JURISDICTION),38,81,131,128,131,141,130,186,168,74,206,484,161.3,19.1,46.1,22.6,28,30.1,27.7,39.6,35.8,43.9,34.4
 Other/Unknown,Traffic/Citizen Request,34,58,54,41,30,23,19,7,2,0,1,28,9.3,-91.3,-95.7,-50,-89,4.9,4.1,1.5,0.4,0.2,2
-Other/Unknown,Traffic/DWI (Driving While Impaired),1608,2210,1593,1188,1095,1029,750,873,799,333,874,2422,807.3,-22.4,-15.1,9.4,8,219.3,159.9,186.1,170.3,186.3,172.1
+Other/Unknown,Traffic/DWI (Driving While Impaired),1608,2210,1593,1188,1095,1029,750,873,799,337,874,2422,807.3,-22.4,-15.1,9.4,8,219.3,159.9,186.1,170.3,186.3,172.1
 Other/Unknown,WEAPONS/ALL OTHER,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 Other/Unknown,Weapons/All Other,30,45,49,16,20,32,40,56,159,110,243,255,85,396.9,659.4,52.8,186,6.8,8.5,11.9,33.9,51.8,18.1
-Other/Unknown,Weapons/Carry Concealed Weapon,146,247,225,275,319,326,308,520,756,304,790,1584,528,131.9,142.3,4.5,50,69.5,65.7,110.8,161.2,168.4,112.6
+Other/Unknown,Weapons/Carry Concealed Weapon,146,247,225,275,319,326,308,520,756,305,790,1584,528,131.9,142.3,4.5,50,69.5,65.7,110.8,161.2,168.4,112.6
 Other/Unknown,Weapons/Illegal Possession of Weapon,74,107,139,175,174,174,197,276,304,109,321,777,259,74.7,84.5,5.6,24,37.1,42,58.8,64.8,68.4,55.2
-Other/Unknown,Weapons/Shots Fired,301,645,673,810,786,767,887,1070,980,241,899,2937,979,27.8,17.2,-8.3,-8,163.5,189.1,228.1,208.9,191.6,208.7
+Other/Unknown,Weapons/Shots Fired,301,645,673,810,786,767,887,1070,980,247,903,2937,979,27.8,17.7,-7.9,-8,163.5,189.1,228.1,208.9,192.5,208.7
 Robbery,Larceny/Shoplifting,0,0,0,0,0,0,1,0,0,0,0,1,0.3,NA,NA,NA,-100,0,0.2,0,0,0,0.1
 Robbery,Robbery/From Business,84,128,141,179,116,111,71,84,94,24,83,249,83,-15.3,-25.2,-11.7,0,23.7,15.1,17.9,20,17.7,17.7
 Robbery,Robbery/From Person,382,548,512,437,446,438,426,431,366,119,372,1223,407.7,-16.4,-15.1,1.6,-9,93.4,90.8,91.9,78,79.3,86.9
-Sexual Assault,Sex Offense/Assault with an Object,1,1,5,10,8,2,1,3,6,1,6,10,3.3,200,200,0,82,0.4,0.2,0.6,1.3,1.3,0.7
-Sexual Assault,Sex Offense/Forcible Fondling,27,43,59,183,197,216,216,302,236,89,246,754,251.3,9.3,13.9,4.2,-2,46,46,64.4,50.3,52.4,53.6
-Sexual Assault,Sex Offense/Forcible Rape,52,108,136,158,153,185,159,205,178,49,180,542,180.7,-3.8,-2.7,1.1,-0,39.4,33.9,43.7,37.9,38.4,38.5
-Sexual Assault,Sex Offense/Forcible Sodomy,7,11,16,47,35,35,25,19,42,9,28,86,28.7,20,-20,-33.3,-2,7.5,5.3,4.1,9,6,6.1
+Sexual Assault,Sex Offense/Assault with an Object,1,1,5,10,8,2,1,3,6,0,5,10,3.3,200,150,-16.7,52,0.4,0.2,0.6,1.3,1.1,0.7
+Sexual Assault,Sex Offense/Forcible Fondling,27,43,59,183,197,216,216,302,236,89,242,754,251.3,9.3,12,2.5,-4,46,46,64.4,50.3,51.6,53.6
+Sexual Assault,Sex Offense/Forcible Rape,52,108,136,158,153,185,159,205,178,49,179,542,180.7,-3.8,-3.2,0.6,-1,39.4,33.9,43.7,37.9,38.2,38.5
+Sexual Assault,Sex Offense/Forcible Sodomy,7,11,16,47,35,35,25,19,42,10,29,86,28.7,20,-17.1,-31,1,7.5,5.3,4.1,9,6.2,6.1
 Theft,Burglary/Residential,0,0,0,0,0,0,1,0,0,0,0,1,0.3,NA,NA,NA,-100,0,0.2,0,0,0,0.1
-Theft,Larceny/All Other,1870,2764,2679,2399,2284,2558,2383,2585,2563,581,2215,7531,2510.3,0.2,-13.4,-13.6,-12,545.3,508,551,546.3,472.2,535.1
-Theft,Larceny/Pocket-Picking,30,63,61,52,46,69,44,83,144,26,94,271,90.3,108.7,36.2,-34.7,4,14.7,9.4,17.7,30.7,20,19.2
+Theft,Larceny/All Other,1870,2764,2679,2399,2284,2558,2383,2585,2563,587,2212,7531,2510.3,0.2,-13.5,-13.7,-12,545.3,508,551,546.3,471.5,535.1
+Theft,Larceny/Pocket-Picking,30,63,61,52,46,69,44,83,144,27,93,271,90.3,108.7,34.8,-35.4,3,14.7,9.4,17.7,30.7,19.8,19.2
 Theft,Larceny/Purse-Snatching,17,40,31,58,31,31,24,29,23,8,23,76,25.3,-25.8,-25.8,0,-9,6.6,5.1,6.2,4.9,4.9,5.4
-Theft,Larceny/Shoplifting,1117,1888,1895,1979,2001,2260,1792,2003,2121,711,2199,5916,1972,-6.2,-2.7,3.7,12,481.7,382,427,452.1,468.7,420.4
-Theft,Larceny/Theft from Building,434,640,527,615,580,602,393,352,589,335,816,1334,444.7,-2.2,35.5,38.5,83,128.3,83.8,75,125.6,173.9,94.8
+Theft,Larceny/Shoplifting,1117,1888,1895,1979,2001,2260,1792,2003,2121,716,2204,5916,1972,-6.2,-2.5,3.9,12,481.7,382,427,452.1,469.8,420.4
+Theft,Larceny/Theft from Building,434,640,527,615,580,602,393,352,589,337,818,1334,444.7,-2.2,35.9,38.9,84,128.3,83.8,75,125.6,174.4,94.8
 Theft,Larceny/Theft from Coin-Operated Machine,5,17,12,13,15,10,7,10,31,8,25,48,16,210,150,-19.4,56,2.1,1.5,2.1,6.6,5.3,3.4
-Theft,Larceny/Theft from Motor Vehicle,1988,2516,2777,3166,2555,2575,2559,2485,2975,837,2772,8019,2673,15.5,7.7,-6.8,4,548.9,545.5,529.7,634.2,590.9,569.8
-Theft,Larceny/Theft of MV Parts-Accessories,251,430,383,376,410,394,493,650,564,164,574,1707,569,43.1,45.7,1.8,1,84,105.1,138.6,120.2,122.4,121.3
+Theft,Larceny/Theft from Motor Vehicle,1988,2516,2777,3166,2555,2575,2559,2485,2975,845,2775,8019,2673,15.5,7.8,-6.7,4,548.9,545.5,529.7,634.2,591.5,569.8
+Theft,Larceny/Theft of MV Parts-Accessories,251,430,383,376,410,394,493,650,564,165,574,1707,569,43.1,45.7,1.8,1,84,105.1,138.6,120.2,122.4,121.3
