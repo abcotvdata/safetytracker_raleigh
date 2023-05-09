@@ -106,7 +106,7 @@ Aggravated Assault,2023-01-01,98,85
 Aggravated Assault,2023-02-01,88,83
 Aggravated Assault,2023-03-01,103,96
 Aggravated Assault,2023-04-01,101,97
-Aggravated Assault,2023-05-01,8,71
+Aggravated Assault,2023-05-01,12,72
 Burglary,2014-06-01,185,NA
 Burglary,2014-07-01,213,NA
 Burglary,2014-08-01,221,206
@@ -214,7 +214,7 @@ Burglary,2023-01-01,130,119
 Burglary,2023-02-01,104,117
 Burglary,2023-03-01,107,114
 Burglary,2023-04-01,102,104
-Burglary,2023-05-01,18,76
+Burglary,2023-05-01,24,78
 Motor Vehicle Theft,2014-06-01,82,NA
 Motor Vehicle Theft,2014-07-01,91,NA
 Motor Vehicle Theft,2014-08-01,81,85
@@ -322,7 +322,7 @@ Motor Vehicle Theft,2023-01-01,137,116
 Motor Vehicle Theft,2023-02-01,127,127
 Motor Vehicle Theft,2023-03-01,121,128
 Motor Vehicle Theft,2023-04-01,160,136
-Motor Vehicle Theft,2023-05-01,27,103
+Motor Vehicle Theft,2023-05-01,30,104
 Murder,2014-06-01,3,NA
 Murder,2014-07-01,2,NA
 Murder,2014-08-01,1,2
@@ -414,6 +414,7 @@ Murder,2022-12-01,2,3
 Murder,2023-01-01,1,2
 Murder,2023-03-01,3,2
 Murder,2023-04-01,2,2
+Murder,2023-05-01,1,2
 Other/Unknown,2014-06-01,2812,NA
 Other/Unknown,2014-07-01,2879,NA
 Other/Unknown,2014-08-01,2984,2892
@@ -481,7 +482,7 @@ Other/Unknown,2019-09-01,3086,3237
 Other/Unknown,2019-10-01,3293,3247
 Other/Unknown,2019-11-01,3026,3135
 Other/Unknown,2019-12-01,3236,3185
-Other/Unknown,2020-01-01,3241,3168
+Other/Unknown,2020-01-01,3242,3168
 Other/Unknown,2020-02-01,2829,3102
 Other/Unknown,2020-03-01,2957,3009
 Other/Unknown,2020-04-01,2601,2796
@@ -520,8 +521,8 @@ Other/Unknown,2022-12-01,3227,3183
 Other/Unknown,2023-01-01,3459,3266
 Other/Unknown,2023-02-01,3057,3248
 Other/Unknown,2023-03-01,3402,3306
-Other/Unknown,2023-04-01,3203,3221
-Other/Unknown,2023-05-01,649,2418
+Other/Unknown,2023-04-01,3204,3221
+Other/Unknown,2023-05-01,735,2447
 Robbery,2014-06-01,69,NA
 Robbery,2014-07-01,67,NA
 Robbery,2014-08-01,65,67
@@ -844,5 +845,5 @@ Theft,2022-12-01,732,702
 Theft,2023-01-01,756,721
 Theft,2023-02-01,648,712
 Theft,2023-03-01,708,704
-Theft,2023-04-01,788,715
-Theft,2023-05-01,176,557
+Theft,2023-04-01,787,714
+Theft,2023-05-01,190,562
