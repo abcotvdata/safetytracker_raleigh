@@ -1,8 +1,8 @@
 district,population,placename,district_name,category,2014,2015,2016,2017,2018,total19,total20,total21,total22,total23,last12mos,total_prior3years,avg_prior3years,inc_19to22,inc_19tolast12,inc_22tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate22,rate_last12,rate_prior3years
 DTD,22000,Downtown Raleigh,Downtown,Motor Vehicle Theft,55,110,136,99,94,117,105,111,95,50,111,311,103.7,-18.8,-5.1,16.8,7,531.8,477.3,504.5,431.8,504.5,471.4
-NED,51000,Northeast Raleigh,Northeast,Motor Vehicle Theft,73,107,148,207,179,154,196,205,300,120,315,701,233.7,94.8,104.5,5,35,302,384.3,402,588.2,617.6,458.2
+NED,51000,Northeast Raleigh,Northeast,Motor Vehicle Theft,73,107,148,207,179,154,196,205,300,120,313,701,233.7,94.8,103.2,4.3,34,302,384.3,402,588.2,613.7,458.2
 NOD,113000,North Raleigh,North,Motor Vehicle Theft,121,204,202,194,137,190,178,250,188,90,209,616,205.3,-1.1,10,11.2,2,168.1,157.5,221.2,166.4,185,181.7
-NWD,97000,Northwest Raleigh,Northwest,Motor Vehicle Theft,52,69,108,106,110,106,112,126,217,163,320,455,151.7,104.7,201.9,47.5,111,109.3,115.5,129.9,223.7,329.9,156.4
-SED,84000,Southeast Raleigh,Southeast,Motor Vehicle Theft,148,199,201,209,186,234,249,243,304,115,289,796,265.3,29.9,23.5,-4.9,9,278.6,296.4,289.3,361.9,344,315.8
-SWD,98000,Southwest Raleigh,Southwest,Motor Vehicle Theft,99,137,136,155,130,115,187,195,177,102,214,559,186.3,53.9,86.1,20.9,15,117.3,190.8,199,180.6,218.4,190.1
+NWD,97000,Northwest Raleigh,Northwest,Motor Vehicle Theft,52,69,108,106,110,106,112,126,217,164,321,455,151.7,104.7,202.8,47.9,112,109.3,115.5,129.9,223.7,330.9,156.4
+SED,84000,Southeast Raleigh,Southeast,Motor Vehicle Theft,148,199,201,209,186,234,249,243,304,115,288,796,265.3,29.9,23.1,-5.3,9,278.6,296.4,289.3,361.9,342.9,315.8
+SWD,98000,Southwest Raleigh,Southwest,Motor Vehicle Theft,99,137,136,155,130,115,187,195,177,102,213,559,186.3,53.9,85.2,20.3,14,117.3,190.8,199,180.6,217.3,190.1
 NA,NA,NA,UNK,Motor Vehicle Theft,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

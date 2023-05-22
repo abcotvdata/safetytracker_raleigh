@@ -1,8 +1,8 @@
 district,population,placename,district_name,category,2014,2015,2016,2017,2018,total19,total20,total21,total22,total23,last12mos,total_prior3years,avg_prior3years,inc_19to22,inc_19tolast12,inc_22tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate22,rate_last12,rate_prior3years
-DTD,22000,Downtown Raleigh,Downtown,Aggravated Assault,72,118,125,105,144,172,101,124,144,61,148,369,123,-16.3,-14,2.8,20,781.8,459.1,563.6,654.5,672.7,559.1
-NED,51000,Northeast Raleigh,Northeast,Aggravated Assault,76,133,110,118,147,161,143,170,239,95,258,552,184,48.4,60.2,7.9,40,315.7,280.4,333.3,468.6,505.9,360.8
-NOD,113000,North Raleigh,North,Aggravated Assault,78,162,121,150,174,138,155,179,141,62,148,475,158.3,2.2,7.2,5,-7,122.1,137.2,158.4,124.8,131,140.1
-NWD,97000,Northwest Raleigh,Northwest,Aggravated Assault,20,46,53,52,40,44,65,71,85,38,86,221,73.7,93.2,95.5,1.2,17,45.4,67,73.2,87.6,88.7,76
-SED,84000,Southeast Raleigh,Southeast,Aggravated Assault,168,341,297,299,301,317,348,358,374,128,359,1080,360,18,13.2,-4,-0,377.4,414.3,426.2,445.2,427.4,428.6
+DTD,22000,Downtown Raleigh,Downtown,Aggravated Assault,72,118,125,105,144,172,101,124,144,61,147,369,123,-16.3,-14.5,2.1,20,781.8,459.1,563.6,654.5,668.2,559.1
+NED,51000,Northeast Raleigh,Northeast,Aggravated Assault,76,133,110,118,147,161,143,170,239,96,259,552,184,48.4,60.9,8.4,41,315.7,280.4,333.3,468.6,507.8,360.8
+NOD,113000,North Raleigh,North,Aggravated Assault,78,162,121,150,174,138,155,179,141,62,146,475,158.3,2.2,5.8,3.5,-8,122.1,137.2,158.4,124.8,129.2,140.1
+NWD,97000,Northwest Raleigh,Northwest,Aggravated Assault,20,46,53,52,40,44,65,71,85,38,85,221,73.7,93.2,93.2,0,15,45.4,67,73.2,87.6,87.6,76
+SED,84000,Southeast Raleigh,Southeast,Aggravated Assault,168,341,297,299,301,317,348,358,374,130,360,1080,360,18,13.6,-3.7,0,377.4,414.3,426.2,445.2,428.6,428.6
 SWD,98000,Southwest Raleigh,Southwest,Aggravated Assault,67,102,92,128,117,124,107,174,161,54,155,442,147.3,29.8,25,-3.7,5,126.5,109.2,177.6,164.3,158.2,150.3
 NA,NA,NA,UNK,Aggravated Assault,0,0,0,1,0,0,0,0,1,0,0,1,0.3,NA,NA,-100,-100,NA,NA,NA,NA,NA,NA
