@@ -1,37 +1,37 @@
 district,population,placename,district_name,category,description,2014,total15,total16,total17,total18,total19,total20,total21,total22,total23,last12mos,total_prior3years,avg_prior3years,inc_19to22,inc_19tolast12,inc_22tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate22,rate_last12,rate_prior3years
-DTD,22000,Downtown Raleigh,Downtown,Aggravated Assault,Assault/Aggravated,21,116,124,105,140,171,100,124,144,73,144,368,122.7,-15.8,-15.8,0,17,777.3,454.5,563.6,654.5,654.5,557.7
+DTD,22000,Downtown Raleigh,Downtown,Aggravated Assault,Assault/Aggravated,21,116,124,105,140,171,100,124,144,74,144,368,122.7,-15.8,-15.8,0,17,777.3,454.5,563.6,654.5,654.5,557.7
 DTD,22000,Downtown Raleigh,Downtown,Aggravated Assault,Assault/Firearm,8,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 DTD,22000,Downtown Raleigh,Downtown,Aggravated Assault,Assault/Hands (Aggravated),13,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 DTD,22000,Downtown Raleigh,Downtown,Aggravated Assault,Assault/Knife,10,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 DTD,22000,Downtown Raleigh,Downtown,Aggravated Assault,Assault/Other Weapon (Aggravated),19,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 DTD,22000,Downtown Raleigh,Downtown,Aggravated Assault,Child Abuse/Aggravated,1,2,1,0,4,1,1,0,0,2,2,1,0.3,-100,100,NA,567,4.5,4.5,0,0,9.1,1.4
 DTD,22000,Downtown Raleigh,Downtown,Burglary,Burglary/Commercial or Non-Residential,27,69,79,70,57,33,112,64,43,35,61,219,73,30.3,84.8,41.9,-16,150,509.1,290.9,195.5,277.3,331.8
-DTD,22000,Downtown Raleigh,Downtown,Burglary,Burglary/Residential,78,110,110,125,110,97,55,83,68,32,65,206,68.7,-29.9,-33,-4.4,-5,440.9,250,377.3,309.1,295.5,312.3
-DTD,22000,Downtown Raleigh,Downtown,Motor Vehicle Theft,Motor Vehicle Theft,55,110,136,99,94,117,105,111,95,69,121,311,103.7,-18.8,3.4,27.4,17,531.8,477.3,504.5,431.8,550,471.4
+DTD,22000,Downtown Raleigh,Downtown,Burglary,Burglary/Residential,78,110,110,125,110,97,55,83,68,33,66,206,68.7,-29.9,-32,-2.9,-4,440.9,250,377.3,309.1,300,312.3
+DTD,22000,Downtown Raleigh,Downtown,Motor Vehicle Theft,Motor Vehicle Theft,55,110,136,99,94,117,105,111,95,70,121,311,103.7,-18.8,3.4,27.4,17,531.8,477.3,504.5,431.8,550,471.4
 DTD,22000,Downtown Raleigh,Downtown,Murder,Homicide/Murder-Nonnegligent Manslaughter,3,1,2,4,0,3,4,2,2,1,2,8,2.7,-33.3,-33.3,0,-26,13.6,18.2,9.1,9.1,9.1,12.3
-DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,All Other/All Other Offenses,148,209,227,203,169,207,145,118,88,49,97,351,117,-57.5,-53.1,10.2,-17,940.9,659.1,536.4,400,440.9,531.8
-DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,All Other/Damage to Property (minor),158,367,353,353,343,368,324,327,333,147,332,984,328,-9.5,-9.8,-0.3,1,1672.7,1472.7,1486.4,1513.6,1509.1,1490.9
+DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,All Other/All Other Offenses,148,209,227,203,169,207,145,118,88,50,98,351,117,-57.5,-52.7,11.4,-16,940.9,659.1,536.4,400,445.5,531.8
+DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,All Other/Damage to Property (minor),158,367,353,353,343,368,324,327,333,147,330,984,328,-9.5,-10.3,-0.9,1,1672.7,1472.7,1486.4,1513.6,1500,1490.9
 DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,All Other/Harassing Telephone Calls,4,24,21,21,17,29,15,24,24,7,19,63,21,-17.2,-34.5,-20.8,-10,131.8,68.2,109.1,109.1,86.4,95.5
 DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,All Other/Noise Ordinance Violation,4,72,44,41,30,38,11,29,5,1,4,45,15,-86.8,-89.5,-20,-73,172.7,50,131.8,22.7,18.2,68.2
 DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,All Other/Trespassing,72,103,93,129,130,152,123,106,110,63,133,339,113,-27.6,-12.5,20.9,18,690.9,559.1,481.8,500,604.5,513.6
 DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,All Other/Unauthorized Use of Vehicle,15,28,32,24,43,37,26,30,30,14,25,86,28.7,-18.9,-32.4,-16.7,-13,168.2,118.2,136.4,136.4,113.6,130.5
 DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Arson,1,5,3,3,5,4,13,7,3,3,5,23,7.7,-25,25,66.7,-35,18.2,59.1,31.8,13.6,22.7,35
-DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Assault/Intimidation-Communicating Threats,46,104,121,136,156,144,126,128,120,52,115,374,124.7,-16.7,-20.1,-4.2,-8,654.5,572.7,581.8,545.5,522.7,566.8
+DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Assault/Intimidation-Communicating Threats,46,104,121,136,156,144,126,128,120,54,117,374,124.7,-16.7,-18.8,-2.5,-6,654.5,572.7,581.8,545.5,531.8,566.8
 DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Assault/Simple,338,547,544,584,641,627,492,641,582,253,529,1715,571.7,-7.2,-15.6,-9.1,-7,2850,2236.4,2913.6,2645.5,2404.5,2598.6
 DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Bribery,1,0,0,0,0,1,0,0,0,0,0,0,0,-100,-100,NA,NA,4.5,0,0,0,0,0
 DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Child Abuse/Simple,11,14,16,27,20,11,13,10,14,4,12,37,12.3,27.3,9.1,-14.3,-2,50,59.1,45.5,63.6,54.5,55.9
 DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Counterfeiting/Forgery,14,22,29,15,30,12,5,8,15,8,17,28,9.3,25,41.7,13.3,83,54.5,22.7,36.4,68.2,77.3,42.3
 DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,DAMAGE TO PROPERTY/PRIVATE PROPERTY,0,0,0,1,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
-DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Damage to Property (Group A),57,102,83,70,78,56,128,91,72,40,78,291,97,28.6,39.3,8.3,-20,254.5,581.8,413.6,327.3,354.5,440.9
+DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Damage to Property (Group A),57,102,83,70,78,56,128,91,72,39,77,291,97,28.6,37.5,6.9,-21,254.5,581.8,413.6,327.3,350,440.9
 DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Disorderly Conduct/Affray,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Disorderly Conduct/All Other,16,20,16,13,28,32,19,19,17,8,18,55,18.3,-46.9,-43.8,5.9,-2,145.5,86.4,86.4,77.3,81.8,83.2
 DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Disorderly Conduct/Begging,14,8,13,8,3,1,3,2,3,1,3,8,2.7,200,200,0,11,4.5,13.6,9.1,13.6,13.6,12.3
-DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Disorderly Conduct/Disturbing the Peace,13,12,2,7,7,10,7,10,6,3,7,23,7.7,-40,-30,16.7,-9,45.5,31.8,45.5,27.3,31.8,35
+DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Disorderly Conduct/Disturbing the Peace,13,12,2,7,7,10,7,10,6,3,6,23,7.7,-40,-40,0,-22,45.5,31.8,45.5,27.3,27.3,35
 DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Disorderly Conduct/Drunk-Disorderly,34,34,39,38,34,45,17,29,26,9,24,72,24,-42.2,-46.7,-7.7,0,204.5,77.3,131.8,118.2,109.1,109.1
 DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Disorderly Conduct/Resist-Delay-Obstruct Officer,45,42,60,56,72,87,54,53,59,27,57,166,55.3,-32.2,-34.5,-3.4,3,395.5,245.5,240.9,268.2,259.1,251.4
-DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Drug Equipment/Paraphernalia,206,452,498,633,616,618,268,307,297,175,322,872,290.7,-51.9,-47.9,8.4,11,2809.1,1218.2,1395.5,1350,1463.6,1321.4
+DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Drug Equipment/Paraphernalia,206,452,498,633,616,618,268,307,297,176,322,872,290.7,-51.9,-47.9,8.4,11,2809.1,1218.2,1395.5,1350,1463.6,1321.4
 DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Drug Violation/Felony,58,245,256,246,288,338,155,172,221,135,240,548,182.7,-34.6,-29,8.6,31,1536.4,704.5,781.8,1004.5,1090.9,830.5
-DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Drug Violation/Misdemeanor,122,560,693,745,781,681,294,409,455,246,457,1158,386,-33.2,-32.9,0.4,18,3095.5,1336.4,1859.1,2068.2,2077.3,1754.5
+DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Drug Violation/Misdemeanor,122,560,693,745,781,681,294,409,455,246,454,1158,386,-33.2,-33.3,-0.2,18,3095.5,1336.4,1859.1,2068.2,2063.6,1754.5
 DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Drug Violation/Possession,259,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Drug Violation/Sale or Manufacture,34,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Embezzlement,8,18,23,24,29,25,14,19,7,3,7,40,13.3,-72,-72,0,-47,113.6,63.6,86.4,31.8,31.8,60.5
@@ -68,15 +68,15 @@ DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Kidnapping/Abduction,2,2,4,3,7
 DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Larceny/Theft from Motor Vehicle,0,0,0,0,0,0,1,0,0,0,0,1,0.3,NA,NA,NA,-100,0,4.5,0,0,0,1.4
 DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Liquor-Alcohol Law Violations,23,36,53,111,156,128,41,23,25,10,20,89,29.7,-80.5,-84.4,-20,-33,581.8,186.4,104.5,113.6,90.9,135
 DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,MISC/ALL OTHER / NO OFFENSE COMMITTED,0,0,0,0,2,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
-DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Miscellaneous/All Other Non-Offenses,381,856,1014,866,972,878,763,918,784,295,707,2465,821.7,-10.7,-19.5,-9.8,-14,3990.9,3468.2,4172.7,3563.6,3213.6,3735
+DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Miscellaneous/All Other Non-Offenses,381,856,1014,866,972,878,763,918,784,296,706,2465,821.7,-10.7,-19.6,-9.9,-14,3990.9,3468.2,4172.7,3563.6,3209.1,3735
 DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Miscellaneous/Deceased Person,30,30,30,35,27,28,42,38,41,31,52,121,40.3,46.4,85.7,26.8,29,127.3,190.9,172.7,186.4,236.4,183.2
-DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Miscellaneous/Found Property,201,358,359,372,392,386,296,298,349,119,313,943,314.3,-9.6,-18.9,-10.3,-0,1754.5,1345.5,1354.5,1586.4,1422.7,1428.6
+DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Miscellaneous/Found Property,201,358,359,372,392,386,296,298,349,119,312,943,314.3,-9.6,-19.2,-10.6,-1,1754.5,1345.5,1354.5,1586.4,1418.2,1428.6
 DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Miscellaneous/Injured Person,15,16,17,12,25,14,18,18,14,0,5,50,16.7,0,-64.3,-64.3,-70,63.6,81.8,81.8,63.6,22.7,75.9
 DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Miscellaneous/Lost Property,97,142,158,164,222,215,83,119,122,37,98,324,108,-43.3,-54.4,-19.7,-9,977.3,377.3,540.9,554.5,445.5,490.9
-DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Miscellaneous/Mental Commitment,75,162,156,158,163,217,197,245,171,66,165,613,204.3,-21.2,-24,-3.5,-19,986.4,895.5,1113.6,777.3,750,928.6
+DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Miscellaneous/Mental Commitment,75,162,156,158,163,217,197,245,171,66,164,613,204.3,-21.2,-24.4,-4.1,-20,986.4,895.5,1113.6,777.3,745.5,928.6
 DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Miscellaneous/Missing Person (17 & under),8,21,17,20,19,36,31,39,25,21,33,95,31.7,-30.6,-8.3,32,4,163.6,140.9,177.3,113.6,150,144.1
-DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Miscellaneous/Missing Person (18 & over),29,49,61,52,49,48,40,45,54,21,49,139,46.3,12.5,2.1,-9.3,6,218.2,181.8,204.5,245.5,222.7,210.5
-DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Miscellaneous/Overdose,10,13,26,25,52,48,50,87,55,37,68,192,64,14.6,41.7,23.6,6,218.2,227.3,395.5,250,309.1,290.9
+DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Miscellaneous/Missing Person (18 & over),29,49,61,52,49,48,40,45,54,21,48,139,46.3,12.5,0,-11.1,4,218.2,181.8,204.5,245.5,218.2,210.5
+DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Miscellaneous/Overdose,10,13,26,25,52,48,50,87,55,37,67,192,64,14.6,39.6,21.8,5,218.2,227.3,395.5,250,304.5,290.9
 DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Miscellaneous/Overdose Death,0,1,7,6,4,6,6,7,4,4,7,17,5.7,-33.3,16.7,75,23,27.3,27.3,31.8,18.2,31.8,25.9
 DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Miscellaneous/Suicide,10,23,8,14,26,30,25,20,22,8,17,67,22.3,-26.7,-43.3,-22.7,-24,136.4,113.6,90.9,100,77.3,101.4
 DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Pornography/Obscene Material,3,3,1,2,1,3,5,8,6,2,2,19,6.3,100,-33.3,-66.7,-68,13.6,22.7,36.4,27.3,9.1,28.6
@@ -95,11 +95,11 @@ DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Stolen Property/Recover Stolen
 DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Traffic/Citizen Request,4,3,2,1,3,0,3,1,1,0,0,5,1.7,NA,NA,-100,-100,0,13.6,4.5,4.5,0,7.7
 DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Traffic/DWI (Driving While Impaired),433,534,386,325,259,211,107,161,160,95,176,428,142.7,-24.2,-16.6,10,23,959.1,486.4,731.8,727.3,800,648.6
 DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Weapons/All Other,1,4,5,5,3,3,6,5,6,9,13,17,5.7,100,333.3,116.7,128,13.6,27.3,22.7,27.3,59.1,25.9
-DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Weapons/Carry Concealed Weapon,35,51,79,77,102,99,59,147,215,113,211,421,140.3,117.2,113.1,-1.9,50,450,268.2,668.2,977.3,959.1,637.7
+DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Weapons/Carry Concealed Weapon,35,51,79,77,102,99,59,147,215,113,210,421,140.3,117.2,112.1,-2.3,50,450,268.2,668.2,977.3,954.5,637.7
 DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Weapons/Illegal Possession of Weapon,2,8,17,18,29,24,24,40,64,24,63,128,42.7,166.7,162.5,-1.6,48,109.1,109.1,181.8,290.9,286.4,194.1
-DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Weapons/Shots Fired,21,43,69,79,59,81,71,103,66,33,66,240,80,-18.5,-18.5,0,-18,368.2,322.7,468.2,300,300,363.6
+DTD,22000,Downtown Raleigh,Downtown,Other/Unknown,Weapons/Shots Fired,21,43,69,79,59,81,71,103,66,33,65,240,80,-18.5,-19.8,-1.5,-19,368.2,322.7,468.2,300,295.5,363.6
 DTD,22000,Downtown Raleigh,Downtown,Robbery,Robbery/From Business,5,8,10,19,11,9,13,8,7,4,7,28,9.3,-22.2,-22.2,0,-25,40.9,59.1,36.4,31.8,31.8,42.3
-DTD,22000,Downtown Raleigh,Downtown,Robbery,Robbery/From Person,57,85,77,74,78,80,77,65,60,30,63,202,67.3,-25,-21.2,5,-6,363.6,350,295.5,272.7,286.4,305.9
+DTD,22000,Downtown Raleigh,Downtown,Robbery,Robbery/From Person,57,85,77,74,78,80,77,65,60,31,64,202,67.3,-25,-20,6.7,-5,363.6,350,295.5,272.7,290.9,305.9
 DTD,22000,Downtown Raleigh,Downtown,Sexual Assault,Sex Offense/Assault with an Object,0,0,3,2,1,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 DTD,22000,Downtown Raleigh,Downtown,Sexual Assault,Sex Offense/Forcible Fondling,5,3,8,20,22,28,22,17,23,15,28,62,20.7,-17.9,0,21.7,35,127.3,100,77.3,104.5,127.3,94.1
 DTD,22000,Downtown Raleigh,Downtown,Sexual Assault,Sex Offense/Forcible Rape,8,6,16,18,19,25,28,23,21,9,21,72,24,-16,-16,0,-12,113.6,127.3,104.5,95.5,95.5,109.1
@@ -108,11 +108,11 @@ DTD,22000,Downtown Raleigh,Downtown,Theft,Larceny/All Other,211,247,259,227,207,
 DTD,22000,Downtown Raleigh,Downtown,Theft,Larceny/Pocket-Picking,7,12,28,32,23,41,16,54,98,26,50,168,56,139,22,-49,-11,186.4,72.7,245.5,445.5,227.3,254.5
 DTD,22000,Downtown Raleigh,Downtown,Theft,Larceny/Purse-Snatching,1,4,4,4,2,6,2,4,2,1,2,8,2.7,-66.7,-66.7,0,-26,27.3,9.1,18.2,9.1,9.1,12.3
 DTD,22000,Downtown Raleigh,Downtown,Theft,Larceny/Shoplifting,51,58,60,86,103,124,149,103,65,28,65,317,105.7,-47.6,-47.6,0,-39,563.6,677.3,468.2,295.5,295.5,480.5
-DTD,22000,Downtown Raleigh,Downtown,Theft,Larceny/Theft from Building,110,159,172,170,161,168,89,98,105,69,128,292,97.3,-37.5,-23.8,21.9,32,763.6,404.5,445.5,477.3,581.8,442.3
+DTD,22000,Downtown Raleigh,Downtown,Theft,Larceny/Theft from Building,110,159,172,170,161,168,89,98,105,69,127,292,97.3,-37.5,-24.4,21,31,763.6,404.5,445.5,477.3,577.3,442.3
 DTD,22000,Downtown Raleigh,Downtown,Theft,Larceny/Theft from Coin-Operated Machine,0,3,1,2,2,1,3,3,0,1,1,6,2,-100,0,NA,-50,4.5,13.6,13.6,0,4.5,9.1
 DTD,22000,Downtown Raleigh,Downtown,Theft,Larceny/Theft from Motor Vehicle,198,268,361,339,260,271,253,225,272,175,340,750,250,0.4,25.5,25,36,1231.8,1150,1022.7,1236.4,1545.5,1136.4
-DTD,22000,Downtown Raleigh,Downtown,Theft,Larceny/Theft of MV Parts-Accessories,27,45,38,51,51,46,47,72,47,8,36,166,55.3,2.2,-21.7,-23.4,-35,209.1,213.6,327.3,213.6,163.6,251.4
-NED,51000,Northeast Raleigh,Northeast,Aggravated Assault,Assault/Aggravated,32,127,106,115,139,159,135,169,234,116,247,538,179.3,47.2,55.3,5.6,38,311.8,264.7,331.4,458.8,484.3,351.6
+DTD,22000,Downtown Raleigh,Downtown,Theft,Larceny/Theft of MV Parts-Accessories,27,45,38,51,51,46,47,72,47,8,35,166,55.3,2.2,-23.9,-25.5,-37,209.1,213.6,327.3,213.6,159.1,251.4
+NED,51000,Northeast Raleigh,Northeast,Aggravated Assault,Assault/Aggravated,32,127,106,115,139,159,135,169,234,118,248,538,179.3,47.2,56,6,38,311.8,264.7,331.4,458.8,486.3,351.6
 NED,51000,Northeast Raleigh,Northeast,Aggravated Assault,Assault/Firearm,11,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 NED,51000,Northeast Raleigh,Northeast,Aggravated Assault,Assault/Hands (Aggravated),16,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 NED,51000,Northeast Raleigh,Northeast,Aggravated Assault,Assault/Knife,5,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
@@ -121,18 +121,18 @@ NED,51000,Northeast Raleigh,Northeast,Aggravated Assault,Child Abuse/Aggravated,
 NED,51000,Northeast Raleigh,Northeast,Burglary,Burglary/Commercial or Non-Residential,31,67,71,82,62,39,66,74,81,63,108,221,73.7,107.7,176.9,33.3,47,76.5,129.4,145.1,158.8,211.8,144.5
 NED,51000,Northeast Raleigh,Northeast,Burglary,Burglary/Residential,228,249,271,281,271,182,122,155,143,37,110,420,140,-21.4,-39.6,-23.1,-21,356.9,239.2,303.9,280.4,215.7,274.5
 NED,51000,Northeast Raleigh,Northeast,Motor Vehicle Theft,All Other/Unauthorized Use of Vehicle,0,0,0,0,0,0,1,0,0,0,0,1,0.3,NA,NA,NA,-100,0,2,0,0,0,0.6
-NED,51000,Northeast Raleigh,Northeast,Motor Vehicle Theft,Motor Vehicle Theft,73,107,148,207,179,154,195,205,300,155,313,700,233.3,94.8,103.2,4.3,34,302,382.4,402,588.2,613.7,457.5
+NED,51000,Northeast Raleigh,Northeast,Motor Vehicle Theft,Motor Vehicle Theft,73,107,148,207,179,154,195,205,300,157,312,700,233.3,94.8,102.6,4,34,302,382.4,402,588.2,611.8,457.5
 NED,51000,Northeast Raleigh,Northeast,Murder,Homicide/Murder-Nonnegligent Manslaughter,1,2,6,4,3,7,4,3,8,2,7,15,5,14.3,0,-12.5,40,13.7,7.8,5.9,15.7,13.7,9.8
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,"ALL OTHER/ALL OTHER OFFENSES (COMM.THREATS, ETC.)",0,0,0,0,2,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
-NED,51000,Northeast Raleigh,Northeast,Other/Unknown,All Other/All Other Offenses,159,236,218,198,214,251,203,188,192,91,198,583,194.3,-23.5,-21.1,3.1,2,492.2,398,368.6,376.5,388.2,381
-NED,51000,Northeast Raleigh,Northeast,Other/Unknown,All Other/Damage to Property (minor),277,498,465,387,374,430,448,458,438,225,473,1344,448,1.9,10,8,6,843.1,878.4,898,858.8,927.5,878.4
-NED,51000,Northeast Raleigh,Northeast,Other/Unknown,All Other/Harassing Telephone Calls,5,42,36,51,41,41,45,44,43,27,48,132,44,4.9,17.1,11.6,9,80.4,88.2,86.3,84.3,94.1,86.3
+NED,51000,Northeast Raleigh,Northeast,Other/Unknown,All Other/All Other Offenses,159,236,218,198,214,251,203,188,192,92,198,583,194.3,-23.5,-21.1,3.1,2,492.2,398,368.6,376.5,388.2,381
+NED,51000,Northeast Raleigh,Northeast,Other/Unknown,All Other/Damage to Property (minor),277,498,465,387,374,430,448,458,438,226,474,1344,448,1.9,10.2,8.2,6,843.1,878.4,898,858.8,929.4,878.4
+NED,51000,Northeast Raleigh,Northeast,Other/Unknown,All Other/Harassing Telephone Calls,5,42,36,51,41,41,45,44,43,27,47,132,44,4.9,14.6,9.3,7,80.4,88.2,86.3,84.3,92.2,86.3
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,All Other/Noise Ordinance Violation,1,1,0,1,0,0,2,0,0,0,0,2,0.7,NA,NA,NA,-100,0,3.9,0,0,0,1.4
-NED,51000,Northeast Raleigh,Northeast,Other/Unknown,All Other/Trespassing,25,46,43,57,67,81,92,110,144,84,177,346,115.3,77.8,118.5,22.9,54,158.8,180.4,215.7,282.4,347.1,226.1
-NED,51000,Northeast Raleigh,Northeast,Other/Unknown,All Other/Unauthorized Use of Vehicle,19,56,46,32,39,49,58,30,58,19,51,146,48.7,18.4,4.1,-12.1,5,96.1,113.7,58.8,113.7,100,95.5
+NED,51000,Northeast Raleigh,Northeast,Other/Unknown,All Other/Trespassing,25,46,43,57,67,81,92,110,144,85,178,346,115.3,77.8,119.8,23.6,54,158.8,180.4,215.7,282.4,349,226.1
+NED,51000,Northeast Raleigh,Northeast,Other/Unknown,All Other/Unauthorized Use of Vehicle,19,56,46,32,39,49,58,30,58,20,52,146,48.7,18.4,6.1,-10.3,7,96.1,113.7,58.8,113.7,102,95.5
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Arson,5,11,3,11,4,12,4,7,14,10,14,25,8.3,16.7,16.7,0,69,23.5,7.8,13.7,27.5,27.5,16.3
-NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Assault/Intimidation-Communicating Threats,55,132,125,132,172,183,176,217,243,97,230,636,212,32.8,25.7,-5.3,8,358.8,345.1,425.5,476.5,451,415.7
-NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Assault/Simple,389,674,683,613,658,808,759,777,842,380,845,2378,792.7,4.2,4.6,0.4,7,1584.3,1488.2,1523.5,1651,1656.9,1554.3
+NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Assault/Intimidation-Communicating Threats,55,132,125,132,172,183,176,217,243,97,227,636,212,32.8,24,-6.6,7,358.8,345.1,425.5,476.5,445.1,415.7
+NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Assault/Simple,389,674,683,613,658,808,759,777,842,382,846,2378,792.7,4.2,4.7,0.5,7,1584.3,1488.2,1523.5,1651,1658.8,1554.3
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Bribery,0,1,0,0,0,0,0,1,0,0,0,1,0.3,NA,NA,NA,-100,0,0,2,0,0,0.6
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Child Abuse/Simple,33,55,65,56,43,33,36,46,44,16,35,126,42,33.3,6.1,-20.5,-17,64.7,70.6,90.2,86.3,68.6,82.4
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Counterfeiting/Forgery,25,56,90,48,36,31,19,33,34,19,40,86,28.7,9.7,29,17.6,39,60.8,37.3,64.7,66.7,78.4,56.3
@@ -142,9 +142,9 @@ NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Disorderly Conduct/All Other
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Disorderly Conduct/Begging,2,0,1,5,2,1,3,0,3,0,1,6,2,200,0,-66.7,-50,2,5.9,0,5.9,2,3.9
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Disorderly Conduct/Disturbing the Peace,1,4,3,8,2,5,2,1,2,0,2,5,1.7,-60,-60,0,18,9.8,3.9,2,3.9,3.9,3.3
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Disorderly Conduct/Drunk-Disorderly,1,5,5,7,6,6,5,5,9,5,10,19,6.3,50,66.7,11.1,59,11.8,9.8,9.8,17.6,19.6,12.4
-NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Disorderly Conduct/Resist-Delay-Obstruct Officer,20,32,27,39,35,43,39,49,92,45,107,180,60,114,148.8,16.3,78,84.3,76.5,96.1,180.4,209.8,117.6
-NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Drug Equipment/Paraphernalia,98,243,163,176,155,192,146,234,311,159,329,691,230.3,62,71.4,5.8,43,376.5,286.3,458.8,609.8,645.1,451.6
-NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Drug Violation/Felony,33,205,225,265,261,301,347,343,399,273,493,1089,363,32.6,63.8,23.6,36,590.2,680.4,672.5,782.4,966.7,711.8
+NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Disorderly Conduct/Resist-Delay-Obstruct Officer,20,32,27,39,35,43,39,49,92,47,108,180,60,114,151.2,17.4,80,84.3,76.5,96.1,180.4,211.8,117.6
+NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Drug Equipment/Paraphernalia,98,243,163,176,155,192,146,234,311,162,332,691,230.3,62,72.9,6.8,44,376.5,286.3,458.8,609.8,651,451.6
+NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Drug Violation/Felony,33,205,225,265,261,301,347,343,399,275,494,1089,363,32.6,64.1,23.8,36,590.2,680.4,672.5,782.4,968.6,711.8
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Drug Violation/Misdemeanor,79,452,278,291,311,316,314,361,517,274,566,1192,397.3,63.6,79.1,9.5,42,619.6,615.7,707.8,1013.7,1109.8,779
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Drug Violation/Possession,147,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Drug Violation/Sale or Manufacture,30,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
@@ -170,9 +170,9 @@ NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Homicide/Negligent Manslaugh
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Human Trafficking/Commercial Sex Acts,0,4,0,0,3,5,4,3,6,2,2,13,4.3,20,-60,-66.7,-53,9.8,7.8,5.9,11.8,3.9,8.4
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Human Trafficking/Involuntary Servitude,0,1,0,0,0,0,1,0,0,1,1,1,0.3,NA,NA,NA,233,0,2,0,0,2,0.6
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Humane/All Other Humane,14,6,16,9,10,13,15,10,7,1,4,32,10.7,-46.2,-69.2,-42.9,-63,25.5,29.4,19.6,13.7,7.8,21
-NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Humane/Animal Bite,62,89,94,111,114,116,100,101,86,45,88,287,95.7,-25.9,-24.1,2.3,-8,227.5,196.1,198,168.6,172.5,187.6
+NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Humane/Animal Bite,62,89,94,111,114,116,100,101,86,45,87,287,95.7,-25.9,-25,1.2,-9,227.5,196.1,198,168.6,170.6,187.6
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Humane/Animal Cruelty,1,5,2,9,3,13,8,7,7,3,7,22,7.3,-46.2,-46.2,0,-4,25.5,15.7,13.7,13.7,13.7,14.3
-NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Humane/Chemical Deployment,4,32,34,30,21,91,100,33,19,11,21,152,50.7,-79.1,-76.9,10.5,-59,178.4,196.1,64.7,37.3,41.2,99.4
+NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Humane/Chemical Deployment,4,32,34,30,21,91,100,33,19,11,20,152,50.7,-79.1,-78,5.3,-61,178.4,196.1,64.7,37.3,39.2,99.4
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Humane/Injured Animal,0,7,7,12,1,2,2,8,4,0,2,14,4.7,100,0,-50,-57,3.9,3.9,15.7,7.8,3.9,9.2
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Humane/Injured Person,0,1,0,8,5,0,1,0,2,0,1,3,1,NA,NA,-50,0,0,2,0,3.9,2,2
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Humane/Pick Up Animal(s),0,0,0,3,0,0,1,1,2,0,1,4,1.3,NA,NA,-50,-23,0,2,2,3.9,2,2.5
@@ -186,15 +186,15 @@ NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Kidnapping/Abduction,4,6,2,8
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,LARCENY/SHOPLIFTING,1,0,0,0,0,0,0,1,0,0,0,1,0.3,NA,NA,NA,-100,0,0,2,0,0,0.6
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Liquor-Alcohol Law Violations,2,8,7,3,2,11,10,6,6,5,8,22,7.3,-45.5,-27.3,33.3,10,21.6,19.6,11.8,11.8,15.7,14.3
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,MISC/ALL OTHER / NO OFFENSE COMMITTED,0,0,0,1,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
-NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Miscellaneous/All Other Non-Offenses,530,1250,1013,843,975,929,906,1160,1161,523,1131,3227,1075.7,25,21.7,-2.6,5,1821.6,1776.5,2274.5,2276.5,2217.6,2109.2
+NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Miscellaneous/All Other Non-Offenses,530,1250,1013,843,975,929,906,1160,1161,525,1129,3227,1075.7,25,21.5,-2.8,5,1821.6,1776.5,2274.5,2276.5,2213.7,2109.2
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Miscellaneous/Deceased Person,36,70,88,73,70,69,98,113,77,34,70,288,96,11.6,1.4,-9.1,-27,135.3,192.2,221.6,151,137.3,188.2
-NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Miscellaneous/Found Property,32,81,83,86,106,103,106,89,141,52,132,336,112,36.9,28.2,-6.4,18,202,207.8,174.5,276.5,258.8,219.6
+NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Miscellaneous/Found Property,32,81,83,86,106,103,106,89,141,55,134,336,112,36.9,30.1,-5,20,202,207.8,174.5,276.5,262.7,219.6
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Miscellaneous/Injured Person,10,16,10,11,14,1,4,12,15,4,14,31,10.3,1400,1300,-6.7,36,2,7.8,23.5,29.4,27.5,20.2
-NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Miscellaneous/Lost Property,60,142,139,131,214,165,103,107,100,52,112,310,103.3,-39.4,-32.1,12,8,323.5,202,209.8,196.1,219.6,202.5
-NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Miscellaneous/Mental Commitment,57,133,107,135,126,195,204,206,247,136,277,657,219,26.7,42.1,12.1,26,382.4,400,403.9,484.3,543.1,429.4
-NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Miscellaneous/Missing Person (17 & under),40,64,71,77,119,121,124,124,123,39,88,371,123.7,1.7,-27.3,-28.5,-29,237.3,243.1,243.1,241.2,172.5,242.5
-NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Miscellaneous/Missing Person (18 & over),55,76,110,83,58,66,52,56,58,24,55,166,55.3,-12.1,-16.7,-5.2,-1,129.4,102,109.8,113.7,107.8,108.4
-NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Miscellaneous/Overdose,12,28,70,46,76,68,114,108,143,67,143,365,121.7,110.3,110.3,0,18,133.3,223.5,211.8,280.4,280.4,238.6
+NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Miscellaneous/Lost Property,60,142,139,131,214,165,103,107,100,53,113,310,103.3,-39.4,-31.5,13,9,323.5,202,209.8,196.1,221.6,202.5
+NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Miscellaneous/Mental Commitment,57,133,107,135,126,195,204,206,247,136,275,657,219,26.7,41,11.3,26,382.4,400,403.9,484.3,539.2,429.4
+NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Miscellaneous/Missing Person (17 & under),40,64,71,77,119,121,124,124,123,41,89,371,123.7,1.7,-26.4,-27.6,-28,237.3,243.1,243.1,241.2,174.5,242.5
+NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Miscellaneous/Missing Person (18 & over),55,76,110,83,58,66,52,56,58,26,57,166,55.3,-12.1,-13.6,-1.7,3,129.4,102,109.8,113.7,111.8,108.4
+NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Miscellaneous/Overdose,12,28,70,46,76,68,114,108,143,68,144,365,121.7,110.3,111.8,0.7,18,133.3,223.5,211.8,280.4,282.4,238.6
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Miscellaneous/Overdose Death,0,8,8,12,8,12,14,25,17,5,16,56,18.7,41.7,33.3,-5.9,-14,23.5,27.5,49,33.3,31.4,36.7
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Miscellaneous/Suicide,16,34,33,56,50,42,36,29,33,12,24,98,32.7,-21.4,-42.9,-27.3,-27,82.4,70.6,56.9,64.7,47.1,64.1
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Pornography/Obscene Material,0,7,9,11,11,16,47,31,31,9,19,109,36.3,93.8,18.8,-38.7,-48,31.4,92.2,60.8,60.8,37.3,71.2
@@ -203,7 +203,7 @@ NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Prostitution/Engaging,2,2,3,
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Prostitution/Purchasing,0,0,0,10,0,0,2,0,0,0,0,2,0.7,NA,NA,NA,-100,0,3.9,0,0,0,1.4
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Sex Offense/All Other,32,73,47,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Sex Offense/Incest,3,0,0,1,1,3,3,1,0,0,0,4,1.3,-100,-100,NA,-100,5.9,5.9,2,0,0,2.5
-NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Sex Offense/Indecent Exposure,9,15,15,17,15,25,22,15,19,8,17,56,18.7,-24,-32,-10.5,-9,49,43.1,29.4,37.3,33.3,36.7
+NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Sex Offense/Indecent Exposure,9,15,15,17,15,25,22,15,19,8,16,56,18.7,-24,-36,-15.8,-14,49,43.1,29.4,37.3,31.4,36.7
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Sex Offense/Peeping Tom,6,5,1,5,13,4,3,4,7,3,6,14,4.7,75,50,-14.3,28,7.8,5.9,7.8,13.7,11.8,9.2
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Sex Offense/Statutory Rape,1,5,5,7,7,2,1,7,8,5,12,16,5.3,300,500,50,126,3.9,2,13.7,15.7,23.5,10.4
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Stolen Property/Possess Stolen Vehicle (w/ Arrest) (STOLEN FROM OTHER JURISDICTION),9,7,9,12,9,13,9,5,18,18,28,32,10.7,38.5,115.4,55.6,162,25.5,17.6,9.8,35.3,54.9,21
@@ -211,27 +211,27 @@ NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Stolen Property/Possession (
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Stolen Property/Recover Stolen Property (no arrest) (STOLEN FROM OTHER JURISDICTION),1,5,10,8,12,13,19,16,13,13,22,48,16,0,69.2,69.2,38,25.5,37.3,31.4,25.5,43.1,31.4
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Stolen Property/Recover Stolen Vehicle (no arrest) (STOLEN FROM OTHER JURISDICTION),4,9,17,18,21,20,24,28,31,16,38,83,27.7,55,90,22.6,37,39.2,47.1,54.9,60.8,74.5,54.3
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Traffic/Citizen Request,3,5,8,12,5,3,3,0,0,0,0,3,1,-100,-100,NA,-100,5.9,5.9,0,0,0,2
-NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Traffic/DWI (Driving While Impaired),144,287,254,145,125,128,111,117,156,87,182,384,128,21.9,42.2,16.7,42,251,217.6,229.4,305.9,356.9,251
+NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Traffic/DWI (Driving While Impaired),144,287,254,145,125,128,111,117,156,88,183,384,128,21.9,43,17.3,43,251,217.6,229.4,305.9,358.8,251
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,WEAPONS/ALL OTHER,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Weapons/All Other,8,4,7,5,2,2,10,15,28,23,44,53,17.7,1300,2100,57.1,149,3.9,19.6,29.4,54.9,86.3,34.7
-NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Weapons/Carry Concealed Weapon,16,27,26,35,25,30,40,72,148,112,196,260,86.7,393.3,553.3,32.4,126,58.8,78.4,141.2,290.2,384.3,170
+NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Weapons/Carry Concealed Weapon,16,27,26,35,25,30,40,72,148,113,197,260,86.7,393.3,556.7,33.1,127,58.8,78.4,141.2,290.2,386.3,170
 NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Weapons/Illegal Possession of Weapon,13,20,17,22,21,32,42,69,71,34,69,182,60.7,121.9,115.6,-2.8,14,62.7,82.4,135.3,139.2,135.3,119
-NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Weapons/Shots Fired,38,71,94,115,109,102,142,145,209,85,197,496,165.3,104.9,93.1,-5.7,19,200,278.4,284.3,409.8,386.3,324.1
+NED,51000,Northeast Raleigh,Northeast,Other/Unknown,Weapons/Shots Fired,38,71,94,115,109,102,142,145,209,87,198,496,165.3,104.9,94.1,-5.3,20,200,278.4,284.3,409.8,388.2,324.1
 NED,51000,Northeast Raleigh,Northeast,Robbery,Robbery/From Business,21,38,26,34,29,24,10,19,24,11,18,53,17.7,0,-25,-25,2,47.1,19.6,37.3,47.1,35.3,34.7
 NED,51000,Northeast Raleigh,Northeast,Robbery,Robbery/From Person,70,91,91,62,77,77,63,88,81,36,78,232,77.3,5.2,1.3,-3.7,1,151,123.5,172.5,158.8,152.9,151.6
 NED,51000,Northeast Raleigh,Northeast,Sexual Assault,Sex Offense/Assault with an Object,0,1,0,2,2,1,0,2,2,0,1,4,1.3,100,0,-50,-23,2,0,3.9,3.9,2,2.5
-NED,51000,Northeast Raleigh,Northeast,Sexual Assault,Sex Offense/Forcible Fondling,6,5,8,31,46,53,46,56,46,21,41,148,49.3,-13.2,-22.6,-10.9,-17,103.9,90.2,109.8,90.2,80.4,96.7
+NED,51000,Northeast Raleigh,Northeast,Sexual Assault,Sex Offense/Forcible Fondling,6,5,8,31,46,53,46,56,46,21,40,148,49.3,-13.2,-24.5,-13,-19,103.9,90.2,109.8,90.2,78.4,96.7
 NED,51000,Northeast Raleigh,Northeast,Sexual Assault,Sex Offense/Forcible Rape,7,18,30,27,29,34,36,38,23,9,21,97,32.3,-32.4,-38.2,-8.7,-35,66.7,70.6,74.5,45.1,41.2,63.3
 NED,51000,Northeast Raleigh,Northeast,Sexual Assault,Sex Offense/Forcible Sodomy,1,0,2,9,8,8,3,4,5,3,3,12,4,-37.5,-62.5,-40,-25,15.7,5.9,7.8,9.8,5.9,7.8
-NED,51000,Northeast Raleigh,Northeast,Theft,Larceny/All Other,294,478,505,455,434,505,444,490,476,139,356,1410,470,-5.7,-29.5,-25.2,-24,990.2,870.6,960.8,933.3,698,921.6
+NED,51000,Northeast Raleigh,Northeast,Theft,Larceny/All Other,294,478,505,455,434,505,444,490,476,142,359,1410,470,-5.7,-28.9,-24.6,-24,990.2,870.6,960.8,933.3,703.9,921.6
 NED,51000,Northeast Raleigh,Northeast,Theft,Larceny/Pocket-Picking,4,14,6,3,9,5,3,5,10,3,6,18,6,100,20,-40,0,9.8,5.9,9.8,19.6,11.8,11.8
 NED,51000,Northeast Raleigh,Northeast,Theft,Larceny/Purse-Snatching,5,13,7,17,4,2,6,4,11,4,10,21,7,450,400,-9.1,43,3.9,11.8,7.8,21.6,19.6,13.7
-NED,51000,Northeast Raleigh,Northeast,Theft,Larceny/Shoplifting,398,862,795,832,742,726,490,623,649,340,697,1762,587.3,-10.6,-4,7.4,19,1423.5,960.8,1221.6,1272.5,1366.7,1151.6
+NED,51000,Northeast Raleigh,Northeast,Theft,Larceny/Shoplifting,398,862,795,832,742,726,490,623,649,344,700,1762,587.3,-10.6,-3.6,7.9,19,1423.5,960.8,1221.6,1272.5,1372.5,1151.6
 NED,51000,Northeast Raleigh,Northeast,Theft,Larceny/Theft from Building,53,91,72,68,62,54,37,49,90,93,167,176,58.7,66.7,209.3,85.6,184,105.9,72.5,96.1,176.5,327.5,115.1
 NED,51000,Northeast Raleigh,Northeast,Theft,Larceny/Theft from Coin-Operated Machine,0,2,3,5,2,2,0,0,6,3,5,6,2,200,150,-16.7,150,3.9,0,0,11.8,9.8,3.9
-NED,51000,Northeast Raleigh,Northeast,Theft,Larceny/Theft from Motor Vehicle,292,411,400,562,468,515,457,403,518,198,440,1378,459.3,0.6,-14.6,-15.1,-4,1009.8,896.1,790.2,1015.7,862.7,900.6
+NED,51000,Northeast Raleigh,Northeast,Theft,Larceny/Theft from Motor Vehicle,292,411,400,562,468,515,457,403,518,199,438,1378,459.3,0.6,-15,-15.4,-5,1009.8,896.1,790.2,1015.7,858.8,900.6
 NED,51000,Northeast Raleigh,Northeast,Theft,Larceny/Theft of MV Parts-Accessories,30,54,99,56,78,94,94,96,128,59,119,318,106,36.2,26.6,-7,12,184.3,184.3,188.2,251,233.3,207.8
-NOD,113000,North Raleigh,North,Aggravated Assault,Assault/Aggravated,26,154,117,149,170,136,151,175,138,72,144,464,154.7,1.5,5.9,4.3,-7,120.4,133.6,154.9,122.1,127.4,136.9
+NOD,113000,North Raleigh,North,Aggravated Assault,Assault/Aggravated,26,154,117,149,170,136,151,175,138,72,143,464,154.7,1.5,5.1,3.6,-8,120.4,133.6,154.9,122.1,126.5,136.9
 NOD,113000,North Raleigh,North,Aggravated Assault,Assault/Firearm,14,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 NOD,113000,North Raleigh,North,Aggravated Assault,Assault/Hands (Aggravated),13,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 NOD,113000,North Raleigh,North,Aggravated Assault,Assault/Knife,13,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
@@ -240,20 +240,20 @@ NOD,113000,North Raleigh,North,Aggravated Assault,Child Abuse/Aggravated,0,8,4,1
 NOD,113000,North Raleigh,North,Burglary,All Other/Trespassing,0,0,0,0,0,0,1,0,0,0,0,1,0.3,NA,NA,NA,-100,0,0.9,0,0,0,0.3
 NOD,113000,North Raleigh,North,Burglary,Burglary/Commercial or Non-Residential,64,92,98,109,103,64,140,85,72,30,75,297,99,12.5,17.2,4.2,-24,56.6,123.9,75.2,63.7,66.4,87.6
 NOD,113000,North Raleigh,North,Burglary,Burglary/Residential,221,333,382,375,353,206,136,142,120,84,142,398,132.7,-41.7,-31.1,18.3,7,182.3,120.4,125.7,106.2,125.7,117.4
-NOD,113000,North Raleigh,North,Motor Vehicle Theft,Motor Vehicle Theft,121,204,202,194,137,190,178,250,188,119,222,616,205.3,-1.1,16.8,18.1,8,168.1,157.5,221.2,166.4,196.5,181.7
+NOD,113000,North Raleigh,North,Motor Vehicle Theft,Motor Vehicle Theft,121,204,202,194,137,190,178,250,188,121,224,616,205.3,-1.1,17.9,19.1,9,168.1,157.5,221.2,166.4,198.2,181.7
 NOD,113000,North Raleigh,North,Murder,Homicide/Murder-Nonnegligent Manslaughter,2,1,3,4,2,6,1,7,6,0,3,14,4.7,0,-50,-50,-36,5.3,0.9,6.2,5.3,2.7,4.2
-NOD,113000,North Raleigh,North,Other/Unknown,All Other/All Other Offenses,226,347,340,379,322,306,253,212,197,103,211,662,220.7,-35.6,-31,7.1,-4,270.8,223.9,187.6,174.3,186.7,195.3
-NOD,113000,North Raleigh,North,Other/Unknown,All Other/Damage to Property (minor),346,584,535,518,418,457,435,482,413,240,455,1330,443.3,-9.6,-0.4,10.2,3,404.4,385,426.5,365.5,402.7,392.3
+NOD,113000,North Raleigh,North,Other/Unknown,All Other/All Other Offenses,226,347,340,379,322,306,253,212,197,103,210,662,220.7,-35.6,-31.4,6.6,-5,270.8,223.9,187.6,174.3,185.8,195.3
+NOD,113000,North Raleigh,North,Other/Unknown,All Other/Damage to Property (minor),346,584,535,518,418,457,435,482,413,242,457,1330,443.3,-9.6,0,10.7,3,404.4,385,426.5,365.5,404.4,392.3
 NOD,113000,North Raleigh,North,Other/Unknown,All Other/Harassing Telephone Calls,14,77,51,78,66,48,51,57,77,37,85,185,61.7,60.4,77.1,10.4,38,42.5,45.1,50.4,68.1,75.2,54.6
 NOD,113000,North Raleigh,North,Other/Unknown,All Other/Noise Ordinance Violation,2,35,35,9,7,7,3,4,2,0,0,9,3,-71.4,-100,-100,-100,6.2,2.7,3.5,1.8,0,2.7
-NOD,113000,North Raleigh,North,Other/Unknown,All Other/Trespassing,52,82,80,108,108,136,117,101,111,49,110,329,109.7,-18.4,-19.1,-0.9,0,120.4,103.5,89.4,98.2,97.3,97.1
-NOD,113000,North Raleigh,North,Other/Unknown,All Other/Unauthorized Use of Vehicle,22,56,51,55,52,50,45,51,33,16,35,129,43,-34,-30,6.1,-19,44.2,39.8,45.1,29.2,31,38.1
+NOD,113000,North Raleigh,North,Other/Unknown,All Other/Trespassing,52,82,80,108,108,136,117,101,111,49,109,329,109.7,-18.4,-19.9,-1.8,-1,120.4,103.5,89.4,98.2,96.5,97.1
+NOD,113000,North Raleigh,North,Other/Unknown,All Other/Unauthorized Use of Vehicle,22,56,51,55,52,50,45,51,33,16,34,129,43,-34,-32,3,-21,44.2,39.8,45.1,29.2,30.1,38.1
 NOD,113000,North Raleigh,North,Other/Unknown,Arson,8,13,10,6,4,8,7,4,9,4,10,20,6.7,12.5,25,11.1,49,7.1,6.2,3.5,8,8.8,5.9
 NOD,113000,North Raleigh,North,Other/Unknown,Assault/Aggravated,0,0,0,0,0,0,1,0,0,0,0,1,0.3,NA,NA,NA,-100,0,0.9,0,0,0,0.3
 NOD,113000,North Raleigh,North,Other/Unknown,Assault/Intimidation-Communicating Threats,96,206,183,139,193,229,169,216,207,137,249,592,197.3,-9.6,8.7,20.3,26,202.7,149.6,191.2,183.2,220.4,174.6
-NOD,113000,North Raleigh,North,Other/Unknown,Assault/Simple,421,779,709,710,750,760,698,812,689,298,645,2199,733,-9.3,-15.1,-6.4,-12,672.6,617.7,718.6,609.7,570.8,648.7
+NOD,113000,North Raleigh,North,Other/Unknown,Assault/Simple,421,779,709,710,750,760,698,812,689,304,649,2199,733,-9.3,-14.6,-5.8,-11,672.6,617.7,718.6,609.7,574.3,648.7
 NOD,113000,North Raleigh,North,Other/Unknown,Bribery,0,1,0,0,0,0,1,0,0,0,0,1,0.3,NA,NA,NA,-100,0,0.9,0,0,0,0.3
-NOD,113000,North Raleigh,North,Other/Unknown,Child Abuse/Simple,21,49,48,53,45,46,30,57,43,20,46,130,43.3,-6.5,0,7,6,40.7,26.5,50.4,38.1,40.7,38.3
+NOD,113000,North Raleigh,North,Other/Unknown,Child Abuse/Simple,21,49,48,53,45,46,30,57,43,20,44,130,43.3,-6.5,-4.3,2.3,2,40.7,26.5,50.4,38.1,38.9,38.3
 NOD,113000,North Raleigh,North,Other/Unknown,Counterfeiting/Forgery,19,41,113,68,65,46,24,30,31,26,43,85,28.3,-32.6,-6.5,38.7,52,40.7,21.2,26.5,27.4,38.1,25
 NOD,113000,North Raleigh,North,Other/Unknown,Damage to Property (Group A),101,129,99,109,99,93,121,108,92,47,101,321,107,-1.1,8.6,9.8,-6,82.3,107.1,95.6,81.4,89.4,94.7
 NOD,113000,North Raleigh,North,Other/Unknown,Disorderly Conduct/All Other,6,8,18,13,9,4,6,10,11,13,19,27,9,175,375,72.7,111,3.5,5.3,8.8,9.7,16.8,8
@@ -261,9 +261,9 @@ NOD,113000,North Raleigh,North,Other/Unknown,Disorderly Conduct/Begging,2,4,1,2,
 NOD,113000,North Raleigh,North,Other/Unknown,Disorderly Conduct/Disturbing the Peace,6,6,11,8,4,4,4,5,1,2,2,10,3.3,-75,-50,100,-39,3.5,3.5,4.4,0.9,1.8,2.9
 NOD,113000,North Raleigh,North,Other/Unknown,Disorderly Conduct/Drunk-Disorderly,4,13,7,11,11,13,3,4,11,5,11,18,6,-15.4,-15.4,0,83,11.5,2.7,3.5,9.7,9.7,5.3
 NOD,113000,North Raleigh,North,Other/Unknown,Disorderly Conduct/Resist-Delay-Obstruct Officer,18,48,22,46,44,56,36,40,35,18,35,111,37,-37.5,-37.5,0,-5,49.6,31.9,35.4,31,31,32.7
-NOD,113000,North Raleigh,North,Other/Unknown,Drug Equipment/Paraphernalia,134,247,201,249,242,216,168,220,152,74,156,540,180,-29.6,-27.8,2.6,-13,191.2,148.7,194.7,134.5,138.1,159.3
-NOD,113000,North Raleigh,North,Other/Unknown,Drug Violation/Felony,68,333,325,393,219,230,227,261,152,68,146,640,213.3,-33.9,-36.5,-3.9,-32,203.5,200.9,231,134.5,129.2,188.8
-NOD,113000,North Raleigh,North,Other/Unknown,Drug Violation/Misdemeanor,95,414,333,410,427,422,354,393,241,137,268,988,329.3,-42.9,-36.5,11.2,-19,373.5,313.3,347.8,213.3,237.2,291.4
+NOD,113000,North Raleigh,North,Other/Unknown,Drug Equipment/Paraphernalia,134,247,201,249,242,216,168,220,152,75,155,540,180,-29.6,-28.2,2,-14,191.2,148.7,194.7,134.5,137.2,159.3
+NOD,113000,North Raleigh,North,Other/Unknown,Drug Violation/Felony,68,333,325,393,219,230,227,261,152,69,146,640,213.3,-33.9,-36.5,-3.9,-32,203.5,200.9,231,134.5,129.2,188.8
+NOD,113000,North Raleigh,North,Other/Unknown,Drug Violation/Misdemeanor,95,414,333,410,427,422,354,393,241,138,265,988,329.3,-42.9,-37.2,10,-20,373.5,313.3,347.8,213.3,234.5,291.4
 NOD,113000,North Raleigh,North,Other/Unknown,Drug Violation/Possession,147,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 NOD,113000,North Raleigh,North,Other/Unknown,Drug Violation/Sale or Manufacture,92,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 NOD,113000,North Raleigh,North,Other/Unknown,EMBEZZLEMENT/ALL OTHER(LARCENY FROM EMPLOYER),1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
@@ -277,7 +277,7 @@ NOD,113000,North Raleigh,North,Other/Unknown,Family Offenses/Nonviolent (eg: neg
 NOD,113000,North Raleigh,North,Other/Unknown,Forgery/Prescription Fraud,11,12,20,19,21,12,15,33,34,12,24,82,27.3,183.3,100,-29.4,-12,10.6,13.3,29.2,30.1,21.2,24.2
 NOD,113000,North Raleigh,North,Other/Unknown,Fraud/Credit Card-ATM Fraud,147,209,303,295,245,258,196,190,148,72,148,534,178,-42.6,-42.6,0,-17,228.3,173.5,168.1,131,131,157.5
 NOD,113000,North Raleigh,North,Other/Unknown,Fraud/False Pretense or Swindle,116,237,260,262,227,303,235,216,170,122,212,621,207,-43.9,-30,24.7,2,268.1,208,191.2,150.4,187.6,183.2
-NOD,113000,North Raleigh,North,Other/Unknown,Fraud/ID Theft,80,171,210,199,162,220,172,270,160,76,165,602,200.7,-27.3,-25,3.1,-18,194.7,152.2,238.9,141.6,146,177.6
+NOD,113000,North Raleigh,North,Other/Unknown,Fraud/ID Theft,80,171,210,199,162,220,172,270,160,77,166,602,200.7,-27.3,-24.5,3.8,-17,194.7,152.2,238.9,141.6,146.9,177.6
 NOD,113000,North Raleigh,North,Other/Unknown,Fraud/Impersonation of LEO,4,12,5,1,6,4,2,1,7,0,3,10,3.3,75,-25,-57.1,-9,3.5,1.8,0.9,6.2,2.7,2.9
 NOD,113000,North Raleigh,North,Other/Unknown,Fraud/Rental Car Conversion,12,15,4,7,23,8,17,13,2,0,0,32,10.7,-75,-100,-100,-100,7.1,15,11.5,1.8,0,9.5
 NOD,113000,North Raleigh,North,Other/Unknown,Fraud/Welfare Fraud,1,0,1,1,0,0,1,1,0,23,23,2,0.7,NA,NA,NA,3186,0,0.9,0.9,0,20.4,0.6
@@ -306,15 +306,15 @@ NOD,113000,North Raleigh,North,Other/Unknown,LARCENY/SHOPLIFTING,0,0,0,0,0,0,0,0
 NOD,113000,North Raleigh,North,Other/Unknown,Larceny/All Other,0,0,0,0,0,0,1,0,0,0,0,1,0.3,NA,NA,NA,-100,0,0.9,0,0,0,0.3
 NOD,113000,North Raleigh,North,Other/Unknown,Liquor-Alcohol Law Violations,9,26,10,9,13,21,12,8,11,2,7,31,10.3,-47.6,-66.7,-36.4,-32,18.6,10.6,7.1,9.7,6.2,9.1
 NOD,113000,North Raleigh,North,Other/Unknown,MISC/ALL OTHER / NO OFFENSE COMMITTED,0,0,0,1,0,0,0,1,0,0,0,1,0.3,NA,NA,NA,-100,0,0,0.9,0,0,0.3
-NOD,113000,North Raleigh,North,Other/Unknown,Miscellaneous/All Other Non-Offenses,743,1492,1188,1198,1447,1492,1442,1583,1526,770,1601,4551,1517,2.3,7.3,4.9,6,1320.4,1276.1,1400.9,1350.4,1416.8,1342.5
+NOD,113000,North Raleigh,North,Other/Unknown,Miscellaneous/All Other Non-Offenses,743,1492,1188,1198,1447,1492,1442,1583,1526,774,1603,4551,1517,2.3,7.4,5,6,1320.4,1276.1,1400.9,1350.4,1418.6,1342.5
 NOD,113000,North Raleigh,North,Other/Unknown,Miscellaneous/Deceased Person,50,123,90,119,102,95,116,132,129,57,118,377,125.7,35.8,24.2,-8.5,-6,84.1,102.7,116.8,114.2,104.4,111.2
-NOD,113000,North Raleigh,North,Other/Unknown,Miscellaneous/Found Property,110,195,167,162,125,176,136,153,108,59,114,397,132.3,-38.6,-35.2,5.6,-14,155.8,120.4,135.4,95.6,100.9,117.1
+NOD,113000,North Raleigh,North,Other/Unknown,Miscellaneous/Found Property,110,195,167,162,125,176,136,153,108,60,115,397,132.3,-38.6,-34.7,6.5,-13,155.8,120.4,135.4,95.6,101.8,117.1
 NOD,113000,North Raleigh,North,Other/Unknown,Miscellaneous/Injured Person,6,15,14,3,15,7,8,12,20,6,17,40,13.3,185.7,142.9,-15,28,6.2,7.1,10.6,17.7,15,11.8
-NOD,113000,North Raleigh,North,Other/Unknown,Miscellaneous/Lost Property,105,212,190,161,237,173,161,136,124,50,122,421,140.3,-28.3,-29.5,-1.6,-13,153.1,142.5,120.4,109.7,108,124.2
-NOD,113000,North Raleigh,North,Other/Unknown,Miscellaneous/Mental Commitment,113,220,184,195,220,287,227,261,262,108,247,750,250,-8.7,-13.9,-5.7,-1,254,200.9,231,231.9,218.6,221.2
-NOD,113000,North Raleigh,North,Other/Unknown,Miscellaneous/Missing Person (17 & under),31,38,34,64,105,91,64,70,95,42,85,229,76.3,4.4,-6.6,-10.5,11,80.5,56.6,61.9,84.1,75.2,67.5
-NOD,113000,North Raleigh,North,Other/Unknown,Miscellaneous/Missing Person (18 & over),48,85,103,86,89,68,63,67,82,29,69,212,70.7,20.6,1.5,-15.9,-2,60.2,55.8,59.3,72.6,61.1,62.6
-NOD,113000,North Raleigh,North,Other/Unknown,Miscellaneous/Overdose,12,38,63,54,54,73,98,110,83,43,84,291,97,13.7,15.1,1.2,-13,64.6,86.7,97.3,73.5,74.3,85.8
+NOD,113000,North Raleigh,North,Other/Unknown,Miscellaneous/Lost Property,105,212,190,161,237,173,161,136,124,51,123,421,140.3,-28.3,-28.9,-0.8,-12,153.1,142.5,120.4,109.7,108.8,124.2
+NOD,113000,North Raleigh,North,Other/Unknown,Miscellaneous/Mental Commitment,113,220,184,195,220,287,227,261,262,108,244,750,250,-8.7,-15,-6.9,-2,254,200.9,231,231.9,215.9,221.2
+NOD,113000,North Raleigh,North,Other/Unknown,Miscellaneous/Missing Person (17 & under),31,38,34,64,105,91,64,70,95,43,86,229,76.3,4.4,-5.5,-9.5,13,80.5,56.6,61.9,84.1,76.1,67.5
+NOD,113000,North Raleigh,North,Other/Unknown,Miscellaneous/Missing Person (18 & over),48,85,103,86,89,68,63,67,82,30,70,212,70.7,20.6,2.9,-14.6,-1,60.2,55.8,59.3,72.6,61.9,62.6
+NOD,113000,North Raleigh,North,Other/Unknown,Miscellaneous/Overdose,12,38,63,54,54,73,98,110,83,44,85,291,97,13.7,16.4,2.4,-12,64.6,86.7,97.3,73.5,75.2,85.8
 NOD,113000,North Raleigh,North,Other/Unknown,Miscellaneous/Overdose Death,0,4,8,17,9,13,21,15,17,5,13,53,17.7,30.8,0,-23.5,-27,11.5,18.6,13.3,15,11.5,15.7
 NOD,113000,North Raleigh,North,Other/Unknown,Miscellaneous/Suicide,26,49,31,40,48,33,30,44,54,20,48,128,42.7,63.6,45.5,-11.1,12,29.2,26.5,38.9,47.8,42.5,37.8
 NOD,113000,North Raleigh,North,Other/Unknown,Pornography/Obscene Material,7,8,8,5,9,7,22,23,34,13,34,79,26.3,385.7,385.7,0,29,6.2,19.5,20.4,30.1,30.1,23.3
@@ -331,26 +331,26 @@ NOD,113000,North Raleigh,North,Other/Unknown,Stolen Property/Possession (w/ Arre
 NOD,113000,North Raleigh,North,Other/Unknown,Stolen Property/Recover Stolen Property (no arrest) (STOLEN FROM OTHER JURISDICTION),7,16,18,17,9,10,8,15,7,2,8,30,10,-30,-20,14.3,-20,8.8,7.1,13.3,6.2,7.1,8.8
 NOD,113000,North Raleigh,North,Other/Unknown,Stolen Property/Recover Stolen Vehicle (no arrest) (STOLEN FROM OTHER JURISDICTION),5,14,24,22,20,21,14,19,18,16,24,51,17,-14.3,14.3,33.3,41,18.6,12.4,16.8,15.9,21.2,15
 NOD,113000,North Raleigh,North,Other/Unknown,Traffic/Citizen Request,1,7,3,8,5,1,7,1,0,0,0,8,2.7,-100,-100,NA,-100,0.9,6.2,0.9,0,0,2.4
-NOD,113000,North Raleigh,North,Other/Unknown,Traffic/DWI (Driving While Impaired),384,520,340,252,248,237,185,250,143,91,166,578,192.7,-39.7,-30,16.1,-14,209.7,163.7,221.2,126.5,146.9,170.5
+NOD,113000,North Raleigh,North,Other/Unknown,Traffic/DWI (Driving While Impaired),384,520,340,252,248,237,185,250,143,91,165,578,192.7,-39.7,-30.4,15.4,-14,209.7,163.7,221.2,126.5,146,170.5
 NOD,113000,North Raleigh,North,Other/Unknown,Weapons/All Other,6,12,3,2,2,10,4,4,27,29,48,35,11.7,170,380,77.8,310,8.8,3.5,3.5,23.9,42.5,10.4
-NOD,113000,North Raleigh,North,Other/Unknown,Weapons/Carry Concealed Weapon,20,31,26,49,51,64,63,108,74,47,84,245,81.7,15.6,31.2,13.5,3,56.6,55.8,95.6,65.5,74.3,72.3
+NOD,113000,North Raleigh,North,Other/Unknown,Weapons/Carry Concealed Weapon,20,31,26,49,51,64,63,108,74,47,83,245,81.7,15.6,29.7,12.2,2,56.6,55.8,95.6,65.5,73.5,72.3
 NOD,113000,North Raleigh,North,Other/Unknown,Weapons/Illegal Possession of Weapon,15,17,32,45,24,33,33,46,22,15,27,101,33.7,-33.3,-18.2,22.7,-20,29.2,29.2,40.7,19.5,23.9,29.8
 NOD,113000,North Raleigh,North,Other/Unknown,Weapons/Shots Fired,84,132,126,133,153,174,190,170,145,68,138,505,168.3,-16.7,-20.7,-4.8,-18,154,168.1,150.4,128.3,122.1,148.9
 NOD,113000,North Raleigh,North,Robbery,Larceny/Shoplifting,0,0,0,0,0,0,1,0,0,0,0,1,0.3,NA,NA,NA,-100,0,0.9,0,0,0,0.3
 NOD,113000,North Raleigh,North,Robbery,Robbery/From Business,18,28,34,51,41,30,14,22,10,4,8,46,15.3,-66.7,-73.3,-20,-48,26.5,12.4,19.5,8.8,7.1,13.5
 NOD,113000,North Raleigh,North,Robbery,Robbery/From Person,91,126,89,100,95,88,99,59,32,20,33,190,63.3,-63.6,-62.5,3.1,-48,77.9,87.6,52.2,28.3,29.2,56
 NOD,113000,North Raleigh,North,Sexual Assault,Sex Offense/Assault with an Object,0,0,0,1,1,0,0,0,1,1,2,1,0.3,NA,NA,100,567,0,0,0,0.9,1.8,0.3
-NOD,113000,North Raleigh,North,Sexual Assault,Sex Offense/Forcible Fondling,4,5,11,52,33,36,41,59,48,30,51,148,49.3,33.3,41.7,6.2,3,31.9,36.3,52.2,42.5,45.1,43.6
+NOD,113000,North Raleigh,North,Sexual Assault,Sex Offense/Forcible Fondling,4,5,11,52,33,36,41,59,48,31,52,148,49.3,33.3,44.4,8.3,5,31.9,36.3,52.2,42.5,46,43.6
 NOD,113000,North Raleigh,North,Sexual Assault,Sex Offense/Forcible Rape,10,26,24,29,32,32,19,34,33,10,27,86,28.7,3.1,-15.6,-18.2,-6,28.3,16.8,30.1,29.2,23.9,25.4
 NOD,113000,North Raleigh,North,Sexual Assault,Sex Offense/Forcible Sodomy,0,2,4,4,8,4,6,2,7,3,5,15,5,75,25,-28.6,0,3.5,5.3,1.8,6.2,4.4,4.4
 NOD,113000,North Raleigh,North,Theft,Burglary/Residential,0,0,0,0,0,0,1,0,0,0,0,1,0.3,NA,NA,NA,-100,0,0.9,0,0,0,0.3
-NOD,113000,North Raleigh,North,Theft,Larceny/All Other,425,624,617,585,539,615,519,535,428,149,352,1482,494,-30.4,-42.8,-17.8,-29,544.2,459.3,473.5,378.8,311.5,437.2
+NOD,113000,North Raleigh,North,Theft,Larceny/All Other,425,624,617,585,539,615,519,535,428,149,351,1482,494,-30.4,-42.9,-18,-29,544.2,459.3,473.5,378.8,310.6,437.2
 NOD,113000,North Raleigh,North,Theft,Larceny/Pocket-Picking,6,12,14,6,3,11,11,10,6,3,7,27,9,-45.5,-36.4,16.7,-22,9.7,9.7,8.8,5.3,6.2,8
 NOD,113000,North Raleigh,North,Theft,Larceny/Purse-Snatching,6,6,4,11,5,2,4,2,1,0,1,7,2.3,-50,-50,0,-57,1.8,3.5,1.8,0.9,0.9,2
-NOD,113000,North Raleigh,North,Theft,Larceny/Shoplifting,292,428,353,396,440,467,381,368,212,135,240,961,320.3,-54.6,-48.6,13.2,-25,413.3,337.2,325.7,187.6,212.4,283.5
-NOD,113000,North Raleigh,North,Theft,Larceny/Theft from Building,113,160,96,146,154,157,96,88,103,99,164,287,95.7,-34.4,4.5,59.2,71,138.9,85,77.9,91.2,145.1,84.7
+NOD,113000,North Raleigh,North,Theft,Larceny/Shoplifting,292,428,353,396,440,467,381,368,212,136,241,961,320.3,-54.6,-48.4,13.7,-25,413.3,337.2,325.7,187.6,213.3,283.5
+NOD,113000,North Raleigh,North,Theft,Larceny/Theft from Building,113,160,96,146,154,157,96,88,103,98,163,287,95.7,-34.4,3.8,58.3,70,138.9,85,77.9,91.2,144.2,84.7
 NOD,113000,North Raleigh,North,Theft,Larceny/Theft from Coin-Operated Machine,3,7,2,2,4,3,2,0,3,2,3,5,1.7,0,0,0,76,2.7,1.8,0,2.7,2.7,1.5
-NOD,113000,North Raleigh,North,Theft,Larceny/Theft from Motor Vehicle,535,581,642,725,576,663,591,553,565,271,565,1709,569.7,-14.8,-14.8,0,-1,586.7,523,489.4,500,500,504.2
+NOD,113000,North Raleigh,North,Theft,Larceny/Theft from Motor Vehicle,535,581,642,725,576,663,591,553,565,271,563,1709,569.7,-14.8,-15.1,-0.4,-1,586.7,523,489.4,500,498.2,504.2
 NOD,113000,North Raleigh,North,Theft,Larceny/Theft of MV Parts-Accessories,55,93,98,78,101,75,122,136,92,41,91,350,116.7,22.7,21.3,-1.1,-22,66.4,108,120.4,81.4,80.5,103.3
 NWD,97000,Northwest Raleigh,Northwest,Aggravated Assault,Assault/Aggravated,7,45,51,51,37,41,65,67,83,51,88,215,71.7,102.4,114.6,6,23,42.3,67,69.1,85.6,90.7,73.9
 NWD,97000,Northwest Raleigh,Northwest,Aggravated Assault,Assault/Firearm,3,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
@@ -361,19 +361,19 @@ NWD,97000,Northwest Raleigh,Northwest,Aggravated Assault,Child Abuse/Aggravated,
 NWD,97000,Northwest Raleigh,Northwest,Burglary,All Other/Trespassing,0,0,0,0,0,0,1,0,0,0,0,1,0.3,NA,NA,NA,-100,0,1,0,0,0,0.3
 NWD,97000,Northwest Raleigh,Northwest,Burglary,Burglary/Commercial or Non-Residential,25,38,54,59,54,36,54,57,82,42,79,193,64.3,127.8,119.4,-3.7,23,37.1,55.7,58.8,84.5,81.4,66.3
 NWD,97000,Northwest Raleigh,Northwest,Burglary,Burglary/Residential,107,143,151,165,142,90,115,104,115,62,125,334,111.3,27.8,38.9,8.7,12,92.8,118.6,107.2,118.6,128.9,114.7
-NWD,97000,Northwest Raleigh,Northwest,Motor Vehicle Theft,Motor Vehicle Theft,52,69,108,106,110,106,112,126,217,216,360,455,151.7,104.7,239.6,65.9,137,109.3,115.5,129.9,223.7,371.1,156.4
+NWD,97000,Northwest Raleigh,Northwest,Motor Vehicle Theft,Motor Vehicle Theft,52,69,108,106,110,106,112,126,217,217,361,455,151.7,104.7,240.6,66.4,138,109.3,115.5,129.9,223.7,372.2,156.4
 NWD,97000,Northwest Raleigh,Northwest,Murder,Homicide/Murder-Nonnegligent Manslaughter,0,2,2,1,1,1,2,4,1,0,1,7,2.3,0,0,0,-57,1,2.1,4.1,1,1,2.4
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,"ALL OTHER/ALL OTHER OFFENSES (COMM.THREATS, ETC.)",0,0,0,0,1,0,1,0,1,0,1,2,0.7,NA,NA,0,43,0,1,0,1,1,0.7
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,ALL OTHER/TRESPASSING,0,0,0,0,0,2,0,0,0,0,0,0,0,-100,-100,NA,NA,2.1,0,0,0,0,0
-NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,All Other/All Other Offenses,116,171,212,159,131,162,127,127,160,55,126,414,138,-1.2,-22.2,-21.2,-9,167,130.9,130.9,164.9,129.9,142.3
-NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,All Other/Damage to Property (minor),190,311,268,254,184,218,259,300,282,181,339,841,280.3,29.4,55.5,20.2,21,224.7,267,309.3,290.7,349.5,289
+NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,All Other/All Other Offenses,116,171,212,159,131,162,127,127,160,56,126,414,138,-1.2,-22.2,-21.2,-9,167,130.9,130.9,164.9,129.9,142.3
+NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,All Other/Damage to Property (minor),190,311,268,254,184,218,259,300,282,183,340,841,280.3,29.4,56,20.6,21,224.7,267,309.3,290.7,350.5,289
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,All Other/Harassing Telephone Calls,5,45,30,27,54,31,39,45,64,38,77,148,49.3,106.5,148.4,20.3,56,32,40.2,46.4,66,79.4,50.8
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,All Other/Noise Ordinance Violation,0,0,2,2,3,3,1,0,1,0,1,2,0.7,-66.7,-66.7,0,43,3.1,1,0,1,1,0.7
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,All Other/Trespassing,21,42,24,26,46,46,40,42,72,36,76,154,51.3,56.5,65.2,5.6,48,47.4,41.2,43.3,74.2,78.4,52.9
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,All Other/Unauthorized Use of Vehicle,8,18,21,18,15,10,25,33,23,20,38,81,27,130,280,65.2,41,10.3,25.8,34,23.7,39.2,27.8
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Arson,3,6,7,13,7,1,7,2,3,2,3,12,4,200,200,0,-25,1,7.2,2.1,3.1,3.1,4.1
-NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Assault/Intimidation-Communicating Threats,31,63,70,84,99,100,98,165,180,94,200,443,147.7,80,100,11.1,35,103.1,101,170.1,185.6,206.2,152.3
-NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Assault/Simple,205,360,398,390,341,440,397,539,532,267,538,1468,489.3,20.9,22.3,1.1,10,453.6,409.3,555.7,548.5,554.6,504.4
+NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Assault/Intimidation-Communicating Threats,31,63,70,84,99,100,98,165,180,96,202,443,147.7,80,102,12.2,37,103.1,101,170.1,185.6,208.2,152.3
+NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Assault/Simple,205,360,398,390,341,440,397,539,532,269,538,1468,489.3,20.9,22.3,1.1,10,453.6,409.3,555.7,548.5,554.6,504.4
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Child Abuse/Simple,13,24,33,32,12,21,14,39,24,7,16,77,25.7,14.3,-23.8,-33.3,-38,21.6,14.4,40.2,24.7,16.5,26.5
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Counterfeiting/Forgery,14,18,39,29,33,17,29,17,25,19,36,71,23.7,47.1,111.8,44,52,17.5,29.9,17.5,25.8,37.1,24.4
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Damage to Property (Group A),53,61,74,77,58,67,78,80,98,45,102,256,85.3,46.3,52.2,4.1,20,69.1,80.4,82.5,101,105.2,87.9
@@ -381,10 +381,10 @@ NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Disorderly Conduct/All Other
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Disorderly Conduct/Begging,0,1,1,2,2,0,1,0,0,1,1,1,0.3,NA,NA,NA,233,0,1,0,0,1,0.3
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Disorderly Conduct/Disturbing the Peace,5,3,6,4,1,0,3,2,0,1,1,5,1.7,NA,NA,NA,-41,0,3.1,2.1,0,1,1.8
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Disorderly Conduct/Drunk-Disorderly,2,5,8,6,4,3,1,6,7,2,6,14,4.7,133.3,100,-14.3,28,3.1,1,6.2,7.2,6.2,4.8
-NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Disorderly Conduct/Resist-Delay-Obstruct Officer,10,15,14,14,21,11,9,20,24,14,28,53,17.7,118.2,154.5,16.7,58,11.3,9.3,20.6,24.7,28.9,18.2
-NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Drug Equipment/Paraphernalia,78,161,98,107,74,96,85,127,150,57,111,362,120.7,56.2,15.6,-26,-8,99,87.6,130.9,154.6,114.4,124.4
-NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Drug Violation/Felony,24,104,75,78,66,85,88,107,110,35,71,305,101.7,29.4,-16.5,-35.5,-30,87.6,90.7,110.3,113.4,73.2,104.8
-NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Drug Violation/Misdemeanor,45,200,161,176,148,180,148,205,186,76,154,539,179.7,3.3,-14.4,-17.2,-14,185.6,152.6,211.3,191.8,158.8,185.3
+NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Disorderly Conduct/Resist-Delay-Obstruct Officer,10,15,14,14,21,11,9,20,24,14,27,53,17.7,118.2,145.5,12.5,53,11.3,9.3,20.6,24.7,27.8,18.2
+NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Drug Equipment/Paraphernalia,78,161,98,107,74,96,85,127,150,57,110,362,120.7,56.2,14.6,-26.7,-9,99,87.6,130.9,154.6,113.4,124.4
+NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Drug Violation/Felony,24,104,75,78,66,85,88,107,110,35,70,305,101.7,29.4,-17.6,-36.4,-31,87.6,90.7,110.3,113.4,72.2,104.8
+NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Drug Violation/Misdemeanor,45,200,161,176,148,180,148,205,186,77,153,539,179.7,3.3,-15,-17.7,-15,185.6,152.6,211.3,191.8,157.7,185.3
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Drug Violation/Possession,97,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Drug Violation/Sale or Manufacture,30,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Embezzlement,18,26,26,28,28,28,10,12,17,19,32,39,13,-39.3,14.3,88.2,146,28.9,10.3,12.4,17.5,33,13.4
@@ -394,9 +394,9 @@ NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,FRAUD/CREDIT CARD FRAUD,0,0,
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,FRAUD/FALSE PRETENSE,0,0,1,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Family Offenses/Nonviolent (eg: neglect),3,0,2,4,3,5,4,8,2,2,2,14,4.7,-60,-60,0,-57,5.2,4.1,8.2,2.1,2.1,4.8
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Forgery/Prescription Fraud,6,6,9,15,16,19,15,24,29,10,24,68,22.7,52.6,26.3,-17.2,6,19.6,15.5,24.7,29.9,24.7,23.4
-NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Fraud/Credit Card-ATM Fraud,70,123,188,165,137,142,133,138,148,79,154,419,139.7,4.2,8.5,4.1,10,146.4,137.1,142.3,152.6,158.8,144
-NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Fraud/False Pretense or Swindle,60,98,98,127,123,135,141,144,158,101,175,443,147.7,17,29.6,10.8,18,139.2,145.4,148.5,162.9,180.4,152.3
-NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Fraud/ID Theft,54,123,166,157,119,125,137,197,175,80,161,509,169.7,40,28.8,-8,-5,128.9,141.2,203.1,180.4,166,174.9
+NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Fraud/Credit Card-ATM Fraud,70,123,188,165,137,142,133,138,148,80,155,419,139.7,4.2,9.2,4.7,11,146.4,137.1,142.3,152.6,159.8,144
+NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Fraud/False Pretense or Swindle,60,98,98,127,123,135,141,144,158,103,176,443,147.7,17,30.4,11.4,19,139.2,145.4,148.5,162.9,181.4,152.3
+NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Fraud/ID Theft,54,123,166,157,119,125,137,197,175,81,162,509,169.7,40,29.6,-7.4,-5,128.9,141.2,203.1,180.4,167,174.9
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Fraud/Impersonation of LEO,5,7,1,3,0,1,0,2,1,0,1,3,1,0,0,0,0,1,0,2.1,1,1,1
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Fraud/Rental Car Conversion,2,0,5,1,7,1,2,6,2,2,2,10,3.3,100,100,0,-39,1,2.1,6.2,2.1,2.1,3.4
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Fraud/Welfare Fraud,1,1,0,0,0,0,1,1,1,3,4,3,1,NA,NA,300,300,0,1,1,1,4.1,1
@@ -409,7 +409,7 @@ NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Homicide/Negligent Manslaugh
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Human Trafficking/Commercial Sex Acts,0,0,2,1,0,0,1,1,0,3,3,2,0.7,NA,NA,NA,329,0,1,1,0,3.1,0.7
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Human Trafficking/Involuntary Servitude,0,1,0,1,0,1,1,0,1,0,0,2,0.7,0,-100,-100,-100,1,1,0,1,0,0.7
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Humane/All Other Humane,14,4,3,4,9,5,7,11,7,6,11,25,8.3,40,120,57.1,33,5.2,7.2,11.3,7.2,11.3,8.6
-NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Humane/Animal Bite,34,89,84,98,123,106,109,105,106,53,114,320,106.7,0,7.5,7.5,7,109.3,112.4,108.2,109.3,117.5,110
+NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Humane/Animal Bite,34,89,84,98,123,106,109,105,106,53,113,320,106.7,0,6.6,6.6,6,109.3,112.4,108.2,109.3,116.5,110
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Humane/Animal Cruelty,1,2,7,2,4,7,3,11,5,4,9,19,6.3,-28.6,28.6,80,43,7.2,3.1,11.3,5.2,9.3,6.5
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Humane/Chemical Deployment,2,14,14,32,21,34,76,31,39,13,39,146,48.7,14.7,14.7,0,-20,35.1,78.4,32,40.2,40.2,50.2
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Humane/Injured Animal,1,4,4,10,4,4,3,2,3,1,3,8,2.7,-25,-25,0,11,4.1,3.1,2.1,3.1,3.1,2.8
@@ -425,24 +425,24 @@ NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Juvenile/Truancy,0,1,0,0,0,0
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Kidnapping/Abduction,0,5,1,1,0,2,3,6,7,1,5,16,5.3,250,150,-28.6,-6,2.1,3.1,6.2,7.2,5.2,5.5
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,LARCENY/SHOPLIFTING,0,0,0,1,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,0,0,0,0,1,0
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Liquor-Alcohol Law Violations,6,3,6,5,3,3,1,2,3,2,4,6,2,0,33.3,33.3,100,3.1,1,2.1,3.1,4.1,2.1
-NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Miscellaneous/All Other Non-Offenses,425,827,743,700,749,715,777,985,1004,479,1013,2766,922,40.4,41.7,0.9,10,737.1,801,1015.5,1035.1,1044.3,950.5
-NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Miscellaneous/Deceased Person,34,58,60,76,63,56,81,80,112,49,115,273,91,100,105.4,2.7,26,57.7,83.5,82.5,115.5,118.6,93.8
-NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Miscellaneous/Found Property,53,71,82,83,79,94,72,88,112,69,125,272,90.7,19.1,33,11.6,38,96.9,74.2,90.7,115.5,128.9,93.5
+NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Miscellaneous/All Other Non-Offenses,425,827,743,700,749,715,777,985,1004,485,1018,2766,922,40.4,42.4,1.4,10,737.1,801,1015.5,1035.1,1049.5,950.5
+NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Miscellaneous/Deceased Person,34,58,60,76,63,56,81,80,112,49,113,273,91,100,101.8,0.9,24,57.7,83.5,82.5,115.5,116.5,93.8
+NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Miscellaneous/Found Property,53,71,82,83,79,94,72,88,112,70,126,272,90.7,19.1,34,12.5,39,96.9,74.2,90.7,115.5,129.9,93.5
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Miscellaneous/Injured Person,4,12,13,8,8,6,3,4,8,2,7,15,5,33.3,16.7,-12.5,40,6.2,3.1,4.1,8.2,7.2,5.2
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Miscellaneous/Lost Property,60,96,106,109,158,141,81,83,117,44,108,281,93.7,-17,-23.4,-7.7,15,145.4,83.5,85.6,120.6,111.3,96.6
-NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Miscellaneous/Mental Commitment,141,242,229,202,239,312,312,360,206,113,216,878,292.7,-34,-30.8,4.9,-26,321.6,321.6,371.1,212.4,222.7,301.8
-NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Miscellaneous/Missing Person (17 & under),5,10,9,11,12,39,26,39,58,23,54,123,41,48.7,38.5,-6.9,32,40.2,26.8,40.2,59.8,55.7,42.3
+NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Miscellaneous/Mental Commitment,141,242,229,202,239,312,312,360,206,115,218,878,292.7,-34,-30.1,5.8,-26,321.6,321.6,371.1,212.4,224.7,301.8
+NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Miscellaneous/Missing Person (17 & under),5,10,9,11,12,39,26,39,58,23,53,123,41,48.7,35.9,-8.6,29,40.2,26.8,40.2,59.8,54.6,42.3
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Miscellaneous/Missing Person (18 & over),16,24,40,24,27,36,26,50,55,23,51,131,43.7,52.8,41.7,-7.3,17,37.1,26.8,51.5,56.7,52.6,45.1
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Miscellaneous/Overdose,17,24,23,31,36,43,38,70,63,42,72,171,57,46.5,67.4,14.3,26,44.3,39.2,72.2,64.9,74.2,58.8
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Miscellaneous/Overdose Death,0,0,6,11,3,6,8,6,6,4,8,20,6.7,0,33.3,33.3,19,6.2,8.2,6.2,6.2,8.2,6.9
-NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Miscellaneous/Suicide,22,44,36,37,28,46,30,27,29,17,33,86,28.7,-37,-28.3,13.8,15,47.4,30.9,27.8,29.9,34,29.6
+NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Miscellaneous/Suicide,22,44,36,37,28,46,30,27,29,17,32,86,28.7,-37,-30.4,10.3,11,47.4,30.9,27.8,29.9,33,29.6
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Pornography/Obscene Material,6,4,2,1,4,2,10,20,33,16,34,63,21,1550,1600,3,62,2.1,10.3,20.6,34,35.1,21.6
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Prostitution/Assisting-Promoting,3,2,0,2,2,4,0,1,1,0,0,2,0.7,-75,-100,-100,-100,4.1,0,1,1,0,0.7
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Prostitution/Engaging,3,7,13,2,2,2,0,0,0,0,0,0,0,-100,-100,NA,NA,2.1,0,0,0,0,0
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Prostitution/Purchasing,0,0,7,1,0,1,0,0,0,0,0,0,0,-100,-100,NA,NA,1,0,0,0,0,0
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Sex Offense/All Other,12,26,19,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Sex Offense/Incest,2,2,1,2,0,1,0,1,2,0,1,3,1,100,0,-50,0,1,0,1,2.1,1,1
-NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Sex Offense/Indecent Exposure,6,13,10,15,11,11,9,28,24,12,25,61,20.3,118.2,127.3,4.2,23,11.3,9.3,28.9,24.7,25.8,20.9
+NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Sex Offense/Indecent Exposure,6,13,10,15,11,11,9,28,24,12,24,61,20.3,118.2,118.2,0,18,11.3,9.3,28.9,24.7,24.7,20.9
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Sex Offense/Peeping Tom,2,4,3,6,2,4,1,7,8,3,9,16,5.3,100,125,12.5,70,4.1,1,7.2,8.2,9.3,5.5
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Sex Offense/Statutory Rape,1,1,1,2,2,2,5,4,6,3,6,15,5,200,200,0,20,2.1,5.2,4.1,6.2,6.2,5.2
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Stolen Property/Possess Stolen Vehicle (w/ Arrest) (STOLEN FROM OTHER JURISDICTION),3,3,6,6,1,3,10,10,4,0,0,24,8,33.3,-100,-100,-100,3.1,10.3,10.3,4.1,0,8.2
@@ -452,7 +452,7 @@ NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Stolen Property/Recover Stol
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Traffic/Citizen Request,1,2,5,3,1,0,0,1,0,0,0,1,0.3,NA,NA,NA,-100,0,0,1,0,0,0.3
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Traffic/DWI (Driving While Impaired),108,167,145,110,111,127,86,90,86,51,94,262,87.3,-32.3,-26,9.3,8,130.9,88.7,92.8,88.7,96.9,90
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Weapons/All Other,1,2,5,1,1,2,1,3,9,16,23,13,4.3,350,1050,155.6,435,2.1,1,3.1,9.3,23.7,4.4
-NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Weapons/Carry Concealed Weapon,8,20,5,16,16,13,32,46,69,13,40,147,49,430.8,207.7,-42,-18,13.4,33,47.4,71.1,41.2,50.5
+NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Weapons/Carry Concealed Weapon,8,20,5,16,16,13,32,46,69,13,38,147,49,430.8,192.3,-44.9,-22,13.4,33,47.4,71.1,39.2,50.5
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Weapons/Illegal Possession of Weapon,1,7,7,11,6,5,12,21,20,10,17,53,17.7,300,240,-15,-4,5.2,12.4,21.6,20.6,17.5,18.2
 NWD,97000,Northwest Raleigh,Northwest,Other/Unknown,Weapons/Shots Fired,6,26,28,37,25,22,46,80,78,49,93,204,68,254.5,322.7,19.2,37,22.7,47.4,82.5,80.4,95.9,70.1
 NWD,97000,Northwest Raleigh,Northwest,Robbery,Robbery/From Business,9,12,16,17,9,12,14,11,13,7,16,38,12.7,8.3,33.3,23.1,26,12.4,14.4,11.3,13.4,16.5,13.1
@@ -461,15 +461,15 @@ NWD,97000,Northwest Raleigh,Northwest,Sexual Assault,Sex Offense/Assault with an
 NWD,97000,Northwest Raleigh,Northwest,Sexual Assault,Sex Offense/Forcible Fondling,1,4,7,14,22,26,23,33,25,17,30,81,27,-3.8,15.4,20,11,26.8,23.7,34,25.8,30.9,27.8
 NWD,97000,Northwest Raleigh,Northwest,Sexual Assault,Sex Offense/Forcible Rape,9,5,13,21,15,14,17,17,26,9,30,60,20,85.7,114.3,15.4,50,14.4,17.5,17.5,26.8,30.9,20.6
 NWD,97000,Northwest Raleigh,Northwest,Sexual Assault,Sex Offense/Forcible Sodomy,3,2,0,4,2,3,2,1,6,1,4,9,3,100,33.3,-33.3,33,3.1,2.1,1,6.2,4.1,3.1
-NWD,97000,Northwest Raleigh,Northwest,Theft,Larceny/All Other,223,327,334,266,273,325,314,367,380,156,322,1061,353.7,16.9,-0.9,-15.3,-9,335.1,323.7,378.4,391.8,332,364.6
+NWD,97000,Northwest Raleigh,Northwest,Theft,Larceny/All Other,223,327,334,266,273,325,314,367,380,155,318,1061,353.7,16.9,-2.2,-16.3,-10,335.1,323.7,378.4,391.8,327.8,364.6
 NWD,97000,Northwest Raleigh,Northwest,Theft,Larceny/Pocket-Picking,3,8,4,3,3,5,8,10,13,2,8,31,10.3,160,60,-38.5,-22,5.2,8.2,10.3,13.4,8.2,10.6
 NWD,97000,Northwest Raleigh,Northwest,Theft,Larceny/Purse-Snatching,1,7,4,4,1,2,7,7,3,0,2,17,5.7,50,0,-33.3,-65,2.1,7.2,7.2,3.1,2.1,5.9
 NWD,97000,Northwest Raleigh,Northwest,Theft,Larceny/Shoplifting,214,257,373,341,385,488,378,617,507,300,577,1502,500.7,3.9,18.2,13.8,15,503.1,389.7,636.1,522.7,594.8,516.2
-NWD,97000,Northwest Raleigh,Northwest,Theft,Larceny/Theft from Building,39,53,33,61,57,46,48,33,95,76,155,176,58.7,106.5,237,63.2,164,47.4,49.5,34,97.9,159.8,60.5
-NWD,97000,Northwest Raleigh,Northwest,Theft,Larceny/Theft from Coin-Operated Machine,0,1,1,1,2,0,0,1,1,1,2,2,0.7,NA,NA,100,186,0,0,1,1,2.1,0.7
-NWD,97000,Northwest Raleigh,Northwest,Theft,Larceny/Theft from Motor Vehicle,270,315,387,476,406,282,363,406,481,362,616,1250,416.7,70.6,118.4,28.1,48,290.7,374.2,418.6,495.9,635.1,429.6
-NWD,97000,Northwest Raleigh,Northwest,Theft,Larceny/Theft of MV Parts-Accessories,43,65,39,53,48,49,67,115,88,45,84,270,90,79.6,71.4,-4.5,-7,50.5,69.1,118.6,90.7,86.6,92.8
-SED,84000,Southeast Raleigh,Southeast,Aggravated Assault,Assault/Aggravated,57,333,286,291,296,311,342,351,363,163,351,1056,352,16.7,12.9,-3.3,-0,370.2,407.1,417.9,432.1,417.9,419
+NWD,97000,Northwest Raleigh,Northwest,Theft,Larceny/Theft from Building,39,53,33,61,57,46,48,33,95,77,156,176,58.7,106.5,239.1,64.2,166,47.4,49.5,34,97.9,160.8,60.5
+NWD,97000,Northwest Raleigh,Northwest,Theft,Larceny/Theft from Coin-Operated Machine,0,1,1,1,2,0,0,1,1,1,1,2,0.7,NA,NA,0,43,0,0,1,1,1,0.7
+NWD,97000,Northwest Raleigh,Northwest,Theft,Larceny/Theft from Motor Vehicle,270,315,387,476,406,282,363,406,481,364,617,1250,416.7,70.6,118.8,28.3,48,290.7,374.2,418.6,495.9,636.1,429.6
+NWD,97000,Northwest Raleigh,Northwest,Theft,Larceny/Theft of MV Parts-Accessories,43,65,39,53,48,49,67,115,88,46,84,270,90,79.6,71.4,-4.5,-7,50.5,69.1,118.6,90.7,86.6,92.8
+SED,84000,Southeast Raleigh,Southeast,Aggravated Assault,Assault/Aggravated,57,333,286,291,296,311,342,351,363,162,349,1056,352,16.7,12.2,-3.9,-1,370.2,407.1,417.9,432.1,415.5,419
 SED,84000,Southeast Raleigh,Southeast,Aggravated Assault,Assault/Firearm,39,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 SED,84000,Southeast Raleigh,Southeast,Aggravated Assault,Assault/Hands (Aggravated),15,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 SED,84000,Southeast Raleigh,Southeast,Aggravated Assault,Assault/Knife,24,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
@@ -477,33 +477,33 @@ SED,84000,Southeast Raleigh,Southeast,Aggravated Assault,Assault/Other Weapon (A
 SED,84000,Southeast Raleigh,Southeast,Aggravated Assault,Assault/Simple,0,0,0,0,0,0,1,0,0,0,0,1,0.3,NA,NA,NA,-100,0,1.2,0,0,0,0.4
 SED,84000,Southeast Raleigh,Southeast,Aggravated Assault,Child Abuse/Aggravated,5,8,11,8,5,6,5,7,11,3,7,23,7.7,83.3,16.7,-36.4,-9,7.1,6,8.3,13.1,8.3,9.2
 SED,84000,Southeast Raleigh,Southeast,Burglary,All Other/Trespassing,0,0,0,0,0,0,1,0,0,0,0,1,0.3,NA,NA,NA,-100,0,1.2,0,0,0,0.4
-SED,84000,Southeast Raleigh,Southeast,Burglary,Burglary/Commercial or Non-Residential,42,98,99,110,109,66,76,79,96,51,109,251,83.7,45.5,65.2,13.5,30,78.6,90.5,94,114.3,129.8,99.6
-SED,84000,Southeast Raleigh,Southeast,Burglary,Burglary/Residential,353,490,462,529,454,383,191,243,184,99,191,618,206,-52,-50.1,3.8,-7,456,227.4,289.3,219,227.4,245.2
-SED,84000,Southeast Raleigh,Southeast,Motor Vehicle Theft,Motor Vehicle Theft,148,199,201,209,186,234,249,243,304,135,289,796,265.3,29.9,23.5,-4.9,9,278.6,296.4,289.3,361.9,344,315.8
+SED,84000,Southeast Raleigh,Southeast,Burglary,Burglary/Commercial or Non-Residential,42,98,99,110,109,66,76,79,96,52,110,251,83.7,45.5,66.7,14.6,31,78.6,90.5,94,114.3,131,99.6
+SED,84000,Southeast Raleigh,Southeast,Burglary,Burglary/Residential,353,490,462,529,454,383,191,243,184,103,194,618,206,-52,-49.3,5.4,-6,456,227.4,289.3,219,231,245.2
+SED,84000,Southeast Raleigh,Southeast,Motor Vehicle Theft,Motor Vehicle Theft,148,199,201,209,186,234,249,243,304,136,290,796,265.3,29.9,23.9,-4.6,9,278.6,296.4,289.3,361.9,345.2,315.8
 SED,84000,Southeast Raleigh,Southeast,Murder,Homicide/Murder-Nonnegligent Manslaughter,1,7,9,12,7,9,11,7,20,2,13,38,12.7,122.2,44.4,-35,2,10.7,13.1,8.3,23.8,15.5,15.1
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,ASSAULT SIMPLE (NOT AGGRAVATED),0,0,0,0,0,0,0,1,0,0,0,1,0.3,NA,NA,NA,-100,0,0,1.2,0,0,0.4
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,All Other/All Other Offenses,224,373,312,336,281,324,238,222,247,120,248,707,235.7,-23.8,-23.5,0.4,5,385.7,283.3,264.3,294,295.2,280.6
-SED,84000,Southeast Raleigh,Southeast,Other/Unknown,All Other/Damage to Property (minor),426,791,671,664,651,635,649,670,624,277,620,1943,647.7,-1.7,-2.4,-0.6,-4,756,772.6,797.6,742.9,738.1,771.1
+SED,84000,Southeast Raleigh,Southeast,Other/Unknown,All Other/Damage to Property (minor),426,791,671,664,651,635,649,670,624,281,620,1943,647.7,-1.7,-2.4,-0.6,-4,756,772.6,797.6,742.9,738.1,771.1
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,All Other/Harassing Telephone Calls,7,60,48,38,41,52,45,41,55,34,64,141,47,5.8,23.1,16.4,36,61.9,53.6,48.8,65.5,76.2,56
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,All Other/Noise Ordinance Violation,0,2,2,0,0,1,0,1,0,0,0,1,0.3,-100,-100,NA,-100,1.2,0,1.2,0,0,0.4
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,All Other/Trespassing,76,119,88,117,126,199,168,148,162,97,191,478,159.3,-18.6,-4,17.9,20,236.9,200,176.2,192.9,227.4,189.6
-SED,84000,Southeast Raleigh,Southeast,Other/Unknown,All Other/Unauthorized Use of Vehicle,35,56,68,61,84,60,85,73,89,26,71,247,82.3,48.3,18.3,-20.2,-14,71.4,101.2,86.9,106,84.5,98
+SED,84000,Southeast Raleigh,Southeast,Other/Unknown,All Other/Unauthorized Use of Vehicle,35,56,68,61,84,60,85,73,89,27,71,247,82.3,48.3,18.3,-20.2,-14,71.4,101.2,86.9,106,84.5,98
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Arson,13,11,13,33,15,21,12,13,6,7,9,31,10.3,-71.4,-57.1,50,-13,25,14.3,15.5,7.1,10.7,12.3
-SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Assault/Intimidation-Communicating Threats,141,263,259,193,249,232,268,324,317,159,331,909,303,36.6,42.7,4.4,9,276.2,319,385.7,377.4,394,360.7
-SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Assault/Simple,769,1202,1107,1026,1057,1016,970,1055,1088,457,1034,3113,1037.7,7.1,1.8,-5,-0,1209.5,1154.8,1256,1295.2,1231,1235.4
+SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Assault/Intimidation-Communicating Threats,141,263,259,193,249,232,268,324,317,161,331,909,303,36.6,42.7,4.4,9,276.2,319,385.7,377.4,394,360.7
+SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Assault/Simple,769,1202,1107,1026,1057,1016,970,1055,1088,459,1031,3113,1037.7,7.1,1.5,-5.2,-1,1209.5,1154.8,1256,1295.2,1227.4,1235.4
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Bribery,0,0,0,0,1,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Child Abuse/Simple,32,72,84,79,48,55,48,55,51,20,48,154,51.3,-7.3,-12.7,-5.9,-6,65.5,57.1,65.5,60.7,57.1,61.1
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Counterfeiting/Forgery,22,52,69,40,32,26,18,12,26,11,26,56,18.7,0,0,0,39,31,21.4,14.3,31,31,22.3
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,DRUGS/POSSESSION/OTHER DANGEROUS NONNARCOTIC DRUGS,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
-SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Damage to Property (Group A),96,175,166,173,131,121,131,127,157,61,141,415,138.3,29.8,16.5,-10.2,2,144,156,151.2,186.9,167.9,164.6
+SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Damage to Property (Group A),96,175,166,173,131,121,131,127,157,62,142,415,138.3,29.8,17.4,-9.6,3,144,156,151.2,186.9,169,164.6
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Disorderly Conduct/All Other,9,26,16,20,18,17,5,12,13,6,14,30,10,-23.5,-17.6,7.7,40,20.2,6,14.3,15.5,16.7,11.9
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Disorderly Conduct/Begging,2,1,2,3,1,1,3,0,1,0,0,4,1.3,0,-100,-100,-100,1.2,3.6,0,1.2,0,1.5
-SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Disorderly Conduct/Disturbing the Peace,6,12,4,8,4,3,2,3,5,2,3,10,3.3,66.7,0,-40,-9,3.6,2.4,3.6,6,3.6,3.9
+SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Disorderly Conduct/Disturbing the Peace,6,12,4,8,4,3,2,3,5,3,4,10,3.3,66.7,33.3,-20,21,3.6,2.4,3.6,6,4.8,3.9
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Disorderly Conduct/Drunk-Disorderly,12,12,14,12,4,7,6,4,4,0,3,14,4.7,-42.9,-57.1,-25,-36,8.3,7.1,4.8,4.8,3.6,5.6
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Disorderly Conduct/Resist-Delay-Obstruct Officer,34,88,79,64,79,87,70,61,75,40,81,206,68.7,-13.8,-6.9,8,18,103.6,83.3,72.6,89.3,96.4,81.8
-SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Drug Equipment/Paraphernalia,214,438,356,374,470,371,267,294,390,235,435,951,317,5.1,17.3,11.5,37,441.7,317.9,350,464.3,517.9,377.4
-SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Drug Violation/Felony,107,499,382,481,543,472,337,307,425,223,437,1069,356.3,-10,-7.4,2.8,23,561.9,401.2,365.5,506,520.2,424.2
-SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Drug Violation/Misdemeanor,198,883,573,565,712,650,533,471,637,314,675,1641,547,-2,3.8,6,23,773.8,634.5,560.7,758.3,803.6,651.2
+SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Drug Equipment/Paraphernalia,214,438,356,374,470,371,267,294,390,237,437,951,317,5.1,17.8,12.1,38,441.7,317.9,350,464.3,520.2,377.4
+SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Drug Violation/Felony,107,499,382,481,543,472,337,307,425,224,438,1069,356.3,-10,-7.2,3.1,23,561.9,401.2,365.5,506,521.4,424.2
+SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Drug Violation/Misdemeanor,198,883,573,565,712,650,533,471,637,315,675,1641,547,-2,3.8,6,23,773.8,634.5,560.7,758.3,803.6,651.2
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Drug Violation/Possession,337,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Drug Violation/Sale or Manufacture,112,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Embezzlement,9,14,22,14,20,20,7,9,20,9,23,36,12,0,15,15,92,23.8,8.3,10.7,23.8,27.4,14.3
@@ -512,9 +512,9 @@ SED,84000,Southeast Raleigh,Southeast,Other/Unknown,FRAUD/ALL OTHER / IDENTITY T
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,FRAUD/FALSE PRETENSE,0,0,0,1,1,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Family Offenses/Nonviolent (eg: neglect),15,41,61,33,33,19,17,16,9,5,7,42,14,-52.6,-63.2,-22.2,-50,22.6,20.2,19,10.7,8.3,16.7
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Forgery/Prescription Fraud,7,18,7,9,5,7,3,6,16,2,5,25,8.3,128.6,-28.6,-68.8,-40,8.3,3.6,7.1,19,6,9.9
-SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Fraud/Credit Card-ATM Fraud,58,129,114,131,117,111,118,93,134,47,113,345,115,20.7,1.8,-15.7,-2,132.1,140.5,110.7,159.5,134.5,136.9
+SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Fraud/Credit Card-ATM Fraud,58,129,114,131,117,111,118,93,134,47,111,345,115,20.7,0,-17.2,-3,132.1,140.5,110.7,159.5,132.1,136.9
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Fraud/False Pretense or Swindle,65,94,96,88,111,150,153,167,197,72,181,517,172.3,31.3,20.7,-8.1,5,178.6,182.1,198.8,234.5,215.5,205.1
-SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Fraud/ID Theft,62,126,104,134,100,90,113,123,127,63,135,363,121,41.1,50,6.3,12,107.1,134.5,146.4,151.2,160.7,144
+SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Fraud/ID Theft,62,126,104,134,100,90,113,123,127,63,134,363,121,41.1,48.9,5.5,11,107.1,134.5,146.4,151.2,159.5,144
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Fraud/Impersonation of LEO,4,12,2,1,0,1,0,4,1,1,2,5,1.7,0,100,100,18,1.2,0,4.8,1.2,2.4,2
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Fraud/Rental Car Conversion,3,1,2,3,5,0,5,6,13,4,16,24,8,NA,NA,23.1,100,0,6,7.1,15.5,19,9.5
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Fraud/Welfare Fraud,1,0,3,3,0,2,1,1,2,14,16,4,1.3,0,700,700,1131,2.4,1.2,1.2,2.4,19,1.5
@@ -543,15 +543,15 @@ SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Juvenile/Truancy,1,7,5,4,1,1
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Kidnapping/Abduction,5,15,12,7,19,20,13,14,19,5,16,46,15.3,-5,-20,-15.8,5,23.8,15.5,16.7,22.6,19,18.2
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Liquor-Alcohol Law Violations,15,47,33,35,23,31,15,9,23,8,19,47,15.7,-25.8,-38.7,-17.4,21,36.9,17.9,10.7,27.4,22.6,18.7
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,MISC/ALL OTHER / NO OFFENSE COMMITTED,0,0,0,0,0,1,0,1,0,0,0,1,0.3,-100,-100,NA,-100,1.2,0,1.2,0,0,0.4
-SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Miscellaneous/All Other Non-Offenses,838,1735,1303,1229,1335,1639,1720,1725,1632,712,1544,5077,1692.3,-0.4,-5.8,-5.4,-9,1951.2,2047.6,2053.6,1942.9,1838.1,2014.6
+SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Miscellaneous/All Other Non-Offenses,838,1735,1303,1229,1335,1639,1720,1725,1632,716,1537,5077,1692.3,-0.4,-6.2,-5.8,-9,1951.2,2047.6,2053.6,1942.9,1829.8,2014.6
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Miscellaneous/Deceased Person,45,66,72,95,102,80,100,150,117,47,112,367,122.3,46.2,40,-4.3,-8,95.2,119,178.6,139.3,133.3,145.6
-SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Miscellaneous/Found Property,110,160,136,163,142,181,155,153,183,60,148,491,163.7,1.1,-18.2,-19.1,-10,215.5,184.5,182.1,217.9,176.2,194.9
+SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Miscellaneous/Found Property,110,160,136,163,142,181,155,153,183,60,147,491,163.7,1.1,-18.8,-19.7,-10,215.5,184.5,182.1,217.9,175,194.9
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Miscellaneous/Injured Person,13,21,24,11,14,12,19,14,23,11,22,56,18.7,91.7,83.3,-4.3,18,14.3,22.6,16.7,27.4,26.2,22.3
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Miscellaneous/Lost Property,52,87,102,78,197,110,70,84,115,48,119,269,89.7,4.5,8.2,3.5,33,131,83.3,100,136.9,141.7,106.8
-SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Miscellaneous/Mental Commitment,203,237,224,208,258,275,358,394,456,246,493,1208,402.7,65.8,79.3,8.1,22,327.4,426.2,469,542.9,586.9,479.4
-SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Miscellaneous/Missing Person (17 & under),55,102,77,110,157,202,187,184,231,121,255,602,200.7,14.4,26.2,10.4,27,240.5,222.6,219,275,303.6,238.9
-SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Miscellaneous/Missing Person (18 & over),62,129,116,126,76,76,101,99,117,57,120,317,105.7,53.9,57.9,2.6,14,90.5,120.2,117.9,139.3,142.9,125.8
-SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Miscellaneous/Overdose,10,22,36,58,62,83,92,185,208,97,212,485,161.7,150.6,155.4,1.9,31,98.8,109.5,220.2,247.6,252.4,192.5
+SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Miscellaneous/Mental Commitment,203,237,224,208,258,275,358,394,456,248,495,1208,402.7,65.8,80,8.6,23,327.4,426.2,469,542.9,589.3,479.4
+SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Miscellaneous/Missing Person (17 & under),55,102,77,110,157,202,187,184,231,121,254,602,200.7,14.4,25.7,10,27,240.5,222.6,219,275,302.4,238.9
+SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Miscellaneous/Missing Person (18 & over),62,129,116,126,76,76,101,99,117,57,119,317,105.7,53.9,56.6,1.7,13,90.5,120.2,117.9,139.3,141.7,125.8
+SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Miscellaneous/Overdose,10,22,36,58,62,83,92,185,208,98,213,485,161.7,150.6,156.6,2.4,32,98.8,109.5,220.2,247.6,253.6,192.5
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Miscellaneous/Overdose Death,0,2,7,8,6,7,9,19,23,11,20,51,17,228.6,185.7,-13,18,8.3,10.7,22.6,27.4,23.8,20.2
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Miscellaneous/Suicide,15,32,26,16,28,16,25,21,44,13,35,90,30,175,118.8,-20.5,17,19,29.8,25,52.4,41.7,35.7
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Pornography/Obscene Material,0,6,2,6,2,9,29,27,33,20,38,89,29.7,266.7,322.2,15.2,28,10.7,34.5,32.1,39.3,45.2,35.4
@@ -572,22 +572,22 @@ SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Traffic/DWI (Driving While I
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Weapons/All Other,10,19,22,3,7,11,10,16,75,109,173,101,33.7,581.8,1472.7,130.7,413,13.1,11.9,19,89.3,206,40.1
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Weapons/Carry Concealed Weapon,55,86,68,71,88,76,89,93,167,117,206,349,116.3,119.7,171.1,23.4,77,90.5,106,110.7,198.8,245.2,138.5
 SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Weapons/Illegal Possession of Weapon,34,48,50,56,72,59,72,78,88,54,103,238,79.3,49.2,74.6,17,30,70.2,85.7,92.9,104.8,122.6,94.4
-SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Weapons/Shots Fired,135,341,282,368,336,319,371,402,342,75,233,1115,371.7,7.2,-27,-31.9,-37,379.8,441.7,478.6,407.1,277.4,442.5
+SED,84000,Southeast Raleigh,Southeast,Other/Unknown,Weapons/Shots Fired,135,341,282,368,336,319,371,402,342,77,234,1115,371.7,7.2,-26.6,-31.6,-37,379.8,441.7,478.6,407.1,278.6,442.5
 SED,84000,Southeast Raleigh,Southeast,Robbery,Robbery/From Business,17,31,27,32,9,16,8,11,25,8,19,44,14.7,56.2,18.8,-24,29,19,9.5,13.1,29.8,22.6,17.5
-SED,84000,Southeast Raleigh,Southeast,Robbery,Robbery/From Person,96,157,143,113,120,122,112,125,131,49,114,368,122.7,7.4,-6.6,-13,-7,145.2,133.3,148.8,156,135.7,146.1
+SED,84000,Southeast Raleigh,Southeast,Robbery,Robbery/From Person,96,157,143,113,120,122,112,125,131,50,115,368,122.7,7.4,-5.7,-12.2,-6,145.2,133.3,148.8,156,136.9,146.1
 SED,84000,Southeast Raleigh,Southeast,Sexual Assault,Sex Offense/Assault with an Object,1,0,0,2,3,0,0,0,2,0,1,2,0.7,NA,NA,-50,43,0,0,0,2.4,1.2,0.8
-SED,84000,Southeast Raleigh,Southeast,Sexual Assault,Sex Offense/Forcible Fondling,5,15,16,47,47,49,59,95,64,30,54,218,72.7,30.6,10.2,-15.6,-26,58.3,70.2,113.1,76.2,64.3,86.5
+SED,84000,Southeast Raleigh,Southeast,Sexual Assault,Sex Offense/Forcible Fondling,5,15,16,47,47,49,59,95,64,31,55,218,72.7,30.6,12.2,-14.1,-24,58.3,70.2,113.1,76.2,65.5,86.5
 SED,84000,Southeast Raleigh,Southeast,Sexual Assault,Sex Offense/Forcible Rape,9,38,33,38,35,35,32,53,33,19,35,118,39.3,-5.7,0,6.1,-11,41.7,38.1,63.1,39.3,41.7,46.8
 SED,84000,Southeast Raleigh,Southeast,Sexual Assault,Sex Offense/Forcible Sodomy,0,2,4,15,11,10,8,2,10,5,9,20,6.7,0,-10,-10,34,11.9,9.5,2.4,11.9,10.7,8
-SED,84000,Southeast Raleigh,Southeast,Theft,Larceny/All Other,417,621,505,474,426,471,422,487,519,160,413,1428,476,10.2,-12.3,-20.4,-13,560.7,502.4,579.8,617.9,491.7,566.7
+SED,84000,Southeast Raleigh,Southeast,Theft,Larceny/All Other,417,621,505,474,426,471,422,487,519,161,413,1428,476,10.2,-12.3,-20.4,-13,560.7,502.4,579.8,617.9,491.7,566.7
 SED,84000,Southeast Raleigh,Southeast,Theft,Larceny/Pocket-Picking,6,7,5,4,6,6,3,2,5,4,6,10,3.3,-16.7,0,20,82,7.1,3.6,2.4,6,7.1,3.9
 SED,84000,Southeast Raleigh,Southeast,Theft,Larceny/Purse-Snatching,4,6,7,15,11,10,3,8,6,1,4,17,5.7,-40,-60,-33.3,-30,11.9,3.6,9.5,7.1,4.8,6.8
-SED,84000,Southeast Raleigh,Southeast,Theft,Larceny/Shoplifting,91,124,136,158,154,257,219,151,552,239,564,922,307.3,114.8,119.5,2.2,84,306,260.7,179.8,657.1,671.4,365.8
-SED,84000,Southeast Raleigh,Southeast,Theft,Larceny/Theft from Building,45,69,60,72,83,97,53,48,99,75,151,200,66.7,2.1,55.7,52.5,126,115.5,63.1,57.1,117.9,179.8,79.4
+SED,84000,Southeast Raleigh,Southeast,Theft,Larceny/Shoplifting,91,124,136,158,154,257,219,151,552,241,565,922,307.3,114.8,119.8,2.4,84,306,260.7,179.8,657.1,672.6,365.8
+SED,84000,Southeast Raleigh,Southeast,Theft,Larceny/Theft from Building,45,69,60,72,83,97,53,48,99,76,152,200,66.7,2.1,56.7,53.5,128,115.5,63.1,57.1,117.9,181,79.4
 SED,84000,Southeast Raleigh,Southeast,Theft,Larceny/Theft from Coin-Operated Machine,1,3,4,2,2,2,1,5,13,3,8,19,6.3,550,300,-38.5,27,2.4,1.2,6,15.5,9.5,7.5
-SED,84000,Southeast Raleigh,Southeast,Theft,Larceny/Theft from Motor Vehicle,324,474,468,490,374,416,407,400,513,203,420,1320,440,23.3,1,-18.1,-5,495.2,484.5,476.2,610.7,500,523.8
+SED,84000,Southeast Raleigh,Southeast,Theft,Larceny/Theft from Motor Vehicle,324,474,468,490,374,416,407,400,513,203,419,1320,440,23.3,0.7,-18.3,-5,495.2,484.5,476.2,610.7,498.8,523.8
 SED,84000,Southeast Raleigh,Southeast,Theft,Larceny/Theft of MV Parts-Accessories,47,93,54,78,69,78,70,79,86,47,100,235,78.3,10.3,28.2,16.3,28,92.9,83.3,94,102.4,119,93.2
-SWD,98000,Southwest Raleigh,Southwest,Aggravated Assault,Assault/Aggravated,19,100,88,125,111,122,106,171,159,67,143,436,145.3,30.3,17.2,-10.1,-2,124.5,108.2,174.5,162.2,145.9,148.3
+SWD,98000,Southwest Raleigh,Southwest,Aggravated Assault,Assault/Aggravated,19,100,88,125,111,122,106,171,159,67,142,436,145.3,30.3,16.4,-10.7,-2,124.5,108.2,174.5,162.2,144.9,148.3
 SWD,98000,Southwest Raleigh,Southwest,Aggravated Assault,Assault/Firearm,13,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 SWD,98000,Southwest Raleigh,Southwest,Aggravated Assault,Assault/Hands (Aggravated),16,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 SWD,98000,Southwest Raleigh,Southwest,Aggravated Assault,Assault/Knife,10,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
@@ -595,34 +595,34 @@ SWD,98000,Southwest Raleigh,Southwest,Aggravated Assault,Assault/Other Weapon (A
 SWD,98000,Southwest Raleigh,Southwest,Aggravated Assault,Child Abuse/Aggravated,2,2,4,3,6,2,1,3,2,0,2,6,2,0,0,0,0,2,1,3.1,2,2,2
 SWD,98000,Southwest Raleigh,Southwest,Burglary,Burglary/Commercial or Non-Residential,40,63,61,70,65,39,53,54,43,34,60,150,50,10.3,53.8,39.5,20,39.8,54.1,55.1,43.9,61.2,51
 SWD,98000,Southwest Raleigh,Southwest,Burglary,Burglary/Residential,278,318,382,357,298,240,151,161,146,76,146,458,152.7,-39.2,-39.2,0,-4,244.9,154.1,164.3,149,149,155.8
-SWD,98000,Southwest Raleigh,Southwest,Motor Vehicle Theft,Motor Vehicle Theft,99,137,136,155,130,115,187,195,177,136,236,559,186.3,53.9,105.2,33.3,27,117.3,190.8,199,180.6,240.8,190.1
+SWD,98000,Southwest Raleigh,Southwest,Motor Vehicle Theft,Motor Vehicle Theft,99,137,136,155,130,115,187,195,177,136,233,559,186.3,53.9,102.6,31.6,25,117.3,190.8,199,180.6,237.8,190.1
 SWD,98000,Southwest Raleigh,Southwest,Murder,Homicide/Murder-Nonnegligent Manslaughter,2,2,2,2,2,1,3,3,2,0,1,8,2.7,100,0,-50,-63,1,3.1,3.1,2,1,2.8
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,"ALL OTHER/ALL OTHER OFFENSES (COMM.THREATS, ETC.)",0,0,1,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,ALL OTHER/TRESPASSING,0,0,0,0,0,1,0,0,0,0,0,0,0,-100,-100,NA,NA,1,0,0,0,0,0
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,All Other/All Other Offenses,169,221,222,180,233,202,164,160,162,86,163,486,162,-19.8,-19.3,0.6,1,206.1,167.3,163.3,165.3,166.3,165.3
-SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,All Other/Damage to Property (minor),284,479,369,449,369,394,408,419,475,246,467,1302,434,20.6,18.5,-1.7,8,402,416.3,427.6,484.7,476.5,442.9
-SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,All Other/Harassing Telephone Calls,8,46,44,42,41,36,52,53,47,26,49,152,50.7,30.6,36.1,4.3,-3,36.7,53.1,54.1,48,50,51.7
+SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,All Other/Damage to Property (minor),284,479,369,449,369,394,408,419,475,248,467,1302,434,20.6,18.5,-1.7,8,402,416.3,427.6,484.7,476.5,442.9
+SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,All Other/Harassing Telephone Calls,8,46,44,42,41,36,52,53,47,26,48,152,50.7,30.6,33.3,2.1,-5,36.7,53.1,54.1,48,49,51.7
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,All Other/Noise Ordinance Violation,2,10,4,1,1,4,4,4,8,0,4,16,5.3,100,0,-50,-25,4.1,4.1,4.1,8.2,4.1,5.4
-SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,All Other/Trespassing,23,63,63,66,73,83,84,80,92,41,81,256,85.3,10.8,-2.4,-12,-5,84.7,85.7,81.6,93.9,82.7,87
+SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,All Other/Trespassing,23,63,63,66,73,83,84,80,92,41,80,256,85.3,10.8,-3.6,-13,-6,84.7,85.7,81.6,93.9,81.6,87
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,All Other/Unauthorized Use of Vehicle,17,19,35,27,28,18,30,27,27,14,29,84,28,50,61.1,7.4,4,18.4,30.6,27.6,27.6,29.6,28.6
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Arson,6,1,4,5,3,3,6,6,10,3,9,22,7.3,233.3,200,-10,23,3.1,6.1,6.1,10.2,9.2,7.4
-SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Assault/Intimidation-Communicating Threats,62,135,109,113,191,157,176,233,182,74,162,591,197,15.9,3.2,-11,-18,160.2,179.6,237.8,185.7,165.3,201
-SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Assault/Simple,302,576,577,587,690,693,621,641,639,274,596,1901,633.7,-7.8,-14,-6.7,-6,707.1,633.7,654.1,652,608.2,646.6
+SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Assault/Intimidation-Communicating Threats,62,135,109,113,191,157,176,233,182,76,163,591,197,15.9,3.8,-10.4,-17,160.2,179.6,237.8,185.7,166.3,201
+SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Assault/Simple,302,576,577,587,690,693,621,641,639,274,595,1901,633.7,-7.8,-14.1,-6.9,-6,707.1,633.7,654.1,652,607.1,646.6
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Child Abuse/Simple,10,27,19,35,29,27,18,28,26,12,26,72,24,-3.7,-3.7,0,8,27.6,18.4,28.6,26.5,26.5,24.5
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Counterfeiting/Forgery,14,28,42,30,29,21,22,15,20,20,27,57,19,-4.8,28.6,35,42,21.4,22.4,15.3,20.4,27.6,19.4
-SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Damage to Property (Group A),80,101,100,94,80,86,73,96,113,68,115,282,94,31.4,33.7,1.8,22,87.8,74.5,98,115.3,117.3,95.9
+SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Damage to Property (Group A),80,101,100,94,80,86,73,96,113,68,114,282,94,31.4,32.6,0.9,21,87.8,74.5,98,115.3,116.3,95.9
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Disorderly Conduct/All Other,7,18,10,8,11,5,3,2,8,5,10,13,4.3,60,100,25,133,5.1,3.1,2,8.2,10.2,4.4
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Disorderly Conduct/Begging,3,3,2,1,4,2,0,1,0,0,0,1,0.3,-100,-100,NA,-100,2,0,1,0,0,0.3
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Disorderly Conduct/Disturbing the Peace,2,12,5,5,3,3,0,6,7,1,3,13,4.3,133.3,0,-57.1,-30,3.1,0,6.1,7.1,3.1,4.4
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Disorderly Conduct/Drunk-Disorderly,7,12,6,11,12,9,5,5,9,7,14,19,6.3,0,55.6,55.6,122,9.2,5.1,5.1,9.2,14.3,6.4
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Disorderly Conduct/Resist-Delay-Obstruct Officer,12,47,33,44,47,46,36,38,48,12,37,122,40.7,4.3,-19.6,-22.9,-9,46.9,36.7,38.8,49,37.8,41.5
-SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Drug Equipment/Paraphernalia,134,268,216,239,288,256,129,171,170,71,139,470,156.7,-33.6,-45.7,-18.2,-11,261.2,131.6,174.5,173.5,141.8,159.9
+SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Drug Equipment/Paraphernalia,134,268,216,239,288,256,129,171,170,72,140,470,156.7,-33.6,-45.3,-17.6,-11,261.2,131.6,174.5,173.5,142.9,159.9
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Drug Violation/Felony,36,148,174,183,186,189,114,112,143,55,116,369,123,-24.3,-38.6,-18.9,-6,192.9,116.3,114.3,145.9,118.4,125.5
-SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Drug Violation/Misdemeanor,72,355,273,299,351,347,217,297,251,90,199,765,255,-27.7,-42.7,-20.7,-22,354.1,221.4,303.1,256.1,203.1,260.2
+SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Drug Violation/Misdemeanor,72,355,273,299,351,347,217,297,251,91,199,765,255,-27.7,-42.7,-20.7,-22,354.1,221.4,303.1,256.1,203.1,260.2
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Drug Violation/Possession,135,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Drug Violation/Sale or Manufacture,50,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Embezzlement,18,14,18,21,20,10,8,8,21,4,16,37,12.3,110,60,-23.8,30,10.2,8.2,8.2,21.4,16.3,12.6
-SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Extortion/Blackmail,0,2,2,13,13,11,13,13,34,18,40,60,20,209.1,263.6,17.6,100,11.2,13.3,13.3,34.7,40.8,20.4
+SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Extortion/Blackmail,0,2,2,13,13,11,13,13,34,19,41,60,20,209.1,272.7,20.6,105,11.2,13.3,13.3,34.7,41.8,20.4
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,FRAUD/ALL OTHER / IDENTITY THEFT,0,0,0,0,1,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,FRAUD/FALSE PRETENSE,0,0,1,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Family Offenses/Nonviolent (eg: neglect),10,29,14,2,1,3,1,3,9,2,8,13,4.3,200,166.7,-11.1,86,3.1,1,3.1,9.2,8.2,4.4
@@ -642,7 +642,7 @@ SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Human Trafficking/Involuntar
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Humane/All Other Humane,21,5,8,1,2,3,8,7,5,3,4,20,6.7,66.7,33.3,-20,-40,3.1,8.2,7.1,5.1,4.1,6.8
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Humane/Animal Bite,47,92,101,105,121,96,87,114,121,51,124,322,107.3,26,29.2,2.5,16,98,88.8,116.3,123.5,126.5,109.5
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Humane/Animal Cruelty,0,5,9,9,1,12,14,8,10,6,13,32,10.7,-16.7,8.3,30,21,12.2,14.3,8.2,10.2,13.3,10.9
-SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Humane/Chemical Deployment,2,16,29,35,42,85,69,37,45,22,45,151,50.3,-47.1,-47.1,0,-11,86.7,70.4,37.8,45.9,45.9,51.3
+SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Humane/Chemical Deployment,2,16,29,35,42,85,69,37,45,23,46,151,50.3,-47.1,-45.9,2.2,-9,86.7,70.4,37.8,45.9,46.9,51.3
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Humane/Injured Animal,3,2,6,14,0,4,7,3,2,1,1,12,4,-50,-75,-50,-75,4.1,7.1,3.1,2,1,4.1
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Humane/Injured Person,0,0,0,18,2,4,2,3,1,0,1,6,2,-75,-75,0,-50,4.1,2,3.1,1,1,2
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Humane/Pick Up Animal(s),1,1,0,3,1,1,2,1,0,2,2,3,1,-100,100,NA,100,1,2,1,0,2,1
@@ -655,15 +655,15 @@ SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Juvenile/Truancy,0,0,1,0,1,2
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Kidnapping/Abduction,4,5,9,9,7,11,7,8,11,1,8,26,8.7,0,-27.3,-27.3,-8,11.2,7.1,8.2,11.2,8.2,8.9
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Liquor-Alcohol Law Violations,16,19,14,12,11,6,6,8,8,3,6,22,7.3,33.3,0,-25,-18,6.1,6.1,8.2,8.2,6.1,7.4
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,MISC/ALL OTHER / NO OFFENSE COMMITTED,0,0,0,1,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
-SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Miscellaneous/All Other Non-Offenses,450,1013,940,991,1294,1262,1125,1300,1132,415,993,3557,1185.7,-10.3,-21.3,-12.3,-16,1287.8,1148,1326.5,1155.1,1013.3,1209.9
-SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Miscellaneous/Deceased Person,29,78,70,70,59,69,80,87,107,66,131,274,91.3,55.1,89.9,22.4,43,70.4,81.6,88.8,109.2,133.7,93.2
-SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Miscellaneous/Found Property,76,135,107,136,124,139,116,130,144,73,153,390,130,3.6,10.1,6.2,18,141.8,118.4,132.7,146.9,156.1,132.7
+SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Miscellaneous/All Other Non-Offenses,450,1013,940,991,1294,1262,1125,1300,1132,418,995,3557,1185.7,-10.3,-21.2,-12.1,-16,1287.8,1148,1326.5,1155.1,1015.3,1209.9
+SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Miscellaneous/Deceased Person,29,78,70,70,59,69,80,87,107,67,132,274,91.3,55.1,91.3,23.4,45,70.4,81.6,88.8,109.2,134.7,93.2
+SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Miscellaneous/Found Property,76,135,107,136,124,139,116,130,144,74,154,390,130,3.6,10.8,6.9,18,141.8,118.4,132.7,146.9,157.1,132.7
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Miscellaneous/Injured Person,10,9,9,12,12,10,6,15,12,7,12,33,11,20,20,0,9,10.2,6.1,15.3,12.2,12.2,11.2
-SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Miscellaneous/Lost Property,55,102,129,117,187,148,98,97,136,58,130,331,110.3,-8.1,-12.2,-4.4,18,151,100,99,138.8,132.7,112.6
-SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Miscellaneous/Mental Commitment,69,112,140,162,198,188,217,247,419,212,438,883,294.3,122.9,133,4.5,49,191.8,221.4,252,427.6,446.9,300.3
+SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Miscellaneous/Lost Property,55,102,129,117,187,148,98,97,136,58,129,331,110.3,-8.1,-12.8,-5.1,17,151,100,99,138.8,131.6,112.6
+SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Miscellaneous/Mental Commitment,69,112,140,162,198,188,217,247,419,213,439,883,294.3,122.9,133.5,4.8,49,191.8,221.4,252,427.6,448,300.3
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Miscellaneous/Missing Person (17 & under),26,29,29,35,59,54,67,74,61,27,48,202,67.3,13,-11.1,-21.3,-29,55.1,68.4,75.5,62.2,49,68.7
-SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Miscellaneous/Missing Person (18 & over),32,38,61,54,55,40,41,37,42,28,49,120,40,5,22.5,16.7,23,40.8,41.8,37.8,42.9,50,40.8
-SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Miscellaneous/Overdose,6,27,30,49,49,60,65,83,79,25,67,227,75.7,31.7,11.7,-15.2,-11,61.2,66.3,84.7,80.6,68.4,77.2
+SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Miscellaneous/Missing Person (18 & over),32,38,61,54,55,40,41,37,42,30,51,120,40,5,27.5,21.4,27,40.8,41.8,37.8,42.9,52,40.8
+SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Miscellaneous/Overdose,6,27,30,49,49,60,65,83,79,25,66,227,75.7,31.7,10,-16.5,-13,61.2,66.3,84.7,80.6,67.3,77.2
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Miscellaneous/Overdose Death,1,5,9,13,9,12,13,12,17,5,14,42,14,41.7,16.7,-17.6,0,12.2,13.3,12.2,17.3,14.3,14.3
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Miscellaneous/Suicide,25,50,35,35,54,31,31,34,37,20,38,102,34,19.4,22.6,2.7,12,31.6,31.6,34.7,37.8,38.8,34.7
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Motor Vehicle Theft,0,0,0,0,0,0,1,0,0,0,0,1,0.3,NA,NA,NA,-100,0,1,0,0,0,0.3
@@ -683,7 +683,7 @@ SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Stolen Property/Recover Stol
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Traffic/Citizen Request,10,15,7,5,1,4,1,1,0,0,0,2,0.7,-100,-100,NA,-100,4.1,1,1,0,0,0.7
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Traffic/DWI (Driving While Impaired),283,366,223,199,208,170,113,139,152,71,131,404,134.7,-10.6,-22.9,-13.8,-3,173.5,115.3,141.8,155.1,133.7,137.4
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Weapons/All Other,4,4,7,0,5,4,9,13,14,7,15,36,12,250,275,7.1,25,4.1,9.2,13.3,14.3,15.3,12.2
-SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Weapons/Carry Concealed Weapon,11,32,21,27,37,44,25,54,83,38,83,162,54,88.6,88.6,0,54,44.9,25.5,55.1,84.7,84.7,55.1
+SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Weapons/Carry Concealed Weapon,11,32,21,27,37,44,25,54,83,38,82,162,54,88.6,86.4,-1.2,52,44.9,25.5,55.1,84.7,83.7,55.1
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Weapons/Illegal Possession of Weapon,8,7,16,23,22,21,14,22,39,16,35,75,25,85.7,66.7,-10.3,40,21.4,14.3,22.4,39.8,35.7,25.5
 SWD,98000,Southwest Raleigh,Southwest,Other/Unknown,Weapons/Shots Fired,17,32,74,78,104,69,67,170,140,57,123,377,125.7,102.9,78.3,-12.1,-2,70.4,68.4,173.5,142.9,125.5,128.3
 SWD,98000,Southwest Raleigh,Southwest,Robbery,Robbery/From Business,14,11,28,26,17,20,12,13,15,3,12,40,13.3,-25,-40,-20,-10,20.4,12.2,13.3,15.3,12.2,13.6
@@ -692,13 +692,13 @@ SWD,98000,Southwest Raleigh,Southwest,Sexual Assault,Sex Offense/Assault with an
 SWD,98000,Southwest Raleigh,Southwest,Sexual Assault,Sex Offense/Forcible Fondling,6,11,9,19,27,24,25,42,30,19,40,97,32.3,25,66.7,33.3,24,24.5,25.5,42.9,30.6,40.8,33
 SWD,98000,Southwest Raleigh,Southwest,Sexual Assault,Sex Offense/Forcible Rape,9,15,20,25,23,45,27,40,42,22,49,109,36.3,-6.7,8.9,16.7,35,45.9,27.6,40.8,42.9,50,37
 SWD,98000,Southwest Raleigh,Southwest,Sexual Assault,Sex Offense/Forcible Sodomy,2,2,2,8,3,4,5,3,10,5,10,18,6,150,150,0,67,4.1,5.1,3.1,10.2,10.2,6.1
-SWD,98000,Southwest Raleigh,Southwest,Theft,Larceny/All Other,297,467,459,387,401,385,424,413,440,183,388,1277,425.7,14.3,0.8,-11.8,-9,392.9,432.7,421.4,449,395.9,434.4
+SWD,98000,Southwest Raleigh,Southwest,Theft,Larceny/All Other,297,467,459,387,401,385,424,413,440,183,387,1277,425.7,14.3,0.5,-12,-9,392.9,432.7,421.4,449,394.9,434.4
 SWD,98000,Southwest Raleigh,Southwest,Theft,Larceny/Pocket-Picking,4,10,4,4,2,1,3,2,12,3,4,17,5.7,1100,300,-66.7,-30,1,3.1,2,12.2,4.1,5.8
 SWD,98000,Southwest Raleigh,Southwest,Theft,Larceny/Purse-Snatching,0,4,5,7,8,9,2,4,0,3,3,6,2,-100,-66.7,NA,50,9.2,2,4.1,0,3.1,2
-SWD,98000,Southwest Raleigh,Southwest,Theft,Larceny/Shoplifting,71,159,178,166,177,198,174,141,136,92,156,451,150.3,-31.3,-21.2,14.7,4,202,177.6,143.9,138.8,159.2,153.4
-SWD,98000,Southwest Raleigh,Southwest,Theft,Larceny/Theft from Building,73,108,94,93,62,79,70,36,97,73,139,203,67.7,22.8,75.9,43.3,105,80.6,71.4,36.7,99,141.8,69.1
-SWD,98000,Southwest Raleigh,Southwest,Theft,Larceny/Theft from Coin-Operated Machine,1,1,1,1,3,2,1,1,8,2,8,10,3.3,300,300,0,142,2,1,1,8.2,8.2,3.4
-SWD,98000,Southwest Raleigh,Southwest,Theft,Larceny/Theft from Motor Vehicle,366,467,519,568,469,425,485,497,625,268,577,1607,535.7,47.1,35.8,-7.7,8,433.7,494.9,507.1,637.8,588.8,546.6
+SWD,98000,Southwest Raleigh,Southwest,Theft,Larceny/Shoplifting,71,159,178,166,177,198,174,141,136,92,155,451,150.3,-31.3,-21.7,14,3,202,177.6,143.9,138.8,158.2,153.4
+SWD,98000,Southwest Raleigh,Southwest,Theft,Larceny/Theft from Building,73,108,94,93,62,79,70,36,97,74,140,203,67.7,22.8,77.2,44.3,107,80.6,71.4,36.7,99,142.9,69.1
+SWD,98000,Southwest Raleigh,Southwest,Theft,Larceny/Theft from Coin-Operated Machine,1,1,1,1,3,2,1,1,8,2,7,10,3.3,300,250,-12.5,112,2,1,1,8.2,7.1,3.4
+SWD,98000,Southwest Raleigh,Southwest,Theft,Larceny/Theft from Motor Vehicle,366,467,519,568,469,425,485,497,625,269,573,1607,535.7,47.1,34.8,-8.3,7,433.7,494.9,507.1,637.8,584.7,546.6
 SWD,98000,Southwest Raleigh,Southwest,Theft,Larceny/Theft of MV Parts-Accessories,49,80,55,60,62,52,93,152,123,42,111,368,122.7,136.5,113.5,-9.8,-10,53.1,94.9,155.1,125.5,113.3,125.2
 NA,NA,NA,UNK,Aggravated Assault,Assault/Aggravated,0,0,0,1,0,0,0,0,1,0,0,1,0.3,NA,NA,-100,-100,NA,NA,NA,NA,NA,NA
 NA,NA,NA,UNK,Burglary,Burglary/Residential,0,0,0,0,0,0,0,1,0,0,0,1,0.3,NA,NA,NA,-100,NA,NA,NA,NA,NA,NA
