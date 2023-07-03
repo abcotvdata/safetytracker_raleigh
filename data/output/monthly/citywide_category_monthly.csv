@@ -108,7 +108,7 @@ Aggravated Assault,2023-03-01,103,97
 Aggravated Assault,2023-04-01,103,98
 Aggravated Assault,2023-05-01,89,98
 Aggravated Assault,2023-06-01,111,101
-Aggravated Assault,2023-07-01,3,68
+Aggravated Assault,2023-07-01,9,70
 Burglary,2014-06-01,185,NA
 Burglary,2014-07-01,213,NA
 Burglary,2014-08-01,221,206
@@ -217,8 +217,8 @@ Burglary,2023-02-01,104,117
 Burglary,2023-03-01,107,114
 Burglary,2023-04-01,102,104
 Burglary,2023-05-01,120,110
-Burglary,2023-06-01,148,123
-Burglary,2023-07-01,6,91
+Burglary,2023-06-01,149,124
+Burglary,2023-07-01,12,94
 Motor Vehicle Theft,2014-06-01,82,NA
 Motor Vehicle Theft,2014-07-01,91,NA
 Motor Vehicle Theft,2014-08-01,81,85
@@ -328,7 +328,7 @@ Motor Vehicle Theft,2023-03-01,121,128
 Motor Vehicle Theft,2023-04-01,157,135
 Motor Vehicle Theft,2023-05-01,175,151
 Motor Vehicle Theft,2023-06-01,189,174
-Motor Vehicle Theft,2023-07-01,1,122
+Motor Vehicle Theft,2023-07-01,5,123
 Murder,2014-06-01,3,NA
 Murder,2014-07-01,2,NA
 Murder,2014-08-01,1,2
@@ -529,8 +529,8 @@ Other/Unknown,2023-02-01,3059,3248
 Other/Unknown,2023-03-01,3404,3307
 Other/Unknown,2023-04-01,3234,3232
 Other/Unknown,2023-05-01,3486,3375
-Other/Unknown,2023-06-01,3284,3335
-Other/Unknown,2023-07-01,27,2266
+Other/Unknown,2023-06-01,3292,3337
+Other/Unknown,2023-07-01,105,2294
 Robbery,2014-06-01,69,NA
 Robbery,2014-07-01,67,NA
 Robbery,2014-08-01,65,67
@@ -640,6 +640,7 @@ Robbery,2023-03-01,26,34
 Robbery,2023-04-01,47,35
 Robbery,2023-05-01,34,36
 Robbery,2023-06-01,31,37
+Robbery,2023-07-01,1,22
 Sexual Assault,2014-06-01,15,NA
 Sexual Assault,2014-07-01,15,NA
 Sexual Assault,2014-08-01,8,13
@@ -749,7 +750,7 @@ Sexual Assault,2023-03-01,37,40
 Sexual Assault,2023-04-01,35,41
 Sexual Assault,2023-05-01,55,42
 Sexual Assault,2023-06-01,35,42
-Sexual Assault,2023-07-01,1,30
+Sexual Assault,2023-07-01,2,31
 Theft,2014-06-01,804,NA
 Theft,2014-07-01,916,NA
 Theft,2014-08-01,941,887
@@ -859,3 +860,4 @@ Theft,2023-03-01,708,704
 Theft,2023-04-01,788,715
 Theft,2023-05-01,891,796
 Theft,2023-06-01,844,841
+Theft,2023-07-01,21,585
