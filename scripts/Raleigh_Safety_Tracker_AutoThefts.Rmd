@@ -197,7 +197,7 @@ th {
 <option value="https://abcotvdata.github.io/safetytracker_raleigh/Raleigh_Safety_Tracker.html">Raleigh</option>
 <option value="https://abcotvdata.github.io/safetytracker_durham/Durham_Safety_Tracker.html">Durham</option>
 <option value="https://abcotvdata.github.io/safetytracker_cary/Cary_Safety_Tracker.html">Cary</option>
-<option value="https://abcotvdata.github.io/safetytracker_fayetteville/Fayetteville_Safety_Tracker.html">COMING IN JUNE: Fayetteville</option>
+<option value="https://abcotvdata.github.io/safetytracker_fayetteville/Fayetteville_Safety_Tracker.html">COMING IN JULY: Fayetteville</option>
 </select></h2>
 
 <div class="cardContainer">
