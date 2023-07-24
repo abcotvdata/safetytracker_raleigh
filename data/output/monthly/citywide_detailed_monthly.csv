@@ -105,7 +105,7 @@ Aggravated Assault,Assault/Aggravated,2023-03-01,102,94
 Aggravated Assault,Assault/Aggravated,2023-04-01,103,95
 Aggravated Assault,Assault/Aggravated,2023-05-01,88,98
 Aggravated Assault,Assault/Aggravated,2023-06-01,111,101
-Aggravated Assault,Assault/Aggravated,2023-07-01,88,96
+Aggravated Assault,Assault/Aggravated,2023-07-01,91,97
 Aggravated Assault,Assault/Firearm,2014-06-01,24,NA
 Aggravated Assault,Assault/Firearm,2014-07-01,24,NA
 Aggravated Assault,Assault/Firearm,2014-08-01,16,21
@@ -436,7 +436,7 @@ Burglary,Burglary/Residential,2023-03-01,73,75
 Burglary,Burglary/Residential,2023-04-01,56,66
 Burglary,Burglary/Residential,2023-05-01,74,68
 Burglary,Burglary/Residential,2023-06-01,82,71
-Burglary,Burglary/Residential,2023-07-01,52,69
+Burglary,Burglary/Residential,2023-07-01,54,70
 Motor Vehicle Theft,All Other/Unauthorized Use of Vehicle,2020-06-01,1,NA
 Motor Vehicle Theft,Motor Vehicle Theft,2014-06-01,82,NA
 Motor Vehicle Theft,Motor Vehicle Theft,2014-07-01,91,NA
@@ -547,7 +547,7 @@ Motor Vehicle Theft,Motor Vehicle Theft,2023-03-01,121,128
 Motor Vehicle Theft,Motor Vehicle Theft,2023-04-01,157,135
 Motor Vehicle Theft,Motor Vehicle Theft,2023-05-01,175,151
 Motor Vehicle Theft,Motor Vehicle Theft,2023-06-01,186,173
-Motor Vehicle Theft,Motor Vehicle Theft,2023-07-01,143,168
+Motor Vehicle Theft,Motor Vehicle Theft,2023-07-01,156,172
 Murder,Homicide/Murder-Nonnegligent Manslaughter,2014-06-01,3,NA
 Murder,Homicide/Murder-Nonnegligent Manslaughter,2014-07-01,2,NA
 Murder,Homicide/Murder-Nonnegligent Manslaughter,2014-08-01,1,2
@@ -758,7 +758,7 @@ Other/Unknown,All Other/All Other Offenses,2023-03-01,81,86
 Other/Unknown,All Other/All Other Offenses,2023-04-01,93,87
 Other/Unknown,All Other/All Other Offenses,2023-05-01,94,89
 Other/Unknown,All Other/All Other Offenses,2023-06-01,97,95
-Other/Unknown,All Other/All Other Offenses,2023-07-01,52,81
+Other/Unknown,All Other/All Other Offenses,2023-07-01,55,82
 Other/Unknown,All Other/Damage to Property (minor),2014-06-01,227,NA
 Other/Unknown,All Other/Damage to Property (minor),2014-07-01,256,NA
 Other/Unknown,All Other/Damage to Property (minor),2014-08-01,223,235
@@ -868,7 +868,7 @@ Other/Unknown,All Other/Damage to Property (minor),2023-03-01,211,214
 Other/Unknown,All Other/Damage to Property (minor),2023-04-01,227,209
 Other/Unknown,All Other/Damage to Property (minor),2023-05-01,263,234
 Other/Unknown,All Other/Damage to Property (minor),2023-06-01,290,260
-Other/Unknown,All Other/Damage to Property (minor),2023-07-01,237,263
+Other/Unknown,All Other/Damage to Property (minor),2023-07-01,243,265
 Other/Unknown,All Other/Harassing Telephone Calls,2014-10-01,13,NA
 Other/Unknown,All Other/Harassing Telephone Calls,2014-11-01,16,NA
 Other/Unknown,All Other/Harassing Telephone Calls,2014-12-01,14,14
@@ -974,7 +974,7 @@ Other/Unknown,All Other/Harassing Telephone Calls,2023-03-01,34,32
 Other/Unknown,All Other/Harassing Telephone Calls,2023-04-01,24,30
 Other/Unknown,All Other/Harassing Telephone Calls,2023-05-01,24,27
 Other/Unknown,All Other/Harassing Telephone Calls,2023-06-01,39,29
-Other/Unknown,All Other/Harassing Telephone Calls,2023-07-01,20,28
+Other/Unknown,All Other/Harassing Telephone Calls,2023-07-01,21,28
 Other/Unknown,All Other/Noise Ordinance Violation,2014-08-01,1,NA
 Other/Unknown,All Other/Noise Ordinance Violation,2014-09-01,4,NA
 Other/Unknown,All Other/Noise Ordinance Violation,2014-11-01,2,2
@@ -1178,7 +1178,7 @@ Other/Unknown,All Other/Trespassing,2023-03-01,76,60
 Other/Unknown,All Other/Trespassing,2023-04-01,54,58
 Other/Unknown,All Other/Trespassing,2023-05-01,83,71
 Other/Unknown,All Other/Trespassing,2023-06-01,85,74
-Other/Unknown,All Other/Trespassing,2023-07-01,62,77
+Other/Unknown,All Other/Trespassing,2023-07-01,65,78
 Other/Unknown,All Other/Unauthorized Use of Vehicle,2014-06-01,22,NA
 Other/Unknown,All Other/Unauthorized Use of Vehicle,2014-07-01,24,NA
 Other/Unknown,All Other/Unauthorized Use of Vehicle,2014-08-01,14,20
@@ -1288,7 +1288,7 @@ Other/Unknown,All Other/Unauthorized Use of Vehicle,2023-03-01,23,16
 Other/Unknown,All Other/Unauthorized Use of Vehicle,2023-04-01,27,22
 Other/Unknown,All Other/Unauthorized Use of Vehicle,2023-05-01,24,25
 Other/Unknown,All Other/Unauthorized Use of Vehicle,2023-06-01,26,26
-Other/Unknown,All Other/Unauthorized Use of Vehicle,2023-07-01,17,22
+Other/Unknown,All Other/Unauthorized Use of Vehicle,2023-07-01,18,23
 Other/Unknown,Arson,2014-06-01,8,NA
 Other/Unknown,Arson,2014-07-01,8,NA
 Other/Unknown,Arson,2014-08-01,7,8
@@ -1505,7 +1505,7 @@ Other/Unknown,Assault/Intimidation-Communicating Threats,2023-03-01,109,110
 Other/Unknown,Assault/Intimidation-Communicating Threats,2023-04-01,94,104
 Other/Unknown,Assault/Intimidation-Communicating Threats,2023-05-01,134,112
 Other/Unknown,Assault/Intimidation-Communicating Threats,2023-06-01,103,110
-Other/Unknown,Assault/Intimidation-Communicating Threats,2023-07-01,60,99
+Other/Unknown,Assault/Intimidation-Communicating Threats,2023-07-01,65,101
 Other/Unknown,Assault/Simple,2014-06-01,331,NA
 Other/Unknown,Assault/Simple,2014-07-01,322,NA
 Other/Unknown,Assault/Simple,2014-08-01,305,319
@@ -1615,7 +1615,7 @@ Other/Unknown,Assault/Simple,2023-03-01,355,339
 Other/Unknown,Assault/Simple,2023-04-01,333,332
 Other/Unknown,Assault/Simple,2023-05-01,373,354
 Other/Unknown,Assault/Simple,2023-06-01,341,349
-Other/Unknown,Assault/Simple,2023-07-01,263,326
+Other/Unknown,Assault/Simple,2023-07-01,278,331
 Other/Unknown,Bribery,2014-07-01,1,NA
 Other/Unknown,Bribery,2015-03-01,1,NA
 Other/Unknown,Bribery,2015-11-01,1,1
@@ -1952,7 +1952,7 @@ Other/Unknown,Damage to Property (Group A),2023-03-01,46,49
 Other/Unknown,Damage to Property (Group A),2023-04-01,52,46
 Other/Unknown,Damage to Property (Group A),2023-05-01,73,57
 Other/Unknown,Damage to Property (Group A),2023-06-01,66,64
-Other/Unknown,Damage to Property (Group A),2023-07-01,52,64
+Other/Unknown,Damage to Property (Group A),2023-07-01,54,64
 Other/Unknown,Disorderly Conduct/Affray,2014-07-01,2,NA
 Other/Unknown,Disorderly Conduct/All Other,2014-06-01,5,NA
 Other/Unknown,Disorderly Conduct/All Other,2014-07-01,6,NA
@@ -2558,7 +2558,7 @@ Other/Unknown,Drug Equipment/Paraphernalia,2023-03-01,143,147
 Other/Unknown,Drug Equipment/Paraphernalia,2023-04-01,121,134
 Other/Unknown,Drug Equipment/Paraphernalia,2023-05-01,141,135
 Other/Unknown,Drug Equipment/Paraphernalia,2023-06-01,129,130
-Other/Unknown,Drug Equipment/Paraphernalia,2023-07-01,114,128
+Other/Unknown,Drug Equipment/Paraphernalia,2023-07-01,119,130
 Other/Unknown,Drug Violation/Felony,2014-08-01,1,NA
 Other/Unknown,Drug Violation/Felony,2014-10-01,94,NA
 Other/Unknown,Drug Violation/Felony,2014-11-01,117,71
@@ -2665,7 +2665,7 @@ Other/Unknown,Drug Violation/Felony,2023-03-01,171,151
 Other/Unknown,Drug Violation/Felony,2023-04-01,136,147
 Other/Unknown,Drug Violation/Felony,2023-05-01,144,150
 Other/Unknown,Drug Violation/Felony,2023-06-01,125,135
-Other/Unknown,Drug Violation/Felony,2023-07-01,114,128
+Other/Unknown,Drug Violation/Felony,2023-07-01,118,129
 Other/Unknown,Drug Violation/Misdemeanor,2014-09-01,1,NA
 Other/Unknown,Drug Violation/Misdemeanor,2014-10-01,174,NA
 Other/Unknown,Drug Violation/Misdemeanor,2014-11-01,209,128
@@ -2772,7 +2772,7 @@ Other/Unknown,Drug Violation/Misdemeanor,2023-03-01,256,235
 Other/Unknown,Drug Violation/Misdemeanor,2023-04-01,167,211
 Other/Unknown,Drug Violation/Misdemeanor,2023-05-01,191,205
 Other/Unknown,Drug Violation/Misdemeanor,2023-06-01,146,168
-Other/Unknown,Drug Violation/Misdemeanor,2023-07-01,120,152
+Other/Unknown,Drug Violation/Misdemeanor,2023-07-01,127,155
 Other/Unknown,Drug Violation/Possession,2014-06-01,245,NA
 Other/Unknown,Drug Violation/Possession,2014-07-01,245,NA
 Other/Unknown,Drug Violation/Possession,2014-08-01,261,250
@@ -3436,7 +3436,7 @@ Other/Unknown,Fraud/False Pretense or Swindle,2023-03-01,95,97
 Other/Unknown,Fraud/False Pretense or Swindle,2023-04-01,90,92
 Other/Unknown,Fraud/False Pretense or Swindle,2023-05-01,86,90
 Other/Unknown,Fraud/False Pretense or Swindle,2023-06-01,92,89
-Other/Unknown,Fraud/False Pretense or Swindle,2023-07-01,64,81
+Other/Unknown,Fraud/False Pretense or Swindle,2023-07-01,66,81
 Other/Unknown,Fraud/ID Theft,2014-06-01,45,NA
 Other/Unknown,Fraud/ID Theft,2014-07-01,56,NA
 Other/Unknown,Fraud/ID Theft,2014-08-01,53,51
@@ -4313,7 +4313,7 @@ Other/Unknown,Humane/Animal Bite,2023-03-01,46,44
 Other/Unknown,Humane/Animal Bite,2023-04-01,43,44
 Other/Unknown,Humane/Animal Bite,2023-05-01,53,47
 Other/Unknown,Humane/Animal Bite,2023-06-01,47,48
-Other/Unknown,Humane/Animal Bite,2023-07-01,34,45
+Other/Unknown,Humane/Animal Bite,2023-07-01,35,45
 Other/Unknown,Humane/Animal Cruelty,2014-08-01,1,NA
 Other/Unknown,Humane/Animal Cruelty,2014-09-01,2,NA
 Other/Unknown,Humane/Animal Cruelty,2014-10-01,2,2
@@ -5297,7 +5297,7 @@ Other/Unknown,Liquor-Alcohol Law Violations,2023-03-01,7,6
 Other/Unknown,Liquor-Alcohol Law Violations,2023-04-01,3,6
 Other/Unknown,Liquor-Alcohol Law Violations,2023-05-01,6,5
 Other/Unknown,Liquor-Alcohol Law Violations,2023-06-01,7,5
-Other/Unknown,Liquor-Alcohol Law Violations,2023-07-01,7,7
+Other/Unknown,Liquor-Alcohol Law Violations,2023-07-01,8,7
 Other/Unknown,MISC/ALL OTHER / NO OFFENSE COMMITTED,2017-10-01,2,NA
 Other/Unknown,MISC/ALL OTHER / NO OFFENSE COMMITTED,2017-11-01,1,NA
 Other/Unknown,MISC/ALL OTHER / NO OFFENSE COMMITTED,2018-06-01,1,1
@@ -5414,7 +5414,7 @@ Other/Unknown,Miscellaneous/All Other Non-Offenses,2023-03-01,559,542
 Other/Unknown,Miscellaneous/All Other Non-Offenses,2023-04-01,609,558
 Other/Unknown,Miscellaneous/All Other Non-Offenses,2023-05-01,602,590
 Other/Unknown,Miscellaneous/All Other Non-Offenses,2023-06-01,580,597
-Other/Unknown,Miscellaneous/All Other Non-Offenses,2023-07-01,398,527
+Other/Unknown,Miscellaneous/All Other Non-Offenses,2023-07-01,417,533
 Other/Unknown,Miscellaneous/Deceased Person,2014-06-01,32,NA
 Other/Unknown,Miscellaneous/Deceased Person,2014-07-01,36,NA
 Other/Unknown,Miscellaneous/Deceased Person,2014-08-01,27,32
@@ -5524,7 +5524,7 @@ Other/Unknown,Miscellaneous/Deceased Person,2023-03-01,50,47
 Other/Unknown,Miscellaneous/Deceased Person,2023-04-01,52,45
 Other/Unknown,Miscellaneous/Deceased Person,2023-05-01,57,53
 Other/Unknown,Miscellaneous/Deceased Person,2023-06-01,42,50
-Other/Unknown,Miscellaneous/Deceased Person,2023-07-01,31,43
+Other/Unknown,Miscellaneous/Deceased Person,2023-07-01,32,44
 Other/Unknown,Miscellaneous/Found Property,2014-06-01,92,NA
 Other/Unknown,Miscellaneous/Found Property,2014-07-01,87,NA
 Other/Unknown,Miscellaneous/Found Property,2014-08-01,96,92
@@ -5634,7 +5634,7 @@ Other/Unknown,Miscellaneous/Found Property,2023-03-01,83,76
 Other/Unknown,Miscellaneous/Found Property,2023-04-01,68,74
 Other/Unknown,Miscellaneous/Found Property,2023-05-01,81,77
 Other/Unknown,Miscellaneous/Found Property,2023-06-01,80,76
-Other/Unknown,Miscellaneous/Found Property,2023-07-01,44,68
+Other/Unknown,Miscellaneous/Found Property,2023-07-01,46,69
 Other/Unknown,Miscellaneous/Injured Person,2014-06-01,5,NA
 Other/Unknown,Miscellaneous/Injured Person,2014-07-01,5,NA
 Other/Unknown,Miscellaneous/Injured Person,2014-08-01,15,8
@@ -5744,7 +5744,7 @@ Other/Unknown,Miscellaneous/Injured Person,2023-03-01,6,5
 Other/Unknown,Miscellaneous/Injured Person,2023-04-01,9,6
 Other/Unknown,Miscellaneous/Injured Person,2023-05-01,5,7
 Other/Unknown,Miscellaneous/Injured Person,2023-06-01,2,5
-Other/Unknown,Miscellaneous/Injured Person,2023-07-01,5,4
+Other/Unknown,Miscellaneous/Injured Person,2023-07-01,6,4
 Other/Unknown,Miscellaneous/Lost Property,2014-06-01,69,NA
 Other/Unknown,Miscellaneous/Lost Property,2014-07-01,69,NA
 Other/Unknown,Miscellaneous/Lost Property,2014-08-01,69,69
@@ -5964,7 +5964,7 @@ Other/Unknown,Miscellaneous/Mental Commitment,2023-03-01,146,158
 Other/Unknown,Miscellaneous/Mental Commitment,2023-04-01,168,162
 Other/Unknown,Miscellaneous/Mental Commitment,2023-05-01,142,152
 Other/Unknown,Miscellaneous/Mental Commitment,2023-06-01,154,155
-Other/Unknown,Miscellaneous/Mental Commitment,2023-07-01,78,125
+Other/Unknown,Miscellaneous/Mental Commitment,2023-07-01,79,125
 Other/Unknown,Miscellaneous/Missing Person (17 & under),2014-06-01,25,NA
 Other/Unknown,Miscellaneous/Missing Person (17 & under),2014-07-01,19,NA
 Other/Unknown,Miscellaneous/Missing Person (17 & under),2014-08-01,28,24
@@ -6074,7 +6074,7 @@ Other/Unknown,Miscellaneous/Missing Person (17 & under),2023-03-01,50,44
 Other/Unknown,Miscellaneous/Missing Person (17 & under),2023-04-01,51,46
 Other/Unknown,Miscellaneous/Missing Person (17 & under),2023-05-01,59,53
 Other/Unknown,Miscellaneous/Missing Person (17 & under),2023-06-01,54,55
-Other/Unknown,Miscellaneous/Missing Person (17 & under),2023-07-01,53,55
+Other/Unknown,Miscellaneous/Missing Person (17 & under),2023-07-01,57,57
 Other/Unknown,Miscellaneous/Missing Person (18 & over),2014-06-01,40,NA
 Other/Unknown,Miscellaneous/Missing Person (18 & over),2014-07-01,46,NA
 Other/Unknown,Miscellaneous/Missing Person (18 & over),2014-08-01,36,41
@@ -6184,7 +6184,7 @@ Other/Unknown,Miscellaneous/Missing Person (18 & over),2023-03-01,34,32
 Other/Unknown,Miscellaneous/Missing Person (18 & over),2023-04-01,29,32
 Other/Unknown,Miscellaneous/Missing Person (18 & over),2023-05-01,37,33
 Other/Unknown,Miscellaneous/Missing Person (18 & over),2023-06-01,34,33
-Other/Unknown,Miscellaneous/Missing Person (18 & over),2023-07-01,26,32
+Other/Unknown,Miscellaneous/Missing Person (18 & over),2023-07-01,28,33
 Other/Unknown,Miscellaneous/Overdose,2014-06-01,8,NA
 Other/Unknown,Miscellaneous/Overdose,2014-07-01,8,NA
 Other/Unknown,Miscellaneous/Overdose,2014-08-01,15,10
@@ -6294,7 +6294,7 @@ Other/Unknown,Miscellaneous/Overdose,2023-03-01,56,54
 Other/Unknown,Miscellaneous/Overdose,2023-04-01,55,54
 Other/Unknown,Miscellaneous/Overdose,2023-05-01,60,57
 Other/Unknown,Miscellaneous/Overdose,2023-06-01,50,55
-Other/Unknown,Miscellaneous/Overdose,2023-07-01,36,49
+Other/Unknown,Miscellaneous/Overdose,2023-07-01,38,49
 Other/Unknown,Miscellaneous/Overdose Death,2014-12-01,1,NA
 Other/Unknown,Miscellaneous/Overdose Death,2015-02-01,3,NA
 Other/Unknown,Miscellaneous/Overdose Death,2015-03-01,1,2
@@ -7772,7 +7772,7 @@ Other/Unknown,Traffic/DWI (Driving While Impaired),2023-03-01,97,93
 Other/Unknown,Traffic/DWI (Driving While Impaired),2023-04-01,80,83
 Other/Unknown,Traffic/DWI (Driving While Impaired),2023-05-01,71,83
 Other/Unknown,Traffic/DWI (Driving While Impaired),2023-06-01,46,66
-Other/Unknown,Traffic/DWI (Driving While Impaired),2023-07-01,40,52
+Other/Unknown,Traffic/DWI (Driving While Impaired),2023-07-01,44,54
 Other/Unknown,WEAPONS/ALL OTHER,2014-09-01,1,NA
 Other/Unknown,Weapons/All Other,2014-06-01,2,NA
 Other/Unknown,Weapons/All Other,2014-07-01,3,NA
@@ -7871,7 +7871,7 @@ Other/Unknown,Weapons/All Other,2023-03-01,22,27
 Other/Unknown,Weapons/All Other,2023-04-01,40,31
 Other/Unknown,Weapons/All Other,2023-05-01,48,37
 Other/Unknown,Weapons/All Other,2023-06-01,36,41
-Other/Unknown,Weapons/All Other,2023-07-01,18,34
+Other/Unknown,Weapons/All Other,2023-07-01,22,35
 Other/Unknown,Weapons/Carry Concealed Weapon,2014-06-01,19,NA
 Other/Unknown,Weapons/Carry Concealed Weapon,2014-07-01,17,NA
 Other/Unknown,Weapons/Carry Concealed Weapon,2014-08-01,21,19
@@ -7981,7 +7981,7 @@ Other/Unknown,Weapons/Carry Concealed Weapon,2023-03-01,102,83
 Other/Unknown,Weapons/Carry Concealed Weapon,2023-04-01,71,80
 Other/Unknown,Weapons/Carry Concealed Weapon,2023-05-01,72,82
 Other/Unknown,Weapons/Carry Concealed Weapon,2023-06-01,81,75
-Other/Unknown,Weapons/Carry Concealed Weapon,2023-07-01,54,69
+Other/Unknown,Weapons/Carry Concealed Weapon,2023-07-01,58,70
 Other/Unknown,Weapons/Illegal Possession of Weapon,2014-06-01,9,NA
 Other/Unknown,Weapons/Illegal Possession of Weapon,2014-07-01,4,NA
 Other/Unknown,Weapons/Illegal Possession of Weapon,2014-08-01,13,9
@@ -8091,7 +8091,7 @@ Other/Unknown,Weapons/Illegal Possession of Weapon,2023-03-01,30,28
 Other/Unknown,Weapons/Illegal Possession of Weapon,2023-04-01,34,28
 Other/Unknown,Weapons/Illegal Possession of Weapon,2023-05-01,30,31
 Other/Unknown,Weapons/Illegal Possession of Weapon,2023-06-01,20,28
-Other/Unknown,Weapons/Illegal Possession of Weapon,2023-07-01,13,21
+Other/Unknown,Weapons/Illegal Possession of Weapon,2023-07-01,14,21
 Other/Unknown,Weapons/Shots Fired,2014-06-01,39,NA
 Other/Unknown,Weapons/Shots Fired,2014-07-01,38,NA
 Other/Unknown,Weapons/Shots Fired,2014-08-01,36,38
@@ -8201,7 +8201,7 @@ Other/Unknown,Weapons/Shots Fired,2023-03-01,61,66
 Other/Unknown,Weapons/Shots Fired,2023-04-01,61,62
 Other/Unknown,Weapons/Shots Fired,2023-05-01,71,64
 Other/Unknown,Weapons/Shots Fired,2023-06-01,73,68
-Other/Unknown,Weapons/Shots Fired,2023-07-01,53,66
+Other/Unknown,Weapons/Shots Fired,2023-07-01,59,68
 Robbery,Larceny/Shoplifting,2020-06-01,1,NA
 Robbery,Robbery/From Business,2014-06-01,13,NA
 Robbery,Robbery/From Business,2014-07-01,9,NA
@@ -8312,7 +8312,7 @@ Robbery,Robbery/From Business,2023-03-01,3,4
 Robbery,Robbery/From Business,2023-04-01,16,8
 Robbery,Robbery/From Business,2023-05-01,6,8
 Robbery,Robbery/From Business,2023-06-01,6,9
-Robbery,Robbery/From Business,2023-07-01,3,5
+Robbery,Robbery/From Business,2023-07-01,4,5
 Robbery,Robbery/From Person,2014-06-01,56,NA
 Robbery,Robbery/From Person,2014-07-01,58,NA
 Robbery,Robbery/From Person,2014-08-01,47,54
@@ -8422,7 +8422,7 @@ Robbery,Robbery/From Person,2023-03-01,23,30
 Robbery,Robbery/From Person,2023-04-01,31,27
 Robbery,Robbery/From Person,2023-05-01,28,27
 Robbery,Robbery/From Person,2023-06-01,25,28
-Robbery,Robbery/From Person,2023-07-01,24,26
+Robbery,Robbery/From Person,2023-07-01,28,27
 Sexual Assault,Sex Offense/Assault with an Object,2014-11-01,1,NA
 Sexual Assault,Sex Offense/Assault with an Object,2015-09-01,1,NA
 Sexual Assault,Sex Offense/Assault with an Object,2016-01-01,2,1
@@ -8878,7 +8878,7 @@ Theft,Larceny/All Other,2023-03-01,163,147
 Theft,Larceny/All Other,2023-04-01,181,158
 Theft,Larceny/All Other,2023-05-01,169,171
 Theft,Larceny/All Other,2023-06-01,170,173
-Theft,Larceny/All Other,2023-07-01,117,152
+Theft,Larceny/All Other,2023-07-01,120,153
 Theft,Larceny/Pocket-Picking,2014-06-01,2,NA
 Theft,Larceny/Pocket-Picking,2014-07-01,5,NA
 Theft,Larceny/Pocket-Picking,2014-08-01,1,3
@@ -8986,7 +8986,7 @@ Theft,Larceny/Pocket-Picking,2023-03-01,4,4
 Theft,Larceny/Pocket-Picking,2023-04-01,19,9
 Theft,Larceny/Pocket-Picking,2023-05-01,9,11
 Theft,Larceny/Pocket-Picking,2023-06-01,2,10
-Theft,Larceny/Pocket-Picking,2023-07-01,5,5
+Theft,Larceny/Pocket-Picking,2023-07-01,6,6
 Theft,Larceny/Purse-Snatching,2014-06-01,4,NA
 Theft,Larceny/Purse-Snatching,2014-07-01,5,NA
 Theft,Larceny/Purse-Snatching,2014-08-01,2,4
@@ -9199,7 +9199,7 @@ Theft,Larceny/Shoplifting,2023-03-01,177,188
 Theft,Larceny/Shoplifting,2023-04-01,198,186
 Theft,Larceny/Shoplifting,2023-05-01,229,201
 Theft,Larceny/Shoplifting,2023-06-01,229,219
-Theft,Larceny/Shoplifting,2023-07-01,131,196
+Theft,Larceny/Shoplifting,2023-07-01,134,197
 Theft,Larceny/Theft from Building,2014-06-01,55,NA
 Theft,Larceny/Theft from Building,2014-07-01,57,NA
 Theft,Larceny/Theft from Building,2014-08-01,61,58
@@ -9309,7 +9309,7 @@ Theft,Larceny/Theft from Building,2023-03-01,80,93
 Theft,Larceny/Theft from Building,2023-04-01,85,86
 Theft,Larceny/Theft from Building,2023-05-01,83,83
 Theft,Larceny/Theft from Building,2023-06-01,76,81
-Theft,Larceny/Theft from Building,2023-07-01,60,73
+Theft,Larceny/Theft from Building,2023-07-01,62,74
 Theft,Larceny/Theft from Coin-Operated Machine,2014-06-01,1,NA
 Theft,Larceny/Theft from Coin-Operated Machine,2014-07-01,1,NA
 Theft,Larceny/Theft from Coin-Operated Machine,2014-10-01,1,1
@@ -9486,7 +9486,7 @@ Theft,Larceny/Theft from Motor Vehicle,2023-03-01,237,223
 Theft,Larceny/Theft from Motor Vehicle,2023-04-01,259,232
 Theft,Larceny/Theft from Motor Vehicle,2023-05-01,357,284
 Theft,Larceny/Theft from Motor Vehicle,2023-06-01,318,311
-Theft,Larceny/Theft from Motor Vehicle,2023-07-01,205,293
+Theft,Larceny/Theft from Motor Vehicle,2023-07-01,211,295
 Theft,Larceny/Theft of MV Parts-Accessories,2014-06-01,34,NA
 Theft,Larceny/Theft of MV Parts-Accessories,2014-07-01,31,NA
 Theft,Larceny/Theft of MV Parts-Accessories,2014-08-01,48,38
@@ -9596,4 +9596,4 @@ Theft,Larceny/Theft of MV Parts-Accessories,2023-03-01,44,45
 Theft,Larceny/Theft of MV Parts-Accessories,2023-04-01,40,40
 Theft,Larceny/Theft of MV Parts-Accessories,2023-05-01,40,41
 Theft,Larceny/Theft of MV Parts-Accessories,2023-06-01,45,42
-Theft,Larceny/Theft of MV Parts-Accessories,2023-07-01,31,39
+Theft,Larceny/Theft of MV Parts-Accessories,2023-07-01,34,40
