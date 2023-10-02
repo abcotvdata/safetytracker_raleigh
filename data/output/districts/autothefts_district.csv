@@ -1,8 +1,8 @@
 district,population,placename,district_name,category,2014,2015,2016,2017,2018,total19,total20,total21,total22,total23,last12mos,total_prior3years,avg_prior3years,inc_19to22,inc_19tolast12,inc_22tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate22,rate_last12,rate_prior3years
-DTD,22000,Downtown Raleigh,Downtown,Motor Vehicle Theft,55,110,136,99,94,117,105,111,95,134,160,311,103.7,-18.8,36.8,68.4,54,531.8,477.3,504.5,431.8,727.3,471.4
-NED,51000,Northeast Raleigh,Northeast,Motor Vehicle Theft,73,107,148,207,179,154,195,205,301,247,314,701,233.7,95.5,103.9,4.3,34,302,382.4,402,590.2,615.7,458.2
-NOD,113000,North Raleigh,North,Motor Vehicle Theft,121,204,202,194,137,190,178,250,188,196,238,616,205.3,-1.1,25.3,26.6,16,168.1,157.5,221.2,166.4,210.6,181.7
-NWD,97000,Northwest Raleigh,Northwest,Motor Vehicle Theft,52,69,108,106,110,106,112,126,217,324,390,455,151.7,104.7,267.9,79.7,157,109.3,115.5,129.9,223.7,402.1,156.4
-SED,84000,Southeast Raleigh,Southeast,Motor Vehicle Theft,148,199,201,209,186,234,249,243,304,262,345,796,265.3,29.9,47.4,13.5,30,278.6,296.4,289.3,361.9,410.7,315.8
-SWD,98000,Southwest Raleigh,Southwest,Motor Vehicle Theft,99,137,136,155,130,115,187,195,177,238,285,559,186.3,53.9,147.8,61,53,117.3,190.8,199,180.6,290.8,190.1
+DTD,22000,Downtown Raleigh,Downtown,Motor Vehicle Theft,55,110,136,99,94,117,105,111,95,137,162,311,103.7,-18.8,38.5,70.5,56,531.8,477.3,504.5,431.8,736.4,471.4
+NED,51000,Northeast Raleigh,Northeast,Motor Vehicle Theft,73,107,148,207,179,154,195,205,301,247,312,701,233.7,95.5,102.6,3.7,34,302,382.4,402,590.2,611.8,458.2
+NOD,113000,North Raleigh,North,Motor Vehicle Theft,121,204,202,194,137,190,178,250,188,196,236,616,205.3,-1.1,24.2,25.5,15,168.1,157.5,221.2,166.4,208.8,181.7
+NWD,97000,Northwest Raleigh,Northwest,Motor Vehicle Theft,52,69,108,106,110,106,112,126,217,325,390,455,151.7,104.7,267.9,79.7,157,109.3,115.5,129.9,223.7,402.1,156.4
+SED,84000,Southeast Raleigh,Southeast,Motor Vehicle Theft,148,199,201,209,186,234,249,243,304,263,344,796,265.3,29.9,47,13.2,30,278.6,296.4,289.3,361.9,409.5,315.8
+SWD,98000,Southwest Raleigh,Southwest,Motor Vehicle Theft,99,137,136,155,130,115,187,195,177,239,284,559,186.3,53.9,147,60.5,52,117.3,190.8,199,180.6,289.8,190.1
 NA,NA,NA,UNK,Motor Vehicle Theft,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
