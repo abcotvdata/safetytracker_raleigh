@@ -1,8 +1,8 @@
 district,population,placename,district_name,category,2014,2015,2016,2017,2018,total19,total20,total21,total22,total23,last12mos,total_prior3years,avg_prior3years,inc_19to22,inc_19tolast12,inc_22tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate22,rate_last12,rate_prior3years
-DTD,22000,Downtown Raleigh,Downtown,Aggravated Assault,72,118,125,105,144,172,101,124,145,169,180,370,123.3,-15.7,4.7,24.1,46,781.8,459.1,563.6,659.1,818.2,560.5
-NED,51000,Northeast Raleigh,Northeast,Aggravated Assault,76,133,110,118,147,161,143,170,239,207,221,552,184,48.4,37.3,-7.5,20,315.7,280.4,333.3,468.6,433.3,360.8
+DTD,22000,Downtown Raleigh,Downtown,Aggravated Assault,72,118,125,105,144,172,101,124,145,169,178,370,123.3,-15.7,3.5,22.8,44,781.8,459.1,563.6,659.1,809.1,560.5
+NED,51000,Northeast Raleigh,Northeast,Aggravated Assault,76,133,110,118,147,161,143,170,239,209,222,552,184,48.4,37.9,-7.1,21,315.7,280.4,333.3,468.6,435.3,360.8
 NOD,113000,North Raleigh,North,Aggravated Assault,78,162,121,150,174,138,155,179,141,150,160,475,158.3,2.2,15.9,13.5,1,122.1,137.2,158.4,124.8,141.6,140.1
-NWD,97000,Northwest Raleigh,Northwest,Aggravated Assault,20,46,53,52,40,44,65,71,85,101,111,221,73.7,93.2,152.3,30.6,51,45.4,67,73.2,87.6,114.4,76
-SED,84000,Southeast Raleigh,Southeast,Aggravated Assault,168,341,297,299,301,317,348,358,374,312,348,1080,360,18,9.8,-7,-3,377.4,414.3,426.2,445.2,414.3,428.6
-SWD,98000,Southwest Raleigh,Southwest,Aggravated Assault,67,102,92,128,117,124,107,174,161,150,161,442,147.3,29.8,29.8,0,9,126.5,109.2,177.6,164.3,164.3,150.3
+NWD,97000,Northwest Raleigh,Northwest,Aggravated Assault,20,46,53,52,40,44,65,71,85,102,111,221,73.7,93.2,152.3,30.6,51,45.4,67,73.2,87.6,114.4,76
+SED,84000,Southeast Raleigh,Southeast,Aggravated Assault,168,341,297,299,301,317,348,358,374,313,346,1080,360,18,9.1,-7.5,-4,377.4,414.3,426.2,445.2,411.9,428.6
+SWD,98000,Southwest Raleigh,Southwest,Aggravated Assault,67,102,92,128,117,124,107,174,161,149,160,442,147.3,29.8,29,-0.6,9,126.5,109.2,177.6,164.3,163.3,150.3
 NA,NA,NA,UNK,Aggravated Assault,0,0,0,1,0,0,0,0,1,0,0,1,0.3,NA,NA,-100,-100,NA,NA,NA,NA,NA,NA
