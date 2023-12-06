@@ -1,8 +1,8 @@
 district,population,placename,district_name,category,2014,2015,2016,2017,2018,total19,total20,total21,total22,total23,last12mos,total_prior3years,avg_prior3years,inc_19to22,inc_19tolast12,inc_22tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate22,rate_last12,rate_prior3years
-DTD,22000,Downtown Raleigh,Downtown,Robbery,62,93,87,93,89,89,90,73,67,80,84,230,76.7,-24.7,-5.6,25.4,10,404.5,409.1,331.8,304.5,381.8,348.6
-NED,51000,Northeast Raleigh,Northeast,Robbery,91,129,117,96,106,101,73,107,105,86,93,285,95,4,-7.9,-11.4,-2,198,143.1,209.8,205.9,182.4,186.3
-NOD,113000,North Raleigh,North,Robbery,109,154,123,151,136,118,114,81,42,39,43,237,79,-64.4,-63.6,2.4,-46,104.4,100.9,71.7,37.2,38.1,69.9
-NWD,97000,Northwest Raleigh,Northwest,Robbery,28,44,44,50,35,28,37,37,40,47,50,114,38,42.9,78.6,25,32,28.9,38.1,38.1,41.2,51.5,39.2
-SED,84000,Southeast Raleigh,Southeast,Robbery,113,188,170,145,129,138,120,136,156,103,116,412,137.3,13,-15.9,-25.6,-16,164.3,142.9,161.9,185.7,138.1,163.5
-SWD,98000,Southwest Raleigh,Southwest,Robbery,63,68,112,81,67,75,64,81,50,44,50,195,65,-33.3,-33.3,0,-23,76.5,65.3,82.7,51,51,66.3
+DTD,22000,Downtown Raleigh,Downtown,Robbery,62,93,87,93,89,89,90,73,67,81,85,230,76.7,-24.7,-4.5,26.9,11,404.5,409.1,331.8,304.5,386.4,348.6
+NED,51000,Northeast Raleigh,Northeast,Robbery,91,129,117,96,106,101,73,107,105,89,94,285,95,4,-6.9,-10.5,-1,198,143.1,209.8,205.9,184.3,186.3
+NOD,113000,North Raleigh,North,Robbery,109,154,123,151,136,118,114,81,42,39,41,237,79,-64.4,-65.3,-2.4,-48,104.4,100.9,71.7,37.2,36.3,69.9
+NWD,97000,Northwest Raleigh,Northwest,Robbery,28,44,44,50,35,28,37,37,40,52,55,114,38,42.9,96.4,37.5,45,28.9,38.1,38.1,41.2,56.7,39.2
+SED,84000,Southeast Raleigh,Southeast,Robbery,113,188,170,145,129,138,120,136,156,105,116,412,137.3,13,-15.9,-25.6,-16,164.3,142.9,161.9,185.7,138.1,163.5
+SWD,98000,Southwest Raleigh,Southwest,Robbery,63,68,112,81,67,75,64,81,50,44,49,195,65,-33.3,-34.7,-2,-25,76.5,65.3,82.7,51,50,66.3
 NA,NA,NA,UNK,Robbery,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
