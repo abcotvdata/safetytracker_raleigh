@@ -1,8 +1,8 @@
 district,population,placename,district_name,category,2014,2015,2016,2017,2018,total19,total20,total21,total22,total23,2024,last12mos,total_prior3years,avg_prior3years,inc_19to22,inc_19tolast12,inc_22tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate22,rate_last12,rate_prior3years
-DTD,22000,Downtown Raleigh,Downtown,Robbery,62,93,87,93,89,89,90,73,67,88,8,87,230,76.7,-24.7,-2.2,29.9,13,404.5,409.1,331.8,304.5,395.5,348.6
+DTD,22000,Downtown Raleigh,Downtown,Robbery,62,93,87,93,89,89,90,73,67,88,9,87,230,76.7,-24.7,-2.2,29.9,13,404.5,409.1,331.8,304.5,395.5,348.6
 NED,51000,Northeast Raleigh,Northeast,Robbery,91,129,117,96,106,101,73,107,105,97,15,88,285,95,4,-12.9,-16.2,-7,198,143.1,209.8,205.9,172.5,186.3
-NOD,113000,North Raleigh,North,Robbery,109,154,123,151,136,118,114,81,42,44,3,36,237,79,-64.4,-69.5,-14.3,-54,104.4,100.9,71.7,37.2,31.9,69.9
-NWD,97000,Northwest Raleigh,Northwest,Robbery,28,44,44,50,35,28,37,37,40,55,8,56,114,38,42.9,100,40,47,28.9,38.1,38.1,41.2,57.7,39.2
-SED,84000,Southeast Raleigh,Southeast,Robbery,113,188,170,145,129,138,120,136,156,112,21,112,412,137.3,13,-18.8,-28.2,-18,164.3,142.9,161.9,185.7,133.3,163.5
-SWD,98000,Southwest Raleigh,Southwest,Robbery,63,68,112,81,67,75,64,81,50,46,3,41,195,65,-33.3,-45.3,-18,-37,76.5,65.3,82.7,51,41.8,66.3
+NOD,113000,North Raleigh,North,Robbery,109,154,123,151,136,118,114,81,42,44,3,35,237,79,-64.4,-70.3,-16.7,-56,104.4,100.9,71.7,37.2,31,69.9
+NWD,97000,Northwest Raleigh,Northwest,Robbery,28,44,44,50,35,28,37,37,40,55,9,57,114,38,42.9,103.6,42.5,50,28.9,38.1,38.1,41.2,58.8,39.2
+SED,84000,Southeast Raleigh,Southeast,Robbery,113,188,170,145,129,138,120,136,156,112,21,109,412,137.3,13,-21,-30.1,-21,164.3,142.9,161.9,185.7,129.8,163.5
+SWD,98000,Southwest Raleigh,Southwest,Robbery,63,68,112,81,67,75,64,81,50,46,4,42,195,65,-33.3,-44,-16,-35,76.5,65.3,82.7,51,42.9,66.3
 NA,NA,NA,UNK,Robbery,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
