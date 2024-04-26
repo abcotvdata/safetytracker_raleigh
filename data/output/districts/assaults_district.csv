@@ -1,8 +1,8 @@
 district,population,placename,district_name,category,2014,2015,2016,2017,2018,total19,total20,total21,total22,total23,2024,last12mos,total_prior3years,avg_prior3years,inc_19to22,inc_19tolast12,inc_22tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate22,rate_last12,rate_prior3years
-DTD,22000,Downtown Raleigh,Downtown,Aggravated Assault,72,118,125,105,144,172,101,124,147,187,36,175,372,124,-14.5,1.7,19,41,781.8,459.1,563.6,668.2,795.5,563.6
-NED,51000,Northeast Raleigh,Northeast,Aggravated Assault,76,133,110,118,147,161,143,170,239,231,71,218,552,184,48.4,35.4,-8.8,18,315.7,280.4,333.3,468.6,427.5,360.8
-NOD,113000,North Raleigh,North,Aggravated Assault,78,162,121,150,174,138,155,179,141,167,38,153,475,158.3,2.2,10.9,8.5,-3,122.1,137.2,158.4,124.8,135.4,140.1
+DTD,22000,Downtown Raleigh,Downtown,Aggravated Assault,72,118,125,105,144,172,101,124,147,187,38,177,372,124,-14.5,2.9,20.4,43,781.8,459.1,563.6,668.2,804.5,563.6
+NED,51000,Northeast Raleigh,Northeast,Aggravated Assault,76,133,110,118,147,161,143,170,239,231,72,218,552,184,48.4,35.4,-8.8,18,315.7,280.4,333.3,468.6,427.5,360.8
+NOD,113000,North Raleigh,North,Aggravated Assault,78,162,121,150,174,138,155,179,141,167,38,152,475,158.3,2.2,10.1,7.8,-4,122.1,137.2,158.4,124.8,134.5,140.1
 NWD,97000,Northwest Raleigh,Northwest,Aggravated Assault,20,46,53,52,40,44,65,71,85,109,23,96,221,73.7,93.2,118.2,12.9,30,45.4,67,73.2,87.6,99,76
-SED,84000,Southeast Raleigh,Southeast,Aggravated Assault,168,341,297,299,301,317,348,358,372,348,119,354,1078,359.3,17.4,11.7,-4.8,-1,377.4,414.3,426.2,442.9,421.4,427.7
-SWD,98000,Southwest Raleigh,Southwest,Aggravated Assault,67,102,92,128,117,124,107,174,161,159,45,159,442,147.3,29.8,28.2,-1.2,8,126.5,109.2,177.6,164.3,162.2,150.3
+SED,84000,Southeast Raleigh,Southeast,Aggravated Assault,168,341,297,299,301,317,348,358,372,348,122,354,1078,359.3,17.4,11.7,-4.8,-1,377.4,414.3,426.2,442.9,421.4,427.7
+SWD,98000,Southwest Raleigh,Southwest,Aggravated Assault,67,102,92,128,117,124,107,174,161,159,45,158,442,147.3,29.8,27.4,-1.9,7,126.5,109.2,177.6,164.3,161.2,150.3
 NA,NA,NA,UNK,Aggravated Assault,0,0,0,1,0,0,0,0,1,0,0,0,1,0.3,NA,NA,-100,-100,NA,NA,NA,NA,NA,NA
