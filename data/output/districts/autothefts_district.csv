@@ -1,8 +1,8 @@
 district,population,placename,district_name,category,2014,2015,2016,2017,2018,total19,total20,total21,total22,total23,2024,last12mos,total_prior3years,avg_prior3years,inc_19to22,inc_19tolast12,inc_22tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate22,rate_last12,rate_prior3years
 DTD,22000,Downtown Raleigh,Downtown,Motor Vehicle Theft,55,110,136,99,94,117,105,111,95,205,77,240,311,103.7,-18.8,105.1,152.6,131,531.8,477.3,504.5,431.8,1090.9,471.4
-NED,51000,Northeast Raleigh,Northeast,Motor Vehicle Theft,73,107,148,207,179,154,195,205,301,366,168,423,701,233.7,95.5,174.7,40.5,81,302,382.4,402,590.2,829.4,458.2
-NOD,113000,North Raleigh,North,Motor Vehicle Theft,121,204,202,194,137,190,178,250,188,268,88,270,616,205.3,-1.1,42.1,43.6,32,168.1,157.5,221.2,166.4,238.9,181.7
-NWD,97000,Northwest Raleigh,Northwest,Motor Vehicle Theft,52,69,108,106,110,106,112,126,217,406,105,378,455,151.7,104.7,256.6,74.2,149,109.3,115.5,129.9,223.7,389.7,156.4
-SED,84000,Southeast Raleigh,Southeast,Motor Vehicle Theft,148,199,201,209,186,234,249,243,300,447,172,525,792,264,28.2,124.4,75,99,278.6,296.4,289.3,357.1,625,314.3
+NED,51000,Northeast Raleigh,Northeast,Motor Vehicle Theft,73,107,148,207,179,154,195,205,301,366,169,424,701,233.7,95.5,175.3,40.9,81,302,382.4,402,590.2,831.4,458.2
+NOD,113000,North Raleigh,North,Motor Vehicle Theft,121,204,202,194,137,190,178,250,188,268,90,272,616,205.3,-1.1,43.2,44.7,32,168.1,157.5,221.2,166.4,240.7,181.7
+NWD,97000,Northwest Raleigh,Northwest,Motor Vehicle Theft,52,69,108,106,110,106,112,126,217,406,107,377,455,151.7,104.7,255.7,73.7,149,109.3,115.5,129.9,223.7,388.7,156.4
+SED,84000,Southeast Raleigh,Southeast,Motor Vehicle Theft,148,199,201,209,186,234,249,243,300,447,174,527,792,264,28.2,125.2,75.7,100,278.6,296.4,289.3,357.1,627.4,314.3
 SWD,98000,Southwest Raleigh,Southwest,Motor Vehicle Theft,99,137,136,155,130,115,187,195,177,345,151,414,559,186.3,53.9,260,133.9,122,117.3,190.8,199,180.6,422.4,190.1
 NA,NA,NA,UNK,Motor Vehicle Theft,0,0,0,0,0,0,0,0,0,1,1,2,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
