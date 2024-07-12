@@ -4,5 +4,5 @@ NED,51000,Northeast Raleigh,Northeast,Murder,1,2,6,4,3,7,4,3,8,8,4,9,15,5,14.3,2
 NOD,113000,North Raleigh,North,Murder,2,1,3,4,2,6,1,7,6,3,1,3,14,4.7,0,-50,-50,-36,5.3,0.9,6.2,5.3,2.7,4.2
 NWD,97000,Northwest Raleigh,Northwest,Murder,0,2,2,1,1,1,2,4,1,2,4,5,7,2.3,0,400,400,117,1,2.1,4.1,1,5.2,2.4
 SED,84000,Southeast Raleigh,Southeast,Murder,1,7,9,12,7,9,11,8,20,6,5,10,39,13,122.2,11.1,-50,-23,10.7,13.1,9.5,23.8,11.9,15.5
-SWD,98000,Southwest Raleigh,Southwest,Murder,2,2,2,2,2,1,3,4,1,3,0,2,8,2.7,0,100,100,-26,1,3.1,4.1,1,2,2.8
+SWD,98000,Southwest Raleigh,Southwest,Murder,2,2,2,2,2,1,3,4,1,3,0,1,8,2.7,0,0,0,-63,1,3.1,4.1,1,1,2.8
 NA,NA,NA,UNK,Murder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
