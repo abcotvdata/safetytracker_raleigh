@@ -1,8 +1,8 @@
 district,population,placename,district_name,category,2014,2015,2016,2017,2018,total19,total20,total21,total22,total23,2024,last12mos,total_prior3years,avg_prior3years,inc_19to22,inc_19tolast12,inc_22tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate22,rate_last12,rate_prior3years
-DTD,22000,Downtown Raleigh,Downtown,Robbery,62,93,87,93,89,89,90,73,67,89,60,74,230,76.7,-24.7,-16.9,10.4,-4,404.5,409.1,331.8,304.5,336.4,348.6
-NED,51000,Northeast Raleigh,Northeast,Robbery,91,129,117,96,106,101,73,107,105,96,89,111,285,95,4,9.9,5.7,17,198,143.1,209.8,205.9,217.6,186.3
-NOD,113000,North Raleigh,North,Robbery,109,154,123,151,136,118,114,81,42,44,28,38,237,79,-64.4,-67.8,-9.5,-52,104.4,100.9,71.7,37.2,33.6,69.9
-NWD,97000,Northwest Raleigh,Northwest,Robbery,28,44,44,50,35,28,37,37,40,55,29,44,114,38,42.9,57.1,10,16,28.9,38.1,38.1,41.2,45.4,39.2
-SED,84000,Southeast Raleigh,Southeast,Robbery,113,188,170,145,129,138,120,136,156,112,98,120,412,137.3,13,-13,-23.1,-13,164.3,142.9,161.9,185.7,142.9,163.5
-SWD,98000,Southwest Raleigh,Southwest,Robbery,63,68,112,81,67,75,64,81,50,46,34,47,195,65,-33.3,-37.3,-6,-28,76.5,65.3,82.7,51,48,66.3
+DTD,22000,Downtown Raleigh,Downtown,Robbery,62,93,87,93,89,89,90,73,67,89,61,73,230,76.7,-24.7,-18,9,-5,404.5,409.1,331.8,304.5,331.8,348.6
+NED,51000,Northeast Raleigh,Northeast,Robbery,91,129,117,96,106,101,73,107,105,96,99,115,285,95,4,13.9,9.5,21,198,143.1,209.8,205.9,225.5,186.3
+NOD,113000,North Raleigh,North,Robbery,109,154,123,151,136,118,114,81,42,44,31,39,237,79,-64.4,-66.9,-7.1,-51,104.4,100.9,71.7,37.2,34.5,69.9
+NWD,97000,Northwest Raleigh,Northwest,Robbery,28,44,44,50,35,28,37,37,40,55,33,45,114,38,42.9,60.7,12.5,18,28.9,38.1,38.1,41.2,46.4,39.2
+SED,84000,Southeast Raleigh,Southeast,Robbery,113,188,170,145,129,138,120,136,156,112,113,129,412,137.3,13,-6.5,-17.3,-6,164.3,142.9,161.9,185.7,153.6,163.5
+SWD,98000,Southwest Raleigh,Southwest,Robbery,63,68,112,81,67,75,64,81,50,46,41,48,195,65,-33.3,-36,-4,-26,76.5,65.3,82.7,51,49,66.3
 NA,NA,NA,UNK,Robbery,0,0,0,0,0,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
