@@ -74,7 +74,9 @@ citywide_detailed <- citywide_detailed %>%
          "total20" = "2020",
          "total21" = "2021",
          "total22" = "2022",
-         "total23" = "2023")
+         "total23" = "2023",
+         "total24" = "2024",
+         "total25" = "2025")
 # add last 12 months
 citywide_detailed_last12 <- raleigh_crime_last12 %>%
   group_by(category,description) %>%
@@ -84,18 +86,20 @@ citywide_detailed <- left_join(citywide_detailed,citywide_detailed_last12,by=c("
 citywide_detailed[is.na(citywide_detailed)] <- 0
 rm(citywide_detailed_last12)
 # Calculate a total across the 3 prior years
-citywide_detailed$total_prior3years <- citywide_detailed$total20+citywide_detailed$total21+citywide_detailed$total22
+citywide_detailed$total_prior3years <- citywide_detailed$total22+citywide_detailed$total23+citywide_detailed$total24
 citywide_detailed$avg_prior3years <- round(citywide_detailed$total_prior3years/3,1)
 # calculate increases
-citywide_detailed$inc_19to22 <- round(citywide_detailed$total22/citywide_detailed$total19*100-100,1)
+citywide_detailed$inc_19to24 <- round(citywide_detailed$total24/citywide_detailed$total19*100-100,1)
 citywide_detailed$inc_19tolast12 <- round(citywide_detailed$last12mos/citywide_detailed$total19*100-100,1)
-citywide_detailed$inc_22tolast12 <- round(citywide_detailed$last12mos/citywide_detailed$total22*100-100,1)
+citywide_detailed$inc_22tolast12 <- round(citywide_detailed$last12mos/citywide_detailed$total24*100-100,1)
 citywide_detailed$inc_prior3yearavgtolast12 <- round((citywide_detailed$last12mos/citywide_detailed$avg_prior3years)*100-100,0)
 # calculate the citywide rates
 citywide_detailed$rate19 <- round(citywide_detailed$total19/raleigh_population*100000,1)
 citywide_detailed$rate20 <- round(citywide_detailed$total20/raleigh_population*100000,1)
 citywide_detailed$rate21 <- round(citywide_detailed$total21/raleigh_population*100000,1)
 citywide_detailed$rate22 <- round(citywide_detailed$total22/raleigh_population*100000,1)
+citywide_detailed$rate23 <- round(citywide_detailed$total23/raleigh_population*100000,1)
+citywide_detailed$rate24 <- round(citywide_detailed$total24/raleigh_population*100000,1)
 citywide_detailed$rate_last12 <- round(citywide_detailed$last12mos/raleigh_population*100000,1)
 # calculate a multiyear rate
 citywide_detailed$rate_prior3years <- round(citywide_detailed$avg_prior3years/raleigh_population*100000,1)
@@ -131,7 +135,9 @@ citywide_category <- citywide_category %>%
          "total20" = "2020",
          "total21" = "2021",
          "total22" = "2022",
-         "total23" = "2023")
+         "total23" = "2023",
+         "total24" = "2024",
+         "total25" = "2025")
 # add last 12 months
 citywide_category_last12 <- raleigh_crime_last12 %>%
   group_by(category) %>%
@@ -140,18 +146,20 @@ citywide_category <- left_join(citywide_category,citywide_category_last12,by=c("
 # add zeros where there were no crimes tallied that year
 citywide_category[is.na(citywide_category)] <- 0
 # Calculate a total across the 3 prior years
-citywide_category$total_prior3years <- citywide_category$total20+citywide_category$total21+citywide_category$total22
+citywide_category$total_prior3years <- citywide_category$total22+citywide_category$total23+citywide_category$total24
 citywide_category$avg_prior3years <- round(citywide_category$total_prior3years/3,1)
 # calculate increases
-citywide_category$inc_19to22 <- round(citywide_category$total22/citywide_category$total19*100-100,1)
+citywide_category$inc_19to24 <- round(citywide_category$total24/citywide_category$total19*100-100,1)
 citywide_category$inc_19tolast12 <- round(citywide_category$last12mos/citywide_category$total19*100-100,1)
-citywide_category$inc_22tolast12 <- round(citywide_category$last12mos/citywide_category$total22*100-100,1)
+citywide_category$inc_24tolast12 <- round(citywide_category$last12mos/citywide_category$total24*100-100,1)
 citywide_category$inc_prior3yearavgtolast12 <- round((citywide_category$last12mos/citywide_category$avg_prior3years)*100-100,0)
 # calculate the citywide rates
 citywide_category$rate19 <- round(citywide_category$total19/raleigh_population*100000,1)
 citywide_category$rate20 <- round(citywide_category$total20/raleigh_population*100000,1)
 citywide_category$rate21 <- round(citywide_category$total21/raleigh_population*100000,1)
 citywide_category$rate22 <- round(citywide_category$total22/raleigh_population*100000,1)
+citywide_category$rate23 <- round(citywide_category$total23/raleigh_population*100000,1)
+citywide_category$rate24 <- round(citywide_category$total24/raleigh_population*100000,1)
 citywide_category$rate_last12 <- round(citywide_category$last12mos/raleigh_population*100000,1)
 # calculate a multiyear rate
 citywide_category$rate_prior3years <- round(citywide_category$avg_prior3years/raleigh_population*100000,1)
@@ -202,27 +210,31 @@ citywide_type <- citywide_type %>%
          "total20" = "2020",
          "total21" = "2021",
          "total22" = "2022",
-         "total23" = "2023")
+         "total23" = "2023",
+         "total24" = "2024",
+         "total25" = "2025")
 # add last 12 months
 citywide_type_last12 <- raleigh_crime_last12 %>%
   group_by(type) %>%
   summarise(last12mos = n())
 citywide_type <- left_join(citywide_type,citywide_type_last12,by=c("type"))
 # Calculate a total across the 3 prior years
-citywide_type$total_prior3years <- citywide_type$total20+citywide_type$total21+citywide_type$total22
+citywide_type$total_prior3years <- citywide_type$total22+citywide_type$total23+citywide_type$total24
 citywide_type$avg_prior3years <- round(citywide_type$total_prior3years/3,1)
 # add zeros where there were no crimes tallied that year
 citywide_type[is.na(citywide_type)] <- 0
 # calculate increases
-citywide_type$inc_19to22 <- round(citywide_type$total22/citywide_type$total19*100-100,1)
+citywide_type$inc_19to24 <- round(citywide_type$total24/citywide_type$total19*100-100,1)
 citywide_type$inc_19tolast12 <- round(citywide_type$last12mos/citywide_type$total19*100-100,1)
-citywide_type$inc_22tolast12 <- round(citywide_type$last12mos/citywide_type$total22*100-100,1)
+citywide_type$inc_24tolast12 <- round(citywide_type$last12mos/citywide_type$total24*100-100,1)
 citywide_type$inc_prior3yearavgtolast12 <- round((citywide_type$last12mos/citywide_type$avg_prior3years)*100-100,0)
 # calculate the citywide rates
 citywide_type$rate19 <- round(citywide_type$total19/raleigh_population*100000,1)
 citywide_type$rate20 <- round(citywide_type$total20/raleigh_population*100000,1)
 citywide_type$rate21 <- round(citywide_type$total21/raleigh_population*100000,1)
 citywide_type$rate22 <- round(citywide_type$total22/raleigh_population*100000,1)
+citywide_type$rate23 <- round(citywide_type$total23/raleigh_population*100000,1)
+citywide_type$rate24 <- round(citywide_type$total24/raleigh_population*100000,1)
 citywide_type$rate_last12 <- round(citywide_type$last12mos/raleigh_population*100000,1)
 # calculate a multiyear rate
 citywide_type$rate_prior3years <- round(citywide_type$avg_prior3years/raleigh_population*100000,1)
@@ -255,7 +267,9 @@ district_detailed <- district_detailed %>%
          "total20" = "2020",
          "total21" = "2021",
          "total22" = "2022",
-         "total23" = "2023")
+         "total23" = "2023",
+         "total24" = "2024",
+         "total25" = "2025")
 # add last 12 months
 district_detailed_last12 <- raleigh_crime_last12 %>%
   group_by(district,category,description) %>%
@@ -265,12 +279,12 @@ rm(district_detailed_last12)
 # add zeros where there were no crimes tallied that year
 district_detailed[is.na(district_detailed)] <- 0
 # Calculate a total across the 3 prior years
-district_detailed$total_prior3years <- district_detailed$total20+district_detailed$total21+district_detailed$total22
+district_detailed$total_prior3years <- district_detailed$total22+district_detailed$total23+district_detailed$total24
 district_detailed$avg_prior3years <- round(district_detailed$total_prior3years/3,1)
 # calculate increases
-district_detailed$inc_19to22 <- round(district_detailed$total22/district_detailed$total19*100-100,1)
+district_detailed$inc_19to24 <- round(district_detailed$total24/district_detailed$total19*100-100,1)
 district_detailed$inc_19tolast12 <- round(district_detailed$last12mos/district_detailed$total19*100-100,1)
-district_detailed$inc_22tolast12 <- round(district_detailed$last12mos/district_detailed$total22*100-100,1)
+district_detailed$inc_24tolast12 <- round(district_detailed$last12mos/district_detailed$total24*100-100,1)
 district_detailed$inc_prior3yearavgtolast12 <- round((district_detailed$last12mos/district_detailed$avg_prior3years)*100-100,0)
 # add population for beats
 district_detailed <- full_join(districts,district_detailed,by=c("district_name"="district"))
@@ -279,6 +293,8 @@ district_detailed$rate19 <- round(district_detailed$total19/district_detailed$po
 district_detailed$rate20 <- round(district_detailed$total20/district_detailed$population*100000,1)
 district_detailed$rate21 <- round(district_detailed$total21/district_detailed$population*100000,1)
 district_detailed$rate22 <- round(district_detailed$total22/district_detailed$population*100000,1)
+district_detailed$rate23 <- round(district_detailed$total23/district_detailed$population*100000,1)
+district_detailed$rate24 <- round(district_detailed$total24/district_detailed$population*100000,1)
 district_detailed$rate_last12 <- round(district_detailed$last12mos/district_detailed$population*100000,1)
 # calculate a multiyear rate
 district_detailed$rate_prior3years <- round(district_detailed$avg_prior3years/district_detailed$population*100000,1)
@@ -301,7 +317,9 @@ district_category <- district_category %>%
          "total20" = "2020",
          "total21" = "2021",
          "total22" = "2022",
-         "total23" = "2023")
+         "total23" = "2023",
+         "total24" = "2024",
+         "total25" = "2025")
 # add last 12 months
 district_category_last12 <- raleigh_crime_last12 %>%
   group_by(district,category) %>%
@@ -311,12 +329,12 @@ rm(district_category_last12)
 # add zeros where there were no crimes tallied that year
 district_category[is.na(district_category)] <- 0
 # Calculate a total across the 3 prior years
-district_category$total_prior3years <- district_category$total20+district_category$total21+district_category$total22
+district_category$total_prior3years <- district_category$total22+district_category$total23+district_category$total24
 district_category$avg_prior3years <- round(district_category$total_prior3years/3,1)
 # calculate increases
-district_category$inc_19to22 <- round(district_category$total22/district_category$total19*100-100,1)
+district_category$inc_19to24 <- round(district_category$total24/district_category$total19*100-100,1)
 district_category$inc_19tolast12 <- round(district_category$last12mos/district_category$total19*100-100,1)
-district_category$inc_22tolast12 <- round(district_category$last12mos/district_category$total22*100-100,1)
+district_category$inc_24tolast12 <- round(district_category$last12mos/district_category$total24*100-100,1)
 district_category$inc_prior3yearavgtolast12 <- round((district_category$last12mos/district_category$avg_prior3years)*100-100,0)
 # add population for beats
 district_category <- full_join(districts,district_category,by=c("district_name"="district"))
@@ -325,6 +343,8 @@ district_category$rate19 <- round(district_category$total19/district_category$po
 district_category$rate20 <- round(district_category$total20/district_category$population*100000,1)
 district_category$rate21 <- round(district_category$total21/district_category$population*100000,1)
 district_category$rate22 <- round(district_category$total22/district_category$population*100000,1)
+district_category$rate23 <- round(district_category$total23/district_category$population*100000,1)
+district_category$rate24 <- round(district_category$total24/district_category$population*100000,1)
 district_category$rate_last12 <- round(district_category$last12mos/district_category$population*100000,1)
 # calculate a multiyear rate
 district_category$rate_prior3years <- round(district_category$avg_prior3years/district_category$population*100000,1)
@@ -347,7 +367,9 @@ district_type <- district_type %>%
          "total20" = "2020",
          "total21" = "2021",
          "total22" = "2022",
-         "total23" = "2023")
+         "total23" = "2023",
+         "total24" = "2024",
+         "total25" = "2025")
 # add last 12 months
 district_type_last12 <- raleigh_crime_last12 %>%
   group_by(district,type) %>%
@@ -357,12 +379,12 @@ rm(district_type_last12)
 # add zeros where there were no crimes tallied that year
 district_type[is.na(district_type)] <- 0
 # Calculate a total across the 3 prior years
-district_type$total_prior3years <- district_type$total20+district_type$total21+district_type$total22
+district_type$total_prior3years <- district_type$total22+district_type$total23+district_type$total24
 district_type$avg_prior3years <- round(district_type$total_prior3years/3,1)
 # calculate increases
-district_type$inc_19to22 <- round(district_type$total22/district_type$total19*100-100,1)
+district_type$inc_19to24 <- round(district_type$total24/district_type$total19*100-100,1)
 district_type$inc_19tolast12 <- round(district_type$last12mos/district_type$total19*100-100,1)
-district_type$inc_22tolast12 <- round(district_type$last12mos/district_type$total22*100-100,1)
+district_type$inc_24tolast12 <- round(district_type$last12mos/district_type$total24*100-100,1)
 district_type$inc_prior3yearavgtolast12 <- round((district_type$last12mos/district_type$avg_prior3years)*100-100,0)
 # add population for beats
 district_type <- full_join(districts,district_type,by=c("district_name"="district"))
@@ -371,6 +393,8 @@ district_type$rate19 <- round(district_type$total19/district_type$population*100
 district_type$rate20 <- round(district_type$total20/district_type$population*100000,1)
 district_type$rate21 <- round(district_type$total21/district_type$population*100000,1)
 district_type$rate22 <- round(district_type$total22/district_type$population*100000,1)
+district_type$rate23 <- round(district_type$total23/district_type$population*100000,1)
+district_type$rate24 <- round(district_type$total24/district_type$population*100000,1)
 district_type$rate_last12 <- round(district_type$last12mos/district_type$population*100000,1)
 # calculate a multiyear rate
 district_type$rate_prior3years <- round(district_type$avg_prior3years/district_type$population*100000,1)
