@@ -208,7 +208,7 @@ th {
 Through `r format(asofdate, "%B %d")`</p>
 </div>
 <div class="card" style="background-color:#99a0a5;">
-<p>Average Homicides<br>2020 to 2022<br>
+<p>Average Homicides<br>2022 to 2024<br>
 <bignumber>`r prettyNum(round(murders_city$avg_prior3years,0), big.mark=",")`<br></bignumber><p>
 Per year</p>
 </div>
@@ -218,19 +218,19 @@ Per year</p>
 Per 100,000 people</p>
 </div>
 <div class="card" style="background-color:#99a0a5;">
-<p>Average Homicide Rate<br>2020 to 2022<br>
+<p>Average Homicide Rate<br>2022 to 2024<br>
 <bignumber>`r murders_city$rate_prior3years`<br></bignumber><p>
 Per 100,000 people</p>
 </div>
 </div>
 <br>
-Homicides over the last 12 months are trending <h8>`r ifelse(murders_city$inc_22tolast12>=0," up"," down")` `r ifelse(murders_city$inc_22tolast12>=0,murders_city$inc_22tolast12,substring(murders_city$inc_22tolast12,2))`%</h8> compared to 2022, according to the latest data available from the Raleigh Police Department.
+Homicides over the last 12 months are trending <h8>`r ifelse(murders_city$inc_24tolast12>=0," up"," down")` `r ifelse(murders_city$inc_24tolast12>=0,murders_city$inc_24tolast12,substring(murders_city$inc_24tolast12,2))`%</h8> compared to 2024, according to the latest data available from the Raleigh Police Department.
 
-The murder rate over the last 12 months is<h8>`r ifelse(murders_city$inc_prior3yearavgtolast12>=0," up"," down")` `r ifelse(murders_city$inc_prior3yearavgtolast12>=0,murders_city$inc_prior3yearavgtolast12,substring(murders_city$inc_prior3yearavgtolast12,2))`%</h8> compared to the annual average over the last three years, and the frequency of killings remains higher than it was before the pandemic.
+The murder rate over the last 12 months is<h8>`r ifelse(murders_city$inc_prior3yearavgtolast12>=0," up"," down")` `r ifelse(murders_city$inc_prior3yearavgtolast12>=0,murders_city$inc_prior3yearavgtolast12,substring(murders_city$inc_prior3yearavgtolast12,2))`%</h8> compared to the annual average over the last three years, and the frequency of killings is lower than it was before the pandemic.
 
 The city averaged <h8>`r round(murders_city$last12mos/12,0)`</h8> homicides a month over the last year. In 2019, that number was <h8>`r round(murders_city$total19/12,0)`</h8> per month.
 
-One way to think about the danger: three years ago, the murder rate was <h8>`r murders_city$rate19`</h8> per 100,000 residents. That's about one third the likelihood of someone dying in a vehicle crash in North Carolina. In the wake of the pandemic, a person's chance of being murdered in Raleigh has risen to about half of the risk of a fatal traffic crash.
+One way to think about the danger: in 2019, the murder rate was <h8>`r murders_city$rate19`</h8> per 100,000 residents. That's about one third the likelihood of someone dying in a vehicle crash in North Carolina. In the wake of the pandemic, a person's chance of being murdered in Raleigh has risen to about half of the risk of a fatal traffic crash.
 
 The risk remains much lower than most other leading causes of death in the state.
 <br>
@@ -336,6 +336,24 @@ murders_district$total22,
 "</td>
 				<td>",
 murders_district$rate22,
+"</td>
+			</tr>
+						<tr>
+				<td>2023</td>
+				<td>",
+murders_district$total23,
+"</td>
+				<td>",
+murders_district$rate23,
+"</td>
+			</tr>
+						<tr>
+				<td>2024</td>
+				<td>",
+murders_district$total24,
+"</td>
+				<td>",
+murders_district$rate24,
 "</td>
 			</tr>
 						<tr>
