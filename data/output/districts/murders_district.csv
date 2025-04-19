@@ -1,8 +1,8 @@
-district,population,placename,district_name,category,2014,2015,2016,2017,2018,total19,total20,total21,total22,total23,2024,2025,last12mos,total_prior3years,avg_prior3years,inc_19to22,inc_19tolast12,inc_22tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate22,rate_last12,rate_prior3years
-DTD,22000,Downtown Raleigh,Downtown,Murder,3,1,2,4,0,3,4,2,2,8,5,1,2,8,2.7,-33.3,-33.3,0,-26,13.6,18.2,9.1,9.1,9.1,12.3
-NED,51000,Northeast Raleigh,Northeast,Murder,1,2,6,4,3,7,4,3,8,9,6,2,3,15,5,14.3,-57.1,-62.5,-40,13.7,7.8,5.9,15.7,5.9,9.8
-NOD,113000,North Raleigh,North,Murder,2,1,3,4,2,6,1,7,6,3,2,1,1,14,4.7,0,-83.3,-83.3,-79,5.3,0.9,6.2,5.3,0.9,4.2
-NWD,97000,Northwest Raleigh,Northwest,Murder,0,2,2,1,1,1,2,4,1,2,4,0,0,7,2.3,0,-100,-100,-100,1,2.1,4.1,1,0,2.4
-SED,84000,Southeast Raleigh,Southeast,Murder,1,7,9,12,7,9,11,8,21,6,9,4,4,40,13.3,133.3,-55.6,-81,-70,10.7,13.1,9.5,25,4.8,15.8
-SWD,98000,Southwest Raleigh,Southwest,Murder,2,2,2,2,2,1,3,4,1,3,0,1,1,8,2.7,0,0,0,-63,1,3.1,4.1,1,1,2.8
-NA,NA,NA,UNK,Murder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+district,population,placename,district_name,category,2014,2015,2016,2017,2018,total19,total20,total21,total22,total23,total24,total25,last12mos,total_prior3years,avg_prior3years,inc_19to24,inc_19tolast12,inc_24tolast12,inc_prior3yearavgtolast12,rate19,rate20,rate21,rate22,rate23,rate24,rate_last12,rate_prior3years
+DTD,22000,Downtown Raleigh,Downtown,Murder,3,1,2,4,0,3,4,2,2,8,5,1,2,15,5,66.7,-33.3,-60,-60,13.6,18.2,9.1,9.1,36.4,22.7,9.1,22.7
+NED,51000,Northeast Raleigh,Northeast,Murder,1,2,6,4,3,7,4,3,8,9,6,3,4,23,7.7,-14.3,-42.9,-33.3,-48,13.7,7.8,5.9,15.7,17.6,11.8,7.8,15.1
+NOD,113000,North Raleigh,North,Murder,2,1,3,4,2,6,1,7,6,3,2,4,4,11,3.7,-66.7,-33.3,100,8,5.3,0.9,6.2,5.3,2.7,1.8,3.5,3.3
+NWD,97000,Northwest Raleigh,Northwest,Murder,0,2,2,1,1,1,2,4,1,2,4,0,0,7,2.3,300,-100,-100,-100,1,2.1,4.1,1,2.1,4.1,0,2.4
+SED,84000,Southeast Raleigh,Southeast,Murder,1,7,9,12,7,9,11,8,21,6,9,3,3,36,12,0,-66.7,-66.7,-75,10.7,13.1,9.5,25,7.1,10.7,3.6,14.3
+SWD,98000,Southwest Raleigh,Southwest,Murder,2,2,2,2,2,1,3,4,1,3,0,1,1,4,1.3,-100,0,NA,-23,1,3.1,4.1,1,3.1,0,1,1.3
+NA,NA,NA,UNK,Murder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
