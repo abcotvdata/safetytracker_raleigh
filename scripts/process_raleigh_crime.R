@@ -45,6 +45,9 @@ raleigh_crime$type <- case_when(raleigh_crime$crime_code=="11" ~ "Violent",
                                 raleigh_crime$crime_code=="40A" ~ "Property",
                                 TRUE ~ "Other/Unknown")
 
+#remove weird anomaly date 12/03/2025
+raleigh_crime <- raleigh_crime %>% filter(date<max(raleigh_crime$date))
+
 # select and rename columns
 raleigh_crime <- raleigh_crime %>% select(1,3,4,6:9,16:24)
 raleigh_crime <- raleigh_crime %>% rename("description"="crime_description")
