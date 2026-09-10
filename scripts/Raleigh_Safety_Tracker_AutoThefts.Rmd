@@ -366,7 +366,7 @@ raleigh_autotheft_map <- leaflet(autothefts_district, options = leafletOptions(z
 L.control.zoom({ position: 'topright' }).addTo(this)
 }") %>%
   setView(-78.65, 35.79, zoom = 11.5) %>% 
-  addProviderTiles(provider = "CartoDB.Positron") %>%
+  addTiles(urlTemplate = "https://pmtiles-raster.launch.studioshare.wds.io/styles/white-abc/{z}/{x}/{y}.png") %>%
   addPolygons(color = "white", 
               popup = autotheftlabel,
               popupOptions = popupOptions(maxWidth ="200", 
